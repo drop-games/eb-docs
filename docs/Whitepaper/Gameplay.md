@@ -4,14 +4,18 @@ sidebar_position: 2
 
 # Gameplay
 
-## Core concept
+## Core gameplay
 
-Hyperblade = Blade Symphony with NFTs
+_
+Copy paste HB GDD
+_
 
-<!-- Dis a joke chill the fuck out -->
+You fight with swords n all of that
 
-Hyperblade was concieved in 2019 as the Project Blade, inspired heavily by the likes of this and that
+## Mechanics
 
-You fight opponenets with swords and earn monies that you can spend on NFTs n shit
+## Style
 
-This is a cool game because its on Unreal 5 and
+## Story
+
+This dude Max from earth slays all of them bitches
