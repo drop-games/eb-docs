@@ -4,16 +4,16 @@ sidebar_position: 1
 
 # Introduction
 
-Hyperblade is - core concept, core gameplay, explaning basic shit TLDR, one full page cca 3 paragraphs include the buzzwords
-Game - gameplay, story, mechanics, controls, stages, weapons, customization
+Hyperblade is - core concept, core gameplay, explaning basic shit (TLDR), one full page cca 3 paragraphs include the buzzwords, some custom made visuals
+Game - gameplay, story, mechanics, controls, stages, weapons, customization (images with different customizations on character model, incl variants)
 Blockchain & Economy - Drop Games -> Drop DAO, player ownership, $SPR, NFT, complex economy, security, accessibility, unblockable. revenue model
 Technical part - how the game is built, UE5, contracts, risks,
-ROadmap - the plan, stages, release dates
+Roadmap - the plan, stages, release dates,
 Drop DAO - drop games, the team, governance is already in blockchain & econony
 
-Cool shit - Gambling (token & nft), Self-hosted tourneys
+Cool shit - Gambling (token & nft), Self-hosted tourneys, Launcher, Store,
 
-Buzzwords: UE5, Free-to-Play, Cross-play & Cross-Platform, Blockchain, Ethereum, Level 2, Token, NFT, DAO
+Buzzwords: UE5, Free-to-Play, Cross-play & Cross-Platform, Mobile, Blockchain, Ethereum, Level 2, Token, NFT, DAO, open source, divine intellect
 
 ## Core concept
 
@@ -25,7 +25,7 @@ Hyperblade was concieved in 2019 as the Project Blade, inspired heavily by the l
 
 You fight opponenets with swords and earn monies that you can spend on NFTs n shit, players own their NFTS and are able to do anything with em.
 
-This is a cool game because its on Unreal 5 and its free-to-play and will be opensource with fucking blockchain and NFT. Divine intellect
+This is a cool game because its on Unreal 5 and its free-to-play and will be opensource with fucking blockchain and NFT.
 
 Connect with your metamask account, download the game **_Duel to earn_**
 
@@ -39,7 +39,7 @@ All of this shit is on Layer 2 of Ethereum blockchain providing fast and painles
 
 NFTs are ERC-1155, semifungible (think of Pokémon Charizard card), could be a part of a collection. Drop DAO NFT standart allows players to import Hyperblade NFTs into other games and vice versa, as well as NFTs having different styling versions (TBA), _what about ability to buy support for your NFT in different game?_
 
-NFTs can have generated variants based on them, like for example a helmet can have color variations, different types of horns and ornaments, how weared they are, all based on the generated signature (0x)
+NFTs can have (hash) generated variants based on them, like for example a helmet can have color variations, different types of horns and ornaments, how weared they are, all based on the generated signature (0x), think CSGO
 
 Spacerock $SPR governance token, earned by staking/playing/NFT trade/completing tasks in Hypergraph.
 
