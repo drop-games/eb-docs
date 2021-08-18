@@ -5,11 +5,11 @@ sidebar_position: 1
 # Introduction
 
 Hyperblade is - core concept, core gameplay, explaning basic shit (TLDR), one full page cca 3 paragraphs include the buzzwords, some custom made visuals
-Game - gameplay, story, mechanics, controls, art style (hydrant) stages, weapons, customization (images with different customizations on character model, incl variants)
-Blockchain & Economy - Drop Games -> Drop DAO, player ownership, $SPR, NFT, complex economy, security, accessibility, unblockable. revenue model
+Game - gameplay, story, mechanics, controls, art style (hydrant) stages, weapons, customization (images with different customizations on character model, incl variants), list/link roadmap topics
+Blockchain & Economy - Drop Games -> Drop DAO, player ownership, $SPR (how to earn, what to do w it), NFT, complex economy, security, accessibility, unblockable. revenue model (burning shit),
 Technical part - how the game is built, UE5, contracts, risks,
-Roadmap - the plan, stages, release dates,
-Drop DAO - drop games, the team, governance is already in blockchain & econony
+Roadmap - the plan, stages, release dates, future/ideas -> game modes & social shit (dojos?), single player & campaign, more user created stuff like arenas etc. Path to decentralization
+Drop DAO - drop games, the team, governance is already in blockchain & economy, HYPERGRAPH (HB turned into components)
 
 Cool shit - Gambling (token & nft), Self-hosted tourneys, Launcher, Store,
 
@@ -37,7 +37,7 @@ The point of this game is for players to enjoy the gameplay, posibiliries to ear
 
 Blockchain game is not only about having NFTs, but also about the game being deterministic because of the blockchain as well as allowing everything to be
 
-NFTs on L2 exchange (not Immutable X cause its shit), created by Drop DAO and creators. Trade on any exchange, including Drop Marketplace (for Tim: this shit should be eazy af)
+NFTs on L2 exchange (not Immutable X cause its shit), created by Drop DAO and creators. Trade on any exchange, including Drop Marketplace (for Tim: this shit should be eazy af). Drop Treasury receives portion from all sales in the ecosystem
 
 All of this shit is on Layer 2 of Ethereum blockchain providing fast and painless way to interact with blockchain. Fast, cheap, easy, secure.
 

@@ -28,6 +28,8 @@ Breedable (not in the retarded Cryptokitties way lmao)! Spend guap to breed them
 Use on any character, have different randomly generated characteristics features etc (CSGO)
 Collectible shit
 Different combos/animations needed -> swords vs hammers. i.e Drop DAO would create tasks for new shit and then it becomes an option to select this type on sword creation.
+Melt swords? (burning the NFT)
+Each sword has history (wins n shit)
 
 ### Armor & Character Accessories
 
