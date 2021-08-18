@@ -16,7 +16,7 @@ HB TODO (unordered):
 
 Game:
 Finish the switch to UE5
-Redo art in new unified style
+Redo art in new unified style (hydrant)
 New Player models -> customization (NFT)
 Universal NFTs = swords, UI, more bullshit
 Arenas
@@ -37,6 +37,7 @@ NFT Store
 NFT creating platform
 Gambling
 Integrate $SPR on exchanges
+DETERMINISTIC
 
 Websites - HB, DROP DAO, $SPR tracking
 Whitepaper HB

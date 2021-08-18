@@ -5,7 +5,7 @@ sidebar_position: 1
 # Introduction
 
 Hyperblade is - core concept, core gameplay, explaning basic shit (TLDR), one full page cca 3 paragraphs include the buzzwords, some custom made visuals
-Game - gameplay, story, mechanics, controls, stages, weapons, customization (images with different customizations on character model, incl variants)
+Game - gameplay, story, mechanics, controls, art style (hydrant) stages, weapons, customization (images with different customizations on character model, incl variants)
 Blockchain & Economy - Drop Games -> Drop DAO, player ownership, $SPR, NFT, complex economy, security, accessibility, unblockable. revenue model
 Technical part - how the game is built, UE5, contracts, risks,
 Roadmap - the plan, stages, release dates,
@@ -13,7 +13,9 @@ Drop DAO - drop games, the team, governance is already in blockchain & econony
 
 Cool shit - Gambling (token & nft), Self-hosted tourneys, Launcher, Store,
 
-Buzzwords: UE5, Free-to-Play, Cross-play & Cross-Platform, Mobile, Blockchain, Ethereum, Level 2, Token, NFT, DAO, open source, divine intellect
+Buzzwords: UE5, Free-to-Play, Cross-play & Cross-Platform, Mobile, Blockchain, Ethereum, Level 2, Token, NFT, DAO, open source, divine intellect, stylized
+
+Experimental: deterministic gameplay (blockchain verified), switch from client<->server to client<->blockchain(incl server)
 
 ## Core concept
 
@@ -33,7 +35,9 @@ The point of this game is for players to enjoy the gameplay, posibiliries to ear
 
 ## Blockchain
 
-NFTs thru Immutable X, created by Drop DAO and creators. Trade on any exchange, including Drop Marketplace (for Tim: this shit should be eazy af)
+Blockchain game is not only about having NFTs, but also about the game being deterministic because of the blockchain as well as allowing everything to be
+
+NFTs on L2 exchange (not Immutable X cause its shit), created by Drop DAO and creators. Trade on any exchange, including Drop Marketplace (for Tim: this shit should be eazy af)
 
 All of this shit is on Layer 2 of Ethereum blockchain providing fast and painless way to interact with blockchain. Fast, cheap, easy, secure.
 
