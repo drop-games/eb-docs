@@ -31,7 +31,7 @@ Blockchain:
 Write & Verify new smart contracts
 Wallet integration
 Figure out tokenomics -> yieldf, staking, pools etc
-DROP DAO, vesting schedules
+DROP DAO, allocation of token, treasury, vesting schedules
 Player empowerments thru the DAO
 NFT Store
 NFT creating platform

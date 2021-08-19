@@ -4,24 +4,13 @@ sidebar_position: 1
 
 # Introduction
 
-Hyperblade is - core concept, core gameplay, explaning basic shit (TLDR), one full page cca 3 paragraphs include the buzzwords, some custom made visuals
-Game - gameplay, story, mechanics, controls, art style (hydrant) stages, weapons, customization (images with different customizations on character model, incl variants), list/link roadmap topics
-Blockchain & Economy - Drop Games -> Drop DAO, player ownership, $SPR (how to earn, what to do w it), NFT, complex economy, security, accessibility, unblockable. revenue model (burning shit),
-Technical part - how the game is built, UE5, contracts, risks,
-Roadmap - the plan, stages, release dates, future/ideas -> game modes & social shit (dojos?), single player & campaign, more user created stuff like arenas etc. Path to decentralization
-Drop DAO - drop games, the team, governance is already in blockchain & economy, HYPERGRAPH (HB turned into components)
-
-Cool shit - Gambling (token & nft), Self-hosted tourneys, Launcher, Store,
-
-Buzzwords: UE5, Free-to-Play, Cross-play & Cross-Platform, Mobile, Blockchain, Ethereum, Level 2, Token, NFT, DAO, open source, divine intellect, stylized
-
-Experimental: deterministic gameplay (blockchain verified), switch from client<->server to client<->blockchain(incl server)
+Hyperblade is this and that, developed by us, and it will be the best
 
 ## Core concept
 
 Hyperblade = Blade Symphony with NFTs
 
-<!-- Dis a joke chill the fuck out -->
+Game First. Everything else is built as an infrastructure around it. Game must be fun to play. Game must be playable.
 
 Hyperblade was concieved in 2019 as the Project Blade, inspired heavily by the likes of this and that
 
@@ -31,9 +20,11 @@ This is a cool game because its on Unreal 5 and its free-to-play and will be ope
 
 Connect with your metamask account, download the game **_Duel to earn_**
 
-The point of this game is for players to enjoy the gameplay, posibiliries to earn shjould be always secondary.
+The point of this game is for players to enjoy the gameplay, posibiliries to earn are just as important for the sake of us getting rich.
 
 ## Blockchain
+
+True blockchain gaming is the culmination of **Achievements/Item Ownership/User driven developement** trends withing gamedev of the last 15 years, along with **Decentralization/Permisionlessness/Determinism** of the blockchain
 
 Blockchain game is not only about having NFTs, but also about the game being deterministic because of the blockchain as well as allowing everything to be
 
@@ -45,11 +36,34 @@ NFTs are ERC-1155, semifungible (think of Pokémon Charizard card), could be a p
 
 NFTs can have (hash) generated variants based on them, like for example a helmet can have color variations, different types of horns and ornaments, how weared they are, all based on the generated signature (0x), think CSGO
 
-Spacerock $SPR governance token, earned by staking/playing/NFT trade/completing tasks in Hypergraph.
+Spacerock $SPR governance token, earned by staking/playing/NFT trade/completing tasks in Hypergraph. Keep your shit staked for set periods of time to earn even more $$$ (or even nfts!), LIST MORE INCENTIVES FOR PRICE TO MOON
 
-Decentralized game with it's own universe, we aim for the players and creators to become the owners of the platform itself. Tokenholders will be able to participate in voting/creating tasks/get a revenue share
+Decentralized game with it's own universe, we aim for the players and creators to become the owners of the platform itself. Tokenholders will be able to participate in voting/creating tasks/get a revenue share (coming primary from sales fees/nft creation fees/yield farming/classic revenue stream)
 
 Tokens are released in accordance with the schedule, promoting player-base ownership and decentralization.
 
+Play to earn (how to get token), which incentivises players to play lol:
+duel to earn
+scheduled tourneys
+participating in stuff like - voting (gov and NFT)
+rewards for minting/creating NFT
+reimbursing marketplace fees
+
 In the near future, Drop DAO will be fully self managed as it should be all through Hypergraph.
 Hypergraph is Drop's bleeding edge free-for-all project management platform, where tasks are linked in nodes. Earn $SPR by completing tasks (via Drop DAO)
+
+Token Allocation & Release schedule:
+
+1. DROP DAO Treasury
+2. DROP Games (Drop corporation)
+3. Market Sale (whether private/public)
+4. Some mfers (advisors?)
+
+Drop DAO allocates $SPR for:
+
+1. Internal HB Economy
+2. Token economy
+
+x. Third party incentives (voted in by DAO)
+
+## Roadmap
