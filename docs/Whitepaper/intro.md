@@ -26,13 +26,21 @@ The point of this game is for players to enjoy the gameplay, posibiliries to ear
 
 True blockchain gaming is the culmination of **Achievements/Item Ownership/User driven developement** trends withing gamedev of the last 15 years, along with **Decentralization/Permisionlessness/Determinism** of the blockchain
 
-Blockchain game is not only about having NFTs, but also about the game being deterministic because of the blockchain as well as allowing everything to be
+Blockchain game is not only about having NFTs, but also about the game being deterministic because of the blockchain as well as allowing everything to be fair and safe
 
-NFTs on L2 exchange (not Immutable X cause its shit), created by Drop DAO and creators. Trade on any exchange, including Drop Marketplace (for Tim: this shit should be eazy af). Drop Treasury receives portion from all sales in the ecosystem
+NFTs on L2 exchange _(not Immutable X cause its shit)_, created by Drop DAO and creators. Trade on any exchange, including Drop Marketplace _(for Tim: this shit should be eazy af)_. Drop Treasury receives portion from all sales in the ecosystem
 
 All of this shit is on Layer 2 of Ethereum blockchain providing fast and painless way to interact with blockchain. Fast, cheap, easy, secure.
 
 NFTs are ERC-1155, semifungible (think of Pokémon Charizard card), could be a part of a collection. Drop DAO NFT standart allows players to import Hyperblade NFTs into other games and vice versa, as well as NFTs having different styling versions (TBA), _what about ability to buy support for your NFT in different game?_
+
+NFTs will not be gameplay affecting (for the sake of balance), but can accrue history or new parameters as the player uses it ingame
+
+NFTs (and $SPR) can be burned and gambled. Play for items with other players when you duel, or bet on other players games.
+
+_sending a token to the zero address will burn ANY token there is afaik_
+
+During the Drop Games HyperBlade custody period it will be Drop Games releasing NFTs in a conservative and sustainable manner, later on community NFTs will be voted in by the DAO/governing mechanism. DG will be selling those NFTs to bring early revenue/establish NFT standarts/for the purpose of lore building
 
 NFTs can have (hash) generated variants based on them, like for example a helmet can have color variations, different types of horns and ornaments, how weared they are, all based on the generated signature (0x), think CSGO
 
@@ -65,5 +73,12 @@ Drop DAO allocates $SPR for:
 2. Token economy
 
 x. Third party incentives (voted in by DAO)
+
+**Voting:**
+Initally it's Drop Games calling all the shots, later the community will take the rule through the DAO
+HOWEVER - it's actual players who should be guiding where the game goes gameplay-wise, since it's them who play the game
+Voting on NFTs can involve $SPR holders
+
+Quadratic voting with delegation is the preferred way of voting
 
 ## Roadmap

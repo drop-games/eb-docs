@@ -10,7 +10,7 @@ Hyperblade is - core concept, core gameplay, explaning basic shit (TLDR), one fu
 
 Game - gameplay, story, mechanics, controls, art style (hydrant), stages, weapons, customization (images with different customizations on character model, incl variants), list/link roadmap topics
 
-Blockchain & Economy - Drop Games -> Drop DAO, player ownership, $SPR - how to earn, what to do w it - yield/staking pool, voting, buying shit, token economy, NFT - types , security, accessibility, unblockable. revenue model (burning shit), allocation & vesting,
+Blockchain & Economy - Drop Games -> Drop DAO; player ownership; $SPR - how to earn, what to do w it - yield/staking pool, buying shit, token economy; voting - gameplay -> PLAYERS vote; NFT - types; security; accessibility; unblockable. revenue model (burning shit); allocation & vesting;
 
 Technical part - how the game is built, UE5, contracts, risks,
 
@@ -24,4 +24,4 @@ Cool shit - Gambling (token & nft), Self-hosted tourneys, Launcher, Store, third
 
 Buzzwords: UE5, Free-to-Play, Cross-play & Cross-Platform, Mobile, Blockchain, Ethereum, Level 2, Token, NFT, DAO, open source, divine intellect, stylized
 
-Experimental: deterministic gameplay (blockchain verified), switch from client<->server to client<->blockchain(incl server)
+Experimental: deterministic gameplay (blockchain verified), switch from client<->server to client<->blockchain(road to serverless)

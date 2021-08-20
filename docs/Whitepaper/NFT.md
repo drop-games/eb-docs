@@ -43,6 +43,12 @@ Couldd be only visual/vanity (doesn't have to be gameplay affecting)
 
 Shit like banners, UI, essentially useless vanity shit that should tell everybody how cool you are
 
+Custom Map skins as NFT
+
+### Dojo
+
+NFT real estate, very limited, decorate with HB NFTs (Armory & Sword collection), as well as with your own non-HB NFTs - jpeg paintings etc., these can be lent to/from other people. Expand by paying hefty $$ or winning games. Invite other people to visit, if the space allows you can bring in other people to visit
+
 ## NFT Collections & Themes
 
 Items are often for the sake of consistency pooled together in a collection, which is a series of itmes that share common style/properties. It is possible for one item to be a part of multiple collections. Sell the whole collection to get more profit? (remember in Morrowind when you were missing just one cauldron from the whole set?)
