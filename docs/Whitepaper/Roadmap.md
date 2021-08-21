@@ -4,6 +4,8 @@ sidebar_position: 6
 
 # Roadmap
 
+## History (current state)
+
 Hyperblade is the first project of Drop Games/Drop DAO
 
 Drop Games Inc., was founded in August 2019 in New York by **Tim** & **Theo**.
@@ -39,5 +41,5 @@ Gambling
 Integrate $SPR on exchanges
 DETERMINISTIC
 
-Websites - HB, DROP DAO, $SPR tracking
+Websites - HB DAO, DROP DAO, $SPR tracking (include token allocation)
 Whitepaper HB

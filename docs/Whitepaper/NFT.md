@@ -4,13 +4,15 @@ sidebar_position: 5
 
 # NFTs
 
-Spacerocks can be used to purchase NFTs, players own the NFTs they have and they are able to do anything with them, even use them in different games
+NFTs in HyperBlade
 
 Hyperblade NFTs are both non-fungible and semi-fungible (following ERC-1155 specification), where there is still a limited number of items available for purchase
 
+Spacerocks can be used to purchase NFTs, players own the NFTs they have and they are able to do anything with them, even use them in different games
+
 ### Drop Games Designed NFTs
 
-are the shit
+First NFTs in HyperBlade are designed by the Drop Games, those will set the standards on how the NFTs should look and play like. Our NFTs will be scarce and rare.
 
 ### Community Designed NFTs
 
