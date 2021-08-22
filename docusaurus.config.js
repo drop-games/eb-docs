@@ -4,7 +4,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
   title: "Hyperblade",
-  tagline: "Duel for ETH.",
+  tagline: "Duel To Earn",
   url: "https://docs.playhyperblade.com",
   baseUrl: "/",
   onBrokenLinks: "throw",
