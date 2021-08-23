@@ -19,7 +19,10 @@ write this the last
 gameplay; story; mechanics; controls (+mobile); art style (hydrant) (+ ost optionally); stages; weapons types; customization (images with different customizations on character model, incl variants); esports ready; list/link roadmap topics
 
 **Blockchain & Economy** \
-HyperBlade DAO; player ownership; $SPR - how to earn; what to do w it - yield/staking pool/lending, buying shit, token economy, voting (basic); ELO token; Reasoning NFT; voting for NFTs; revenue model (include burning tokens); allocation & vesting; capital required to play (initially); game is not P2W bokken kendo
+HyperBlade DAO basics; player ownership; $SPR - how to earn; what to do w it - yield/staking pool/lending, buying shit, token economy, ; Reasoning NFT; voting for NFTs; revenue model (include burning tokens); allocation & vesting, rounds of raising capital (pre-seed, seed, limited release, steady release, minting?) capital required to play (initially); game is not P2W bokken kendo
+
+**Governance**
+HB DAO; voting; ELO token (this will go into a proposal); council? (based on 7 quadratically voted in members); period of reign; issues to vote on; supermajority; specific cases (members leaving, coercion, other); rewards for the servicel Drop DAO intervention (DG is the first executioner); player's voice & $SRP hodlers voice;
 
 **NFT** \
 Detailed explanation of NFTs; Drop Games NFTs; Community created NFTs; NFT types - Swords, Armor, Other, real estate; NFT Themes & Collections;
@@ -57,7 +60,7 @@ deterministic gameplay (blockchain verified); switch from client<->server to cli
 **Maths** \
 Token issuance curve ($SPR & ELO); token allocation & vesting curves; planned inflation; market fees curve; DAO profit sharing; DAO voting
 
-Active player curves:
+<!-- Active player curves:
 
 a = [(0,0),(1,1000),(2,2200),(3,2500),(4,3000),(5,4000),(6,3500),(7,3200),(8,4800),(9,6500),(10,7500),(11,7700),(12,7000),(14,6800),(18,26600),(20,30000),(22,32000),(24,28000),(26,26000),(28,40000),(30,20000),(32,15000),(34,11000),(36,12000)]
 
@@ -65,4 +68,4 @@ $$
 \left(\frac{-3x^{3/2}}{x^{-1/3}}\right)^{3}
 $$
 
-Let $f:[a,b] \to \R$ be Riemann integrable. Let $F:[a,b]\to\R$ be $F(x)=\int_{a}^{x}f(t)dt$. Then $$F$$ is continuous, and at all $x$ such that $f$ is continuous at $x$, $F$ is differentiable at $x$ with $F'(x)=f(x)$.
+Let $f:[a,b] \to \R$ be Riemann integrable. Let $F:[a,b]\to\R$ be $F(x)=\int_{a}^{x}f(t)dt$. Then $$F$$ is continuous, and at all $x$ such that $f$ is continuous at $x$, $F$ is differentiable at $x$ with $F'(x)=f(x)$. -->

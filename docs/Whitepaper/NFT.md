@@ -10,6 +10,10 @@ Hyperblade NFTs are both non-fungible and semi-fungible (following ERC-1155 spec
 
 Spacerocks can be used to purchase NFTs, players own the NFTs they have and they are able to do anything with them, even use them in different games
 
+HB NFTs are always playable in the game, but also viewable outside of the game, with our push for total decentralization NFTs will be stored (stored as in, not just hash/metadata, but the model and such) on decentralized platforms such as IPFS.
+
+Permanent NFTs, cwrtain nfts can be tied (welded!) to other NFT by burning it, think you can buy lighting aura for your sword (it could be multipe types of items) and then permanently attach them to that NFT. This can essentially change the aimed NFT, accessory can be removed using a 'plain NFT'?. Modified NFTs aim to have a different price building structure.:wa:
+
 ### Drop Games Designed NFTs
 
 First NFTs in HyperBlade are designed by the Drop Games, those will set the standards on how the NFTs should look and play like. Our NFTs will be scarce and rare.
@@ -21,6 +25,8 @@ Creators design NFTs, community votes for them using $SPR. If the item is voted 
 Tim's idea: you vote for something and you get share from the sales. Voters should be insentivized to choose good shit, and not just anything for the sake of it. Balance between quantity of this sNFT and quality
 
 ## NFT Types
+
+There are various types of NFT availible inside and outside of the game
 
 ### Swords
 

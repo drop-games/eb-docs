@@ -45,7 +45,7 @@ while in the closed beta you have to buy your way in to play the game, thus gett
 
 Later on Free-to-Play
 
-## Voting & ELO token
+## Voting & ELO token _(yeah Tim, this will be better for HIP)_
 
 Kicks in later with full Hyperblade DAO adoption, playerz only. Populares
 
