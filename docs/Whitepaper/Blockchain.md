@@ -47,6 +47,41 @@ Later on Free-to-Play
 
 ## Voting & ELO token
 
+Kicks in later with full Hyperblade DAO adoption, playerz only. Populares
+
+Earn this token by playing the game and winning over players, classic ELO scoring system. Easy to understand for players coming from other games. (Winning over better players gives you more $ELO than over lower ranked opponents).
+
+$ELO is always tied to players account/blockchain address.
+
+Players will vote only on gameplay affecting decision (balance, etc), quadratic voting with delegation. Delegate (you can pick your favorite player on the leaderboard),
+
+whoever can propose the change, the change will be added as a task to the DAO system, price will be set like in Gitcoin DAO, and covered by Hyperblade treasury, it should rise if nobody is taking/completing the task. After verifying the completion and validity (should reviewers be staking their $SPR token?) reward will be released from the escrow account.
+
+_Who will be deciding on new content? $SPR or $ELO (i lean towards $SPR) players will dgaf about the cost of the implementation of their desired changes, and it won't be them paying out the bounties/rewards, as it will come out of the treasury-_
+
+Vote and you will roll for an NFT (doesn't matter if delegated or not), you got to open your lootbox or it won't be activated
+This roll will be based on your $ELO balance (not the tokens you were given delegation of), this gives top players way to earn even more as they can resell the NFTs
+
+Drop Games will hold 200,000 token initially - frozen account, this will allow Drop Games to participate in the game affecting decision for smoother transition to DAO governance.
+
+Every year there will be more token released and divided between current players (ELO system)
+
+Year 0: 0
+
+Year 1: 100,000
+
+Year 2: 200,000
+
+Year 3: 300,000
+
+Year 4: 400,000
+
+Year 5: 500,000
+
+Year 6: 600,000
+
+And so on
+
 ## Regarding Pay-to-Win
 
 Hyperblade will always be accessible and fair to everyone irregards to how much capital they invested in.
