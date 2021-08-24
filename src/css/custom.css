@@ -24,10 +24,11 @@
   padding: 0 var(--ifm-pre-padding);
 }
 
+html[data-theme="dark"] .docusaurus-highlight-code-line {
   background-color: rgba(255, 0, 0, 0.3);
 }
 
-#__docusaurus {
+html[data-theme="dark"] #__docusaurus {
   background: rgb(235, 23, 23);
   background: linear-gradient(
     60deg,
@@ -38,16 +39,21 @@
   );
 }
 
-#__docusaurus > div.main-wrapper.docs-wrapper.doc-page > div > aside > div {
+html[data-theme="dark"]
+  #__docusaurus
+  > div.main-wrapper.docs-wrapper.doc-page
+  > div
+  > aside
+  > div {
   background-color: rgba(255, 255, 255, 0.06);
 }
 
-.navbar {
+html[data-theme="dark"] .navbar {
   background-color: rgba(24, 9, 38, 1);
   border-bottom: 1px solid rgb(112 118 127);
 }
 
-.footer {
+html[data-theme="dark"] .footer {
   background-color: rgb(207, 69, 106);
   border-top: 1px solid rgb(112 118 127);
 }
