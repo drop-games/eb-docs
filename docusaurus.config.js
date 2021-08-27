@@ -81,7 +81,7 @@ module.exports = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} Hyperblade, Drop Games DAO.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Hyperblade DAO`,
     },
     prism: {
       theme: lightCodeTheme,

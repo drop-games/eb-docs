@@ -8,13 +8,15 @@ Hyperblade is this and that, developed by us, and it will be the best
 
 ## Core concept
 
+Duel to Earn
+Community owned, DAO governance, players are involved in governance and receive a share from the earnings (they duel to earn, then stake their tokens)
 Hyperblade = Blade Symphony with NFTs
 
 Game First. Everything else is built as an infrastructure around it. Game must be fun to play. Game must be playable and accessible.
 
-Hyperblade was concieved in 2019 as the Project Blade, inspired heavily by the likes of this and that
-
 You fight opponenets with swords and earn monies that you can spend on NFTs n shit, players own their NFTS and are able to do anything with em.
+
+Hyperblade was concieved in 2019 as the Project Blade, inspired heavily by the likes of this and that
 
 This is a cool game because its on Unreal 5 and its free-to-play and will be opensource with fucking blockchain and NFT.
 
