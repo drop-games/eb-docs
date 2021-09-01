@@ -7,20 +7,18 @@ sidebar_position: 0
 **To be deprecated; this is literally just a list of what should go to each page (+TLDR in intro)**
 
 **Hyperblade is**  
-_Intro (~one paragraph)_
+_Intro (cca one paragraph)_
 
 core concept (tiny bit of story); core gameplay; explaning basics (TLDR); why blockchain; one full page cca 3 paragraphs; include some buzzwords; some custom made visuals
 
 you should get understand what this WP is about
 
-write this the last
-
 **Game**  
 _Explanation for someone who WILL play the game_
 Story details  
+Game setting
 Core gameplay mechanics - fighting, controls (mobile friendly), stances, weapon types, character archetypes
 Swordplay - Directionality, parries & block, attack types, ragdoll, other stuff
-Game setting
 Visual theme (hydrant) (arena locations will go here)
 Sword & Character customization (images with different customizations on character model, incl variants  
 esports ready and why it's importnant  

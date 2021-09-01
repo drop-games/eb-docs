@@ -4,9 +4,27 @@ sidebar_position: 1
 
 # Introduction
 
-Hyperblade is this and that, developed by us, and it will be the best
+Hyperblade is the first game that is connecting real gamers and the world of blockchain.
+
+The development started in 2019 as the 'Project Blade' and, right from the beginning the goal was to create a game with super low entry barrier, yet amazing replayablity and competitive edge to it. Blockchain brought a big twist on how the game is being made, as well as the fact that players can now be empowered to have a say and stake in the game they play. Right now (September 2021), the game is in it's alpha stage with full release being scheduled for 2022.
 
 ## Core concept
+
+We are on the verge of disruptiong the gaming/tech industry and here is how we are going to do it:
+
+Hyperblade is a competitive free-to-play sword fighting game designed with e-sports and cross-play in mind as well as a tool for the players to earn real life income simply by playing the game they like.
+
+But we are not developing only a game, Hyperblade is a whole new ecosystem built around the idea that games are just a source of revenue for the developers. We took a whole new approach of putting together decentralization and openness of blockchain and a game that will be actually fun to play. The govenance is done through a a Hyperblade DAO, a decentralized autonomous organization and all revenues are split between the holders of the Spacerock ($SPR) token. By doing all of this and giving up the rights for the game to a DAO, we want to ensure our players that it's them who matter the most.
+
+Spacerock is the basis of the complex economy that Hyperblade is the cornerstone of. Players earn Spacerock by directly playing the game, participating in DAO voting, or staking the token in a pool (and providing liquidity to the token, making it valuable outside of the HB ecosystem). Token holders will receive a share of revenues coming from the token usage, meaning sales on Hyperblade marketplace, fees from NFT resales, and other. Hyperblade marketplace is the way creatives can participate in building Hyperblade unierse and earning income for the NFTs they make and players buy. Our goal is to make Hyperblade DAO self-suficient and managed by people who love the project and want it succeed as much as we do. By building a whole ecosystem that includes an easy fiat on/off-ramp, peer-to-peer marketplace, earning platform, creative suite, and e-sports $platform$ and more we want to reach to as many people as we can, showing them that gaming can be done differently now, and players are not only the consumers anymore, they are they one in charge now.
+
+## The Game
+
+Hyperblade is situated in a new fantasy universe that combines our world with a sci-fi fantasy universe, featuring a completely original and compelling narrative, with tons of world-building, revolving around martial arts and melee weapons.
+
+A g
+
+The game itself is a third-person fighter, where the players are dueling with various melee weapons ranging from katana-like swords to warhammers and alebards, the dynamics of the game can be compared to the likes of Tekken, Mortal Kombat or Super Smash Bros. The inputs are precise and allow for competitve battles that require true skill to be the among the best, but at the same time the controls are simple enough that even when the game will be available on other platforms than PC, console and mobile players won't feel any disadvantage versus the mouse and keyboard players. Skill and knowledge of the game are the only things that give one player the edge of his opponents. All of this, as well as blockchain integration will allow Hyperblade to be the top esports game in no time.
 
 Duel to Earn
 Community owned, DAO governance, players are involved in governance and receive a share from the earnings (they duel to earn, then stake their tokens)
@@ -125,4 +143,4 @@ Well do tons of good shit over the time
 
 Enter the game
 
-At first (semi-closed game), there should be some capital reuquirement to play the game, which should be eventually lowered or abolished (after all we want to have a game thats accessible to all)
+At first (semi-closed game), there should be some capital reuquirement to play the game, which should be eventually lowered or abolished (after all we want to have a game thats accessible for all)
