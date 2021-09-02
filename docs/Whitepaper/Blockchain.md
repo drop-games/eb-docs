@@ -13,6 +13,8 @@ In 2021 it became obvious that the proper way to manage Hyperblade and subsequen
 
 Other than that, Hyperblade's NFT structure strongly involves both the creators and the actual playerbase. See more in the NFT section
 
+This path relies on: community control over the ecosystem and economy, planned/transparent issuance, free-for-all participation even in creation and development, forks (new projects/mods), project lifecycle not ending with company closing the project (as long as there are people participating, the project will live), meritocracy for creators/developers, player-empowerment, resistance to censorship.
+
 ## Space Rock $SPR
 
 Total possible supply: 10,000,000
