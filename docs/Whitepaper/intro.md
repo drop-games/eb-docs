@@ -4,54 +4,66 @@ sidebar_position: 1
 
 # Introduction
 
-_Duel to Earn._
+## Hyperblade
+
+<Quote fontSize="1.3rem">Duel to Earn</Quote>
+
+---
 
 **Hyperblade** is the first game that is connecting real gamers and the world of blockchain.
 
-The development started in 2019 as the _'Project Blade'_ and, right from the beginning the goal was to create a game with a super low entry barrier, amazing replayablity and competitive edge. Blockchain brought a big twist on how the game is being made, as well as the fact that players can now be empowered to have a say and stake in the game they play. Right now (September 2021), the game is in it's alpha stage with full release being scheduled for 2022.
+The development started in 2019 as the _'Project Blade,'_ and from Day 1 our goal was to create a game with a super low entry barrier, amazing replayablity and competitive edge. Blockchain brought a big twist on how the game is being made, as well as the fact that players can now be empowered to have a say and stake in the game they play. As of today (September 2021) the game is in it's alpha stage with full release scheduled for 2022.
 
 ## Core concept
 
-We are on the verge of disruptiong the gaming/tech industry and here is how we are going to do it:
-
 _
-**Hyperblade** is a competitive free-to-play sword fighting game designed with e-sports and cross-play in mind as well as a way for the players to get real life income by playing the game they genuinely like.
+**Hyperblade** is a competitive free-to-play sword fighting game, as well as a way for players to get real life income by playing the game they like.
 _
 
-But we are not developing only a game, Hyperblade is a whole new ecosystem built around the idea that players are much more than just a source of revenue. We took a whole new approach of putting together decentralization and openness of blockchain and a game that will be actually fun to play. The governance is being done through **Hyperblade DAO**, a decentralized autonomous organizationm, and all revenues are split between the holders of the **Spacerock** **($SPR)** token. By doing all of this, and giving up the rights for the game to a DAO, we want to change how community can be involved in the creation of bleeding-edge tech projects like Hyperblade.
+But we are not developing only a game, Hyperblade is a whole new ecosystem built around the idea that players are much more than just a source of revenue. We took a whole new approach by putting together decentralization and openness of blockchain with a game that is actually fun to play. The organization behind the project is Hyperblade DAO, a decentralized autonomous organization. This is a new type of entity that puts the community in the forefront, _creating incentives and a sound framework for thousands of people to organize without the need for formal roles or hiearchy_[^1].
+
+[^1]: https://medium.com/coinmonks/daos-are-the-next-best-thing-4efaff6662f6
+
+The backbone of **Hyperblade DAO** (and therefore the Hyperblade ecosystem) is **Spacerock** **($SPR)** ERC-20 token. The DAO governance and revenues are all equally shared between the $SPR tokenholders.
 
 ## The Game
 
-**Hyperblade** is situated in a new fantasy universe that combines our world with a sci-fi fantasy universe, featuring a completely original and compelling narrative, with tons of world-building, revolving around martial arts and melee weapons.
+**Hyperblade** is situated in a new fantasy universe that combines our world with the world of sci-fi. The result is an original and compelling narrative revolving around martial arts and melee weapons. We want to make players fans not only of the game, but of the whole Hyperblade universe itself.
 
-A group of erudites called _‘The Architects,’_ who are members of a scientific team belonging to the human race in a state so technologically advanced that their technology is essentially magic, managed to create a whole new universe in a scientific experiment. After analyzing all of the data, what they realize is that the universe they created is the polar opposite or _‘mirror’_ universe to theirs. In shock, they realize that the purpose of the negative universe is to be a vessel for them to be in while they manage to create their own universe and establish their own existence. This means that, at least in the physics world of Hyperblade existence and time essentially works like a loop – one universe creates the other – making it a chain dependency.
+A group of erudites called _‘The Architects’_ has been pushing the progress of the human race for centuries. Now in the distant future, human race is at that point where their technology is basically magic-like. The culmination of Architects' efforts was them synthesizing a new universe in a quantum experiment. After analyzing all of the data, they determine that the universe they created is the polar opposite to their own universe. In shock, they realize that this negative universe is a vessel for them to be in while they got to create their own original universe. This means that in the physics world of Hyperblade, existence and time are in a loop. One universe creates the other, forming a chain dependency.
 
-After their discovery, 'The Architects' setup and guide an entirely new society in the mirror universe to act as a base for the creation of their own universe. The storyline is following a teenager from New York who was by transfered to this world by the forces unknown to him, and him discovering his power and abilities for melee combat in a quest of figuring out what is his role in this society and how he can get back home.
+Architects move to the negative universe and establish there an idealized interplanetary society. Ancient philosophy, honor and martial arts are now an essential part of this space-faring civilization. The storyline is following a teenager from current day New York who was by throwed to this world by the forces unknown to him. He is discovering his power and abilities for melee combat in a quest of figuring out what is his role in this society and how he can get back home.
 
-The game itself is a third-person fighter, where the players are dueling with various melee weapons ranging from katana-like swords to warhammers and halberds, the dynamics of the game can be compared to the likes of _Tekken_, _Mortal Kombat_ or _Super Smash Bros_. The input is precise and allow for competitve battles that require true skill to be the amongst the best, but at the same time controls are simple enough for console and mobile players to not feel any disadvantage fighting with the mouse and keyboard players. Skill and knowledge of the game is how a player the edge over his opponents. All of this, as well as the blockchain integration, makes Hyperblade appealing to the esports crowd.
+The game itself is a third-person fighter where players are dueling each other using various melee weapons ranging from katana swords to warhammers and halberds . The dynamics of the game can be compared to the likes of _Tekken_, _Mortal Kombat_ or _Super Smash Bros_. The simple control scheme makes Hyperblade accessible even for casual gamers. And at the same time, inputs being sharp and precise is what is making the game esports ready. Skill and knowledge of the game is how a player gets an edge over his opponents, pay-to-win is not applicable here.
 
 ## Blockchain
 
-True blockchain gaming is the product of _Free-to-Play/Item Ownership/User driven developement_ gamedev trends of the past 15 years and _Decentralization/Permisionlessness/Determinism_ principles of the blockchain.
+True blockchain gaming is the product of _Free-to-Play/Item Ownership/User driven developement_ trends in gamedev and _Decentralization/Permisionlessness/Determinism_ principles of the blockchain.
 
-However, blockchain gaming is not only about having NFTs and in-game token currency, but also about the game being fair to it's players who can now direct where their game is going.
+We want to change the belief that blockchain gaming is only about having NFTs and a tokenized currency. The value of blockchain gaming is in the ecosystem being fair to it's users who are now able to direct what direction their project is actually going.
 
-**Hyperblade DAO** is the organization of **Spacerock token-holders**, which will include players themselves, developers & creatives, and others who care about the success of the project (irregardless if it's solely for financial gain or enthusiasts wanting to participate in something truly groundbreaking). The initial governance is shared between core developers and seven councilmembers who are voted in (quadratically) by the $SPR tokenholders. This is not the final look of the DAO governance/control, the power should gradually shift to the highly driven community members as this is the way to keep pushing the HB ecosystem forward and for DAO to lead the blockchain gaming sector by example.
+**Hyperblade DAO** is the organization of **Spacerock token-holders**. Those are: players themselves, developers, various creatives, and people who just care about the success of the DAO (or the token). The initial governance is shared between core developers and seven voted-in councilmembers. This is not the final look of the DAO, the power will continue to shift to the most talented and highly driven community members. This time, it is the community that creates the product, and not the other way around.
 
-The cornerstone of Hyperblade's complex economy is **Spacerock ($SPR)** token, issued and managed by Hyperblade DAO. Players earn Spacerock by directly playing the game, trading on the marketplace, or staking the token in a pool (and providing liquidity to the token, making it valuable outside of the HB ecosystem). Token holders will receive a share of revenues coming from the token usage, meaning sales on Hyperblade marketplace, fees from NFT resales, and more. **Hyperblade marketplace** is how creatives can participate in making of the Hyperblade universe and earn from the NFTs they create.
+The cornerstone of Hyperblade's complex economy is **Spacerock ($SPR)** token, issued and managed by Hyperblade DAO. Players earn Spacerock by directly playing the game, trading on the marketplace, or staking the token in a pool (and providing liquidity to the token, making it valuable outside of the HB ecosystem). The token serves two purposes: DAO voting and as a financial insturment. Token holders receive a share of revenues generated from the token usage as well as what they earn by staking. Revenue is coming from sales on Hyperblade marketplace (NFT & DLC), fees from NFT resales, and more.
 
-Today, blockchain gaming means **NFTs**, and NFTs sector is definitely the most exciting industry there is, bringing in enormous revenues and the best creative talent and finally, reaching the mainstream now. The decentralized NFT community is benefiting from it's hunger for progressively more and more advanced tech, where ever-expanding DAOs are building a metaverse that is stronger day-by-day.
-**Hyperblade DAO** is embodiment of this mentality, pushing the tech even further and basically changing what NFTs are.
+**NFTs** were one of the main driving forces behind crypto this year (2021), bringing in enourmous revenues and drawing the best artistic talent. By changing the core concept of digital asset ownership, NFTs managed to show the mainstream what blockchain is truly about. Creatives gained a powerful outlet for their artistry as well as direct access to the profits this generates. For us, NFTs is how artists can participate in the making of Hyperblade by putting their creations in the game directly. Artists first submit their items for a community vote, then DAO approves and sends the best ones to the market. Now that creatives get a fair share from sale of their items, Hyperblade gets virtual museum quality NFTs that are actually usable in game. And usable means not only visible as vanity collectible cards, but items that players equip to battle their foes. _Start with a basic wooden Bokken and rise to the top with something like a Dark-matter Skimitar of Eternal Terror with the amount of 'slays' engraved on the blade._
 
-This will be the first time where a mainstream-ready game will be shipped with a **fully usable NFT ecosystem**. Because the revenues are shared between DAO and the creators, Hyperblade has virtual museum quality NFTs that are actually playable in the game. And playable means not only visible as a vanity collectible card, but literally something that the players equip and use to battle their foes. Items like Golder Skimitar with the amount of 'slays' embeded on the blade or an one-and-only reing champion cape can now be found in collections of players who will grind out the rare NFTs themselves, NFT art collectors and investors or 'professional poker-players' who win their NFTs from defeated opponents and participating in high-stakes tournaments.
-
-What made us go with the blockchain route is the current situation in the gaming industry where players have basically no control over the game they play, as well as no real in-game asset ownership (items can be permanently removed or banned players lose everything they got). The sole cause of this is centralized economy that is fully controlled by the developer coming with only one official point of sale and limited/forbidden item & account resale. What this boils to is an economy that has no price-regulation and infinite/unrestricted asset emission, which in turn can lead to an unexpected inflation and items being now worhtless. Those kind of in-game economies are also tied to one particular game (best case, a franchise), so the items are rendered useless outside of it. Finally, the reality that the game can be simply closed down by the developer/IP owner (which happened to still popular multiplayer titles like _Need for Speed: World_ or _Battlefield Heroes_), shows that players are perceived only as a source of income, and barelly something else.
-
-We mitigated all of the issues listed above by going with blockchain in form of **L2 on Ethereum** and DAO. Real ownership and true item scarcity are now guaranteed by the smart-contract and blockchain integrity. Item-owners are permitted to do anything with their items, even outside of the game ecosystem. In fact, it is in DAO's interest that the players are trading/gambling/staking/leasing their items, as this generates market fees and therefore revenue. Hyperblade's inherit openness leads to greater adoption with more people flocking to see what is going on, creative individuals coming to expand the universe, and talented developers building interesting third party tools, possibly even forking the game.
-
-Our goal is to make Hyperblade DAO self-sufficient and managed by people who love the project and want it succeed as much as we do.
-By building out a whole digital ecosystem that includes an easy fiat on/off-ramp, peer-to-peer marketplace, earning platform, creative suite and more we want to reach to as many people as we can, showing them that gaming can be done differently now.
+One big issue that we're focusing on is accessibility, so besides the game being free-to-play, all blockchain activity is on L2. This means that the cost of dealing with NFTs is democratic and and not restrictive at all.
 
 ## Whitepaper
 
-The whitepaper goes deeper on the topics from this introduction, summarizing mechanics and principles of Hyperblade and it's DAO.
+The whitepaper goes deeper on the topics from this introduction. It summarizes the mechanics and principles of Hyperblade and the DAO. Reader should get an understanding of the project and how it's being made.
+
+<Quote fontSize="1.4rem">We're building a whole new community-driven digital ecosystem. We're proving that game-dev can now be done the blockchain way.</Quote>
+
+.
+
+export const Quote = ({children, fontSize}) => (
+<span
+style={{
+      fontSize: fontSize,
+      fontStyle: 'italic'
+    }}>
+{children}
+</span>
+);
