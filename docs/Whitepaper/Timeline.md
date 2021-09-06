@@ -2,19 +2,86 @@
 sidebar_position: 6
 ---
 
-# Roadmap
+# Timeline
 
-## History (current state)
+<!-- Current situation (might skip), pre-sale tokens ($SPR & NFT); closed-beta (pay-to-play); public release (f2p)
 
-Hyperblade is the first project of Drop Games/Drop DAO
+Needs & wants will go here
 
-Drop Games Inc., was founded in August 2019 in New York by **Tim** & **Theo**.
+future/ideas -> game modes & social stuff (dojos?); single player & campaign; more user created stuff like arenas etc; consoles & mobile; necessity to constatly expand the HB Metaverse (more games?) -->
 
-## Stages
+Timeline is roughly subdivided into larger _Phases_, with Phase 0 being the pre-DAO period and following Phases are what is coming. Items are listed in the order they should be (or they were) completed.
 
-Token (+NFT) issuance schedule repeated here:
+## Phase 0
 
-HB TODO (unordered):
+_2019 - Sept 2021_
+
+- Hyperblade prototype - 'Project Blade'
+- HB vertical slice
+- HB Whitepaper
+
+## Phase 1
+
+_Sept 2021 - Dec 2021_
+
+- Core team assembly
+- HB Alpha (internal)
+- HB DAO
+- DAO smart contracts v1
+- Pre-sale $SPR token
+- Marketing - Trailer with NFTs
+- NFT promo sales
+- Public $SPR token sale
+- $SPR liquidity & staking rewards
+- HB DAO 7-member committee
+
+## Phase 2
+
+_Jan 2022 - Apr 2022_
+
+- Full-strength promo campaign
+- HB beta ('pay-to-play')
+- HB marketplace
+- HB customimzation
+- HB social game-modes
+- $SPR ($TMO) player rewards
+- Smart contracts v2
+- Fiat on-ramp/off-ramp
+
+## Phase 3
+
+_Apr 2022 - 2023_
+
+- HB free-to-play release
+- NFT creation platform
+- NFT voting by DAO
+- HB loot boxes
+- Advanced NFT, incl. smithing & customization
+- Vote delegation
+- Alternate game-modes (3v3 and such)
+- Player-to-Player betting
+- Separated balance/NFT/DAO voting
+- Custom tournament system
+- Third party NFT integration
+- 'Dojo' NFT sale/lease
+- Hour long singleplayer campaign
+
+## Phase X
+
+_2023 - ?_
+
+- Frozen $SPR issuance
+- HB on Unreal Engine 5
+- HB open sourced
+- Second, third games
+- Console/mobile releases
+- Advanced DAO governance
+- Full streaming/esports support
+- Collaboration with third party games/DAOs
+- Full singleplayer campaign
+- Seasonal battle-passes
+
+<!-- HB TODO (unordered):
 
 HB DAO:
 
@@ -33,7 +100,7 @@ More gamemodes
 
 Blockchain:
 Write & Verify new smart contracts
-Wallet integration
+Wallet integration (mb our own wallet?)
 Figure out tokenomics -> liquidity, staking, player-rewards
 DROP DAO, allocation of token, treasury, vesting schedules
 Player empowerments thru the DAO
@@ -70,4 +137,4 @@ Example case would be a mobile friendly 2D fighting game with stylized pixelated
 
 HB DAO can allocate some of it's treasury for in-game rewards.
 
-All of this would achieve increased utility for HB NFTs, expanding market for said NFTs and providing much needed marketing and income source for the DAO.
+All of this would achieve increased utility for HB NFTs, expanding market for said NFTs and providing much needed marketing and income source for the DAO. -->

@@ -2,10 +2,17 @@
 sidebar_position: 4
 ---
 
-<!-- **Blockchain & Economy** \
-HyperBlade DAO; player ownership; $SPR - how to earn; what to do w it - yield/staking pool/lending, buying shit, token economy, voting; ELO token; Reasoning NFT; revenue model (include burning tokens); allocation & vesting; capital required to play (initially) -->
-
 # Blockchain & Economy
+
+<!-- player ownership -> governance & revenue sharing;
+SPR - what is it -> ingame currency, hardcoded values (total amount of token), how to get it, what to do w it - ingame economy - buying stuff (NFT & other), token economy, LIQIDITY (Tokemak?),
+SPR - mechanics -> play game - earn, (buy on markets), staking - what is the purpose (revenue redist & governance decentralization & rewarding for loyalty & bringing more people), where the funds are coming from - revenue (token buyback by DAO?) & staking pool, staking schedule - mechanics
+revenue model (include burning tokens) - direct selling, market fees, other; tools & platforms for other projects
+allocation & vesting, what will each allocated part go to, HB Treasury purpose
+rounds of raising capital (direct token sale, limited release, steady release, minting?)
+capital required to play (initially); game is not P2W, in the beginning you get bokken kendo wooden sword
+Reasoning NFT (basic)
+Time ore as reward for players (future) - ref to roadmap -->
 
 ## Hyperblade DAO
 
@@ -14,6 +21,16 @@ In 2021 it became obvious that the proper way to manage Hyperblade and subsequen
 Other than that, Hyperblade's NFT structure strongly involves both the creators and the actual playerbase. See more in the NFT section
 
 This path relies on: community control over the ecosystem and economy, planned/transparent issuance, free-for-all participation even in creation and development, forks (new projects/mods), project lifecycle not ending with company closing the project (as long as there are people participating, the project will live), meritocracy for creators/developers, player-empowerment, resistance to censorship.
+
+Hyperblade DAO is an organization of $SPR tokenholders. The governance is done by voting for proposals submitted by the DAO members. Currently, it will be a council of 7 voted-in
+
+### Why DAO?
+
+What made us go with the blockchain route is the current situation in the gaming industry where players have basically no control over the game they play, as well as no real in-game asset ownership (items can be permanently removed and banned players lose everything they got). The sole cause of this is a centralized economy that is fully controlled by the developer coming with only one official point of sale and limited/forbidden item & account resale. What this boils to is an economy that has no price-regulation and infinite/unrestricted asset emission, which in turn can lead to an unexpected inflation and items being now worhtless. Those kind of in-game economies are also tied to one particular game (best case, a franchise), so the items are rendered useless outside of it. Finally, the reality that the game can be simply closed down by the developer/IP owner (which happened to still popular multiplayer titles like _Need for Speed: World_ or _Battlefield Heroes_), shows that players are perceived only as a source of income, and barelly something else.
+
+We mitigated the issues listed above by going the blockchain way. Real ownership and true item scarcity are now guaranteed by the smart-contract and blockchain integrity. Item-owners are permitted to do anything with their items, even outside of the game ecosystem. Matter of a fact, it is in DAO's interest that the players are trading/gambling/staking/leasing their items, as this generates market fees and therefore revenue. Hyperblade's inherit openness leads to greater adoption with more people flocking to see what is going on, creative individuals coming to expand the universe, and talented developers building interesting third party tools, possibly even forking the game.
+
+Our goal is to make Hyperblade DAO self-sufficient and managed by people who love the project and want it succeed as much as we do. We're whole digital ecosystem that includes an easy fiat on/off-ramp, peer-to-peer marketplace, earning platform, creative suite and more we want to reach to as many people as we can, showing them that gaming can be done differently now.
 
 ## Space Rock $SPR
 
@@ -36,9 +53,9 @@ Lock money in a contract
 
 ### Staking
 
-Stake & incl. timed locking for more reward
+Stake & incl. timed locking for more reward. Tim is not a big fan of this.
 
-Flash pools with affiliates
+Flash pools with affiliates - stinky
 
 ### Lending
 
@@ -121,9 +138,11 @@ Sometimes external Market Makers are needed to provide real-time asset pricing, 
 
 When you deposit a token to a reactor you get t(token), i.e. tSPR or tTOKE as a receipt of your deposit, use this newly minted token in DeFi ecosystem or burn it when you get your inital assets back.
 
-From the intro
-What made us go with the blockchain route is the current situation in the gaming industry where players have basically no control over the game they play, as well as no real in-game asset ownership (items can be permanently removed and banned players lose everything they got). The sole cause of this is a centralized economy that is fully controlled by the developer coming with only one official point of sale and limited/forbidden item & account resale. What this boils to is an economy that has no price-regulation and infinite/unrestricted asset emission, which in turn can lead to an unexpected inflation and items being now worhtless. Those kind of in-game economies are also tied to one particular game (best case, a franchise), so the items are rendered useless outside of it. Finally, the reality that the game can be simply closed down by the developer/IP owner (which happened to still popular multiplayer titles like _Need for Speed: World_ or _Battlefield Heroes_), shows that players are perceived only as a source of income, and barelly something else.
+Timeore (maybe)
+Players get Timeore by playing the game (i.e. winning or som), no liquidity provided by HB DAO, emission is fixed: more players -> each gets less ore
 
-We mitigated the issues listed above by going the blockchain way. Real ownership and true item scarcity are now guaranteed by the smart-contract and blockchain integrity. Item-owners are permitted to do anything with their items, even outside of the game ecosystem. In fact, it is in DAO's interest that the players are trading/gambling/staking/leasing their items, as this generates market fees and therefore revenue. Hyperblade's inherit openness leads to greater adoption with more people flocking to see what is going on, creative individuals coming to expand the universe, and talented developers building interesting third party tools, possibly even forking the game.
+Use/burn it in-game to open NFT crates, (mint NFTs), or upgrade (smith) swords.
 
-Our goal is to make Hyperblade DAO self-sufficient and managed by people who love the project and want it succeed as much as we do. We're whole digital ecosystem that includes an easy fiat on/off-ramp, peer-to-peer marketplace, earning platform, creative suite and more we want to reach to as many people as we can, showing them that gaming can be done differently now.
+or just sell it.
+
+By keeping $SPR for general on-chain activity like DAO governance and staking income and having a separate token purely for in-game rewards we'll be able to manage the economy irregardless of the player headcount. The goal is to keep the inflation in check, and fairly reward player activity.

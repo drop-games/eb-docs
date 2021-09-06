@@ -6,16 +6,14 @@ sidebar_position: 0
 
 **To be deprecated; this is literally just a list of what should go to each page (+TLDR in intro)**
 
-**Hyperblade is**  
-_Intro (cca one paragraph)_
+**Intro**  
+_this page provides global overview of the project_
 
 core concept (tiny bit of story); core gameplay; explaning basics (TLDR); why blockchain; one full page cca 3 paragraphs; include some buzzwords; some custom made visuals
 
-you should get understand what this WP is about
-
 **Game**  
 _Explanation for someone who WILL play the game_
-Story details  
+Story details, why it's important (sp), just a recap
 Game setting
 Core gameplay mechanics - fighting, controls (mobile friendly), stances, weapon types, character archetypes
 Swordplay - Directionality, parries & block, attack types, ragdoll, other stuff
@@ -26,35 +24,37 @@ list/link roadmap topics
 
 **Blockchain & Tokenomics**  
 _HyperBlade DAO basics + principles_  
-player ownership -> governance & revenue sharing;  
+player ownership tldr -> governance & revenue sharing;
 SPR - what is it -> ingame currency, hardcoded values (total amount of token), how to get it, what to do w it - ingame economy - buying stuff (NFT & other), token economy, LIQIDITY (Tokemak?),  
 SPR - mechanics -> play game - earn, (buy on markets), staking - what is the purpose (revenue redist & governance decentralization & rewarding for loyalty & bringing more people), where the funds are coming from - revenue (token buyback by DAO?) & staking pool, staking schedule - mechanics  
 revenue model (include burning tokens) - direct selling, market fees, other; tools & platforms for other projects  
 allocation & vesting, what will each allocated part go to, HB Treasury purpose  
 rounds of raising capital (direct token sale, limited release, steady release, minting?)  
 capital required to play (initially); game is not P2W, in the beginning you get bokken kendo wooden sword  
-Reasoning NFT (basic)  
 Time ore as reward for players (future) - ref to roadmap
 
 **Governance**  
 _HB DAO (everything about it)_  
 voting; council? (based on 7 quadratically voted in members); issues to vote on; supermajority; specific cases (members leaving, coercion, other); rewards for the service; player's voice & $SRP hodlers voice;
 
-voting for NFTs  
+voting for NFTs (free-for-all vote), what benefits it brings
 other types of voting
 
-Drop Games role - main developer & de jure owner  
+how development looks like (smaller than HIP related issues)
 How decentralization will be achieved and what will it give
 
 **NFT**  
 _Detailed explanation of NFTs_  
-Drop Games NFTs; Community created NFTs; NFT types - Swords, Armor, Other, real estate; NFT Themes & Collections; NFT mutability (contract upgradability)  
-How to earn NFT - duel to earn, buy on market  
+Drop Games NFTs; Community created NFTs; NFT types - Swords, Armor, Other, real estate; NFT Themes & Collections; NFT mutability (contract upgradability)
+Any NFT can be voted in?
+How to earn NFT - duel to earn -> get a lootbox, buy on market  
 Temporarily held NFT (like a boxing belt for champs etc)
+Third party NFT implementation (art in dojo, NFT music etc)
+Creators earns how?
 
 **Technical part**  
 _how the game is built_  
-specific aspects typing game to blockchain  
+specific aspects tying game to blockchain
 UE5; contracts & audits; L2 solution used; risks; store specific; DAO mechanisms; how to make purchases; or sell stuff; more graphs of token/NFT etc
 
 security; accessibility; censorship resistance; decentralization
@@ -84,6 +84,7 @@ deterministic gameplay (blockchain verified); switch from client<->server to cli
 
 **Maths**  
 Token issuance curve ($SPR); token allocation & vesting curves; planned inflation; market fees curve; DAO profit sharing; DAO voting
+Player rewards curve
 
 <!-- Active player curves:
 

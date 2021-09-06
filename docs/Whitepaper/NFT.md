@@ -64,3 +64,5 @@ Items are often for the sake of consistency pooled together in a collection, whi
 ## NFT Marketplace
 
 Hyperblade NFTs will be available both on third party market placeces such as Rarible, OpenSea and such, as well as the Drop Marketplace (TBA).
+
+NFTs - utility, art, limited
