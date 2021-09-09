@@ -2,7 +2,7 @@
 sidebar_position: 5
 ---
 
-# NFTs
+# NFT
 
 NFTs in HyperBlade
 

@@ -13,8 +13,8 @@ core concept (tiny bit of story); core gameplay; explaning basics (TLDR); why bl
 
 **Game**  
 _Explanation for someone who WILL play the game_
-Story details, why it's important (sp), just a recap
 Game setting
+Story details, why it's important (sp), just a recap
 Core gameplay mechanics - fighting, controls (mobile friendly), stances, weapon types, character archetypes
 Swordplay - Directionality, parries & block, attack types, ragdoll, other stuff
 Visual theme (hydrant) (arena locations will go here)
@@ -23,24 +23,50 @@ esports ready and why it's importnant
 list/link roadmap topics
 
 **Blockchain & Tokenomics**  
-_HyperBlade DAO basics + principles_  
+_specific blockchain-related mechanics + maths_
+
 player ownership tldr -> governance & revenue sharing;
-SPR - what is it -> ingame currency, hardcoded values (total amount of token), how to get it, what to do w it - ingame economy - buying stuff (NFT & other), token economy, LIQIDITY (Tokemak?),  
-SPR - mechanics -> play game - earn, (buy on markets), staking - what is the purpose (revenue redist & governance decentralization & rewarding for loyalty & bringing more people), where the funds are coming from - revenue (token buyback by DAO?) & staking pool, staking schedule - mechanics  
+
+SPR - what is it -> ingame currency, hardcoded values (total amount of token),token economy,
+
+how to get it, what to do w it - ingame economy - buying stuff (NFT & other),
+
+SPR - mechanics -> play game - earn, (buy on markets), staking - what is the purpose (revenue redist & governance decentralization & rewarding for loyalty & bringing more people), where the funds are coming from - revenue (token buyback by DAO?) & staking pool/treasury, staking schedule - mechanics
+LIQIDITY (Tokemak?)
+
 revenue model (include burning tokens) - direct selling, market fees, other; tools & platforms for other projects  
-allocation & vesting, what will each allocated part go to, HB Treasury purpose  
-rounds of raising capital (direct token sale, limited release, steady release, minting?)  
-capital required to play (initially); game is not P2W, in the beginning you get bokken kendo wooden sword  
-Time ore as reward for players (future) - ref to roadmap
+allocation & vesting, what will each allocated part go to
+DAO Treasury - purpose of it - expenses on development - maybe specific numbers
+
+rounds of raising capital/token allocation (private sale, public sale & liquidity, minting?)
+
+capital required to play (initially); game is not P2W, in the beginning you get bokken kendo wooden sword
+
+Time ore as reward for players (future)
+
+Token issuance curve ($SPR); token allocation & vesting curves; planned inflation; market fees curve; DAO profit sharing; DAO voting
+Player rewards curve
 
 **Governance**  
-_HB DAO (everything about it)_  
-voting; council? (based on 7 quadratically voted in members); issues to vote on; supermajority; specific cases (members leaving, coercion, other); rewards for the service; player's voice & $SRP hodlers voice;
+_HyperBlade DAO basics + principles_
+
+Why DAO?
+Current set up - development & voting & communication
+Members - original team, $SPR holders, DAO communication (not only $SPR holders), council
+
+$SPR holders vote for council
+council - 7 quadratically voted in members; issues to vote on; supermajority; specific cases (members leaving, coercion, other); rewards for the service; how long will they serve
+
+HIP explanation - any proposals for $SPR - staking/liquidity/rewards/collabs etc, big game-dev proposals, council members
 
 voting for NFTs (free-for-all vote), what benefits it brings
-other types of voting
 
-how development looks like (smaller than HIP related issues)
+separation of concerns - protocol changes (HIP), NFT voting, balance voting (ELO)
+
+how development looks like (smaller than HIP related issues), meaning the game
+Team members listed, who does what
+Non-core team needed
+
 How decentralization will be achieved and what will it give
 
 **NFT**  
@@ -52,20 +78,24 @@ Temporarily held NFT (like a boxing belt for champs etc)
 Third party NFT implementation (art in dojo, NFT music etc)
 Creators earns how?
 
-**Technical part**  
-_how the game is built_  
+<!-- **Technical part**
+_how the game is built_
 specific aspects tying game to blockchain
 UE5; contracts & audits; L2 solution used; risks; store specific; DAO mechanisms; how to make purchases; or sell stuff; more graphs of token/NFT etc
 
-security; accessibility; censorship resistance; decentralization
+security; accessibility; censorship resistance; decentralization -->
 
-**Roadmap**  
-_the plan_  
-Current situation (might skip), pre-sale tokens ($SPR & NFT); closed-beta (pay-to-play); public release (f2p)
+**'The Gameplan' & Timeline**  
+_the plan, how we are actually developing all of this_
+
+Game + DAO + Tokenomics (in intro it was just a overview)
+Developing HB
+Marketing
+Vision
+
+PHASES 0,1,2,3,X
 
 Needs & wants will go here
-
-future/ideas -> game modes & social stuff (dojos?); single player & campaign; more user created stuff like arenas etc; consoles & mobile; necessity to constatly expand the HB Metaverse (more games?)
 
 **Marketing/Community management**  
 HyperBlade DAO: it's own website (what will it have), discord, reddit, youtube;  
@@ -144,7 +174,6 @@ Well do tons of good shit over the time
 ##
 
 Enter the game
-
 At first (semi-closed game), there should be some capital reuquirement to play the game, which should be eventually lowered or abolished (after all we want to have a game thats accessible for all) -->
 
 <!-- Duel to Earn

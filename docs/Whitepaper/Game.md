@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# Gameplay
+# The Game
 
 ## Core gameplay
 
@@ -11,7 +11,7 @@ sidebar_position: 2
 **Game** \
 gameplay; story; mechanics; controls (+mobile); art style (hydrant) (+ ost optionally); stages; weapons types; customization (images with different customizations on character model, incl variants); esports ready; list/link roadmap topics -->
 
-Gameplay itself
+Gameplay itself details
 You fight with swords n all of that, rounds,
 
 ## Story

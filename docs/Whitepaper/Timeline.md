@@ -2,17 +2,24 @@
 sidebar_position: 6
 ---
 
-# Timeline
+# 'The Gameplan' & Timeline
 
-<!-- Current situation (might skip), pre-sale tokens ($SPR & NFT); closed-beta (pay-to-play); public release (f2p)
+## Tying it all together
 
-Needs & wants will go here
+Game + DAO + Tokenomics (in intro it was just a overview)
+Developing HB
+Marketing
+Vision
 
-future/ideas -> game modes & social stuff (dojos?); single player & campaign; more user created stuff like arenas etc; consoles & mobile; necessity to constatly expand the HB Metaverse (more games?) -->
+## Timeline
 
-Timeline is roughly subdivided into larger _Phases_, with Phase 0 being the pre-DAO period and following Phases are what is coming. Items are listed in the order they should be (or they were) completed.
+This timeline/roadmap is roughly subdivided into larger _Phases_, with Phase 0 being the pre-DAO period and following Phases are what is coming. Items are listed in the order they should be (or they were) completed.
 
-## Phase 0
+:::note
+This timeline will change as the project evolves
+:::
+
+### Phase 0
 
 _2019 - Sept 2021_
 
@@ -20,14 +27,17 @@ _2019 - Sept 2021_
 - HB vertical slice
 - HB Whitepaper
 
-## Phase 1
+### Phase 1
 
 _Sept 2021 - Dec 2021_
 
 - Core team assembly
+- HB website
+- DAO founded
 - HB Alpha (internal)
-- HB DAO
 - DAO smart contracts v1
+- Epic MegaGrants
+- Smart contracts audited
 - Pre-sale $SPR token
 - Marketing - Trailer with NFTs
 - NFT promo sales
@@ -35,23 +45,25 @@ _Sept 2021 - Dec 2021_
 - $SPR liquidity & staking rewards
 - HB DAO 7-member committee
 
-## Phase 2
+### Phase 2
 
 _Jan 2022 - Apr 2022_
 
-- Full-strength promo campaign
+- Crypto-space promo campaign
 - HB beta ('pay-to-play')
 - HB marketplace
-- HB customimzation
+- HB player customimzation
 - HB social game-modes
 - $SPR ($TMO) player rewards
 - Smart contracts v2
 - Fiat on-ramp/off-ramp
+- Basic tools for third-party development
 
-## Phase 3
+### Phase 3
 
 _Apr 2022 - 2023_
 
+- Full-strength marketing
 - HB free-to-play release
 - NFT creation platform
 - NFT voting by DAO
@@ -59,27 +71,29 @@ _Apr 2022 - 2023_
 - Advanced NFT, incl. smithing & customization
 - Vote delegation
 - Alternate game-modes (3v3 and such)
-- Player-to-Player betting
+- Player-to-Player wagering (betting)
 - Separated balance/NFT/DAO voting
 - Custom tournament system
+- 'Dojo' NFT sale/leasing
 - Third party NFT integration
-- 'Dojo' NFT sale/lease
 - Hour long singleplayer campaign
 
-## Phase X
+### Phase X
 
 _2023 - ?_
 
 - Frozen $SPR issuance
 - HB on Unreal Engine 5
 - HB open sourced
-- Second, third games
+- Second, third game
 - Console/mobile releases
 - Advanced DAO governance
 - Full streaming/esports support
 - Collaboration with third party games/DAOs
-- Full singleplayer campaign
 - Seasonal battle-passes
+- Full singleplayer campaign
+- Knight system
+- Peer-to-Peer match hosting
 
 <!-- HB TODO (unordered):
 

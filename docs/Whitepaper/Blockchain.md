@@ -1,85 +1,175 @@
 ---
-sidebar_position: 4
+sidebar_position: 3
 ---
 
-# Blockchain & Economy
+# Blockchain & Tokenomics
 
-<!-- player ownership -> governance & revenue sharing;
-SPR - what is it -> ingame currency, hardcoded values (total amount of token), how to get it, what to do w it - ingame economy - buying stuff (NFT & other), token economy, LIQIDITY (Tokemak?),
-SPR - mechanics -> play game - earn, (buy on markets), staking - what is the purpose (revenue redist & governance decentralization & rewarding for loyalty & bringing more people), where the funds are coming from - revenue (token buyback by DAO?) & staking pool, staking schedule - mechanics
-revenue model (include burning tokens) - direct selling, market fees, other; tools & platforms for other projects
-allocation & vesting, what will each allocated part go to, HB Treasury purpose
-rounds of raising capital (direct token sale, limited release, steady release, minting?)
-capital required to play (initially); game is not P2W, in the beginning you get bokken kendo wooden sword
-Reasoning NFT (basic)
-Time ore as reward for players (future) - ref to roadmap -->
+In this section we explain the blockchain part of the Hyperblade and the mechanics behind it's main token - **the Spacerock**.
 
-## Hyperblade DAO
+## Spacerock overview
 
-In 2021 it became obvious that the proper way to manage Hyperblade and subsequent projects is through a community driven DAO. The reasoning behind is that majority of the game studios always focuses only on the upcoming projects, where the old ones become only cash-cow and get no proper QOL support.
+Spacerock ($SPR) is an ERC-20 token and native currency of the Hyperblade universe. It is managed by Hyperblade DAO, and has a total possible supply of 50,000,000 $SPR. Spacerock is the cornerstone of the DAO governance, as well as the primary medium of exchange in Hyperblade economy. [Governance](Governance) section goes in detail on how the DAO works.
 
-Other than that, Hyperblade's NFT structure strongly involves both the creators and the actual playerbase. See more in the NFT section
+Since our goal is to make Hyperblade as accessible as it gets, it will be at least partially on Level 2 of Ethereum. Low transaction costs and easy on-boarding is what we're after.
 
-This path relies on: community control over the ecosystem and economy, planned/transparent issuance, free-for-all participation even in creation and development, forks (new projects/mods), project lifecycle not ending with company closing the project (as long as there are people participating, the project will live), meritocracy for creators/developers, player-empowerment, resistance to censorship.
+---
 
-Hyperblade DAO is an organization of $SPR tokenholders. The governance is done by voting for proposals submitted by the DAO members. Currently, it will be a council of 7 voted-in
+**There are multiple ways one can get Spacerock by:**
 
-### Why DAO?
+- buying $SPR on an exchange
+- staking
+- selling NFTs on HB Marketplace
+- participating in DAO governance
+- completing dev tasks/bounties
+- through partnering with the DAO
+- playing the game
 
-What made us go with the blockchain route is the current situation in the gaming industry where players have basically no control over the game they play, as well as no real in-game asset ownership (items can be permanently removed and banned players lose everything they got). The sole cause of this is a centralized economy that is fully controlled by the developer coming with only one official point of sale and limited/forbidden item & account resale. What this boils to is an economy that has no price-regulation and infinite/unrestricted asset emission, which in turn can lead to an unexpected inflation and items being now worhtless. Those kind of in-game economies are also tied to one particular game (best case, a franchise), so the items are rendered useless outside of it. Finally, the reality that the game can be simply closed down by the developer/IP owner (which happened to still popular multiplayer titles like _Need for Speed: World_ or _Battlefield Heroes_), shows that players are perceived only as a source of income, and barelly something else.
+## Play-to-Earn
 
-We mitigated the issues listed above by going the blockchain way. Real ownership and true item scarcity are now guaranteed by the smart-contract and blockchain integrity. Item-owners are permitted to do anything with their items, even outside of the game ecosystem. Matter of a fact, it is in DAO's interest that the players are trading/gambling/staking/leasing their items, as this generates market fees and therefore revenue. Hyperblade's inherit openness leads to greater adoption with more people flocking to see what is going on, creative individuals coming to expand the universe, and talented developers building interesting third party tools, possibly even forking the game.
+The core idea of Hyperblade that it is one of the first blockchain games with actual gameplay and mainstream appeal. And one of the biggest draws will be the possiblity to earn by playing the game.
 
-Our goal is to make Hyperblade DAO self-sufficient and managed by people who love the project and want it succeed as much as we do. We're whole digital ecosystem that includes an easy fiat on/off-ramp, peer-to-peer marketplace, earning platform, creative suite and more we want to reach to as many people as we can, showing them that gaming can be done differently now.
+Right now there are two solutions for Play-to-Earn in works. First scenario is rewards being paid out in $SPR, with funds coming from the DAO treasury. The second option is to have a separate token solely for in-game rewards.
 
-## Space Rock $SPR
+$SPR rewards are easy to understand and imply streamlined redemption process. However, this might lead to $SPR price instability and inflation. To mitigate this, we're pondering bringing a second token - _Timeore_.
 
-Total possible supply: 10,000,000
-Phases
+**Timeore**
 
-Pre-seed 1m $SPR -> 1m USD
+Players earn Timeore by playing the game, this could be winning over higher ranked players in duel mode, grinding in singleplayer etc.
 
-Seed -> 2m $SPR -> 5m USD
+Later Timeore would be burned to open NFT loot boxes, mint NFTs, or upgrade items (re-forge swords). This utility makes Timeore valuable for NFT collectors, who now have to buy Timeore from the players, creating a market for it.
 
-Team -> 2.5m $SRP
+The supply of Timeore is controlled directly by Hyperblade DAO, making sure players are rewarded fairly irregardless of their headcount. $SPR is still used for DAO governance and revenue sharing, and now Timeore functions as another layer of protection from price volatility.
 
-### How to get it
+## In-game currency
 
-earn or buy
+### Hyperblade Marketplace
 
-### Yield
+Hyperblade Marketplace is where all of the HB related purchases are being made. It's a market where players trade their NFTs as well as purchase DLC and other game-related stuff.
+It will be directly accessible in HB games as well as through a separate app on the web.
 
-Lock money in a contract
+$SPR is an exclusive currency of the Marketplace. All P2P trades are subject to 4.5% fee; half of it goes to HB Treasury and the rest to NFT creators. Creators also often get to set the NFT price themselves, where the proceeds from the initial sale go directly to them.
 
-### Staking
+Gas fees are subsidised by the DAO (and low nontheless because of L2 integration)
 
-Stake & incl. timed locking for more reward. Tim is not a big fan of this.
+We want to promote active NFT/\$SPR trade, as this is where significant portion of revenues will be coming from.
 
-Flash pools with affiliates - stinky
-
-### Lending
-
-### $SPR as a purchase medium
-
-### Token Economy
-
-graphs and all of that
+The [NFTs](NFT) section goes deeper on NFTs and their role in HB universe.
 
 ## Revenue Model
 
-## NFT reasoning
+Two most significant revenue sources are market fees and direct sales. Since the whole economy is $SPR based, users have to buy it to do basically anything. The incoming revenue streams are then used to repurchase $SPR token from DEXes. The reasoning behind this is to put upward pressure by decreasing token availability. The less $SPR is there, the more it's worth.
 
-## $SPR Allocation & Vesting
+### Market fees
 
-more graphs
+HB Marketfees activity is always taxed by the DAO, fixed % is substracted from all trades on the market and goes back to the treasury.
 
-## Initial Capital Requirement
+### Direct Sales
+
+Direct sales of DAO comminisioned NFTs: cosmetics & unique NFTs, including "non-playable" NFTs
+
+### DLC content & Battle-passes
+
+Classic source of revenue through all of the history of gamedev.
+
+We plan to release an immersive single player campaign coming with seasonal battle-passes.
+
+### Services for other developers
+
+The robust ecosystem that we are building requires a lot of tooling. And because of the nature of blockchain, it's actually in our interest that some of them will be available even for other developers.
+
+Like, HB Marketplace does not have to be limited only for HB items, later on third-party NFTs can be minted & traded here. The same goes for our in-house task management software. Some version of monetization can be introduced to offset the expenses.
+
+We believe that by sharing what we build with others, we will be able to make the whole blockchain world better.
+
+## Liqidity
+
+Liquidity is a necessary part of any healthy token economy. We're distributing 4,000,000 $SPR during the public sale, which will be the first time $SPR will be available on the open market. Initial token sale is sensitive process that is going to have long term implications, so we have to make sure we'll do it the right way. The two current options in play are Tokemak and Balancer Liquidity Bootstrapping Pool. Both options allow for smooth price discovery, have reasonable capital reqirements, no explicit smart contract risk, and solid UX.
+
+## Staking
+
+Staking is where the $SPR holders can earn interest on their investment. The purpose of it is to stabilize the token price and reward those who believe in the project.
+
+We are going to use the staking approach pioneered by Illuvium. After the launch of staking token holders will be able to stake/lock their $SPR into a smart contract that will yield $SPR rewards on a weekly basis. There are two ways how to go about it, with with locking or without. The duration of lock-up is up to the staker, and there is a rewards multiplier that increases the yields linearely. Minimum lenght is 1 week with a multiplier of 1x, maximum is 52 weeks with 2x multiplayer. Unlike in regular staking, locked staking means that user won't be able to withdraw his staked token until the lock-up is over.
+
+Staking rewards will be locked for 6 months, after that they will be available for redemption. Unclaimed rewards accumulate compounded interest.
+
+Total amount of $SPR allocated for staking rewards is 7,500,000. It will be released over the span of 3 years after the start of staking.
+
+<!-- ### Equation
+
+$$
+R=\frac{APY}{\left(\frac{365}{7}\right)\cdot p}\cdot S\cdot m
+$$
+
+The equation has following: $R$ is total reward, $APY$ is annual percentage yield, $p$ is elegible periods for rewards, $S$ is staked \$SPY, $m$ is rewards multiplier (which is in turn $1+\frac{p}{52}$)
+
+### Examples
+
+Here are two example scenarios of staking assuming fixed 50% APY:
+
+Holder deposits 10 $SPR in a regular staking contract, he keeps it there for 6.5 weeks, after which he claims the reward and withdraws the staked $SPR. 6 valid rewards period have passed.
+
+**Non-locked stacking**
+
+$$
+R=\frac{50\%}{\left(\frac{365}{7}\right)\cdot 6}\cdot 10
+$$
+
+The reward unlocked after vesting will be **~0.57 $SPR**
+
+**Locked stacking**
+
+$$
+R=\frac{50\%}{\left(\frac{365}{7}\right)\cdot }\cdot 10\cdot 1.11
+$$
+
+The reward unlocked after vesting will be **~0.64 $SPR** -->
+
+## Treasury
+
+If Spacerock is the blood of the Hyperblade DAO, then the Treasury is its heart.
+
+The treasury is essentially a smart contract where all of the DAO's wealth is stored. This is where the unissued $SPR is held.
+
+Salaries + equity or grants for developers, investments.
+
+DAO does not have an 'expiration' date, and so doesn't the treasury. Inflows > outflows. Diversification (tokenswaps, stablecoins)
+$SPR buybacks
+Transparency
+
+Treasury is the most valued asset of the DAO, so it's in our interest to recruit the best available talent to help us managing it.
+
+## $SPR Allocation
+
+<!-- styled in custom.css -->
+
+Total possible Spacerock supply is 50,000,000 $SPR
+
+| Receiver      | Allocation % | Allocation $SPR | When    |
+| ------------- | ------------ | --------------- | ------- |
+| Team          | 15%          | 7,500,000       | Q4 2021 |
+| Private Sale  | 12%          | 6,000,000       | Q1 2022 |
+| Public Sale   | 8%           | 4,000,000       | Q2 2022 |
+| Treasury      | 50%          | 25,000,000      | Q2 2022 |
+| Yield rewards | 15%          | 7,500,000       | Q3 2022 |
+
+Tokens issued to the team & private sale investors are subject to a lock up and vesting schedule.
+
+_token graph_
+
+## Layer 2 & "Cost-to-play"
+
+Hyperblade is one of the first 'big' games on the Ethereum blockchain. We are putting all of the economics on the chain, meaning all of the $SPR activity, NFT creation and trade, and everything else tied to account ownership. By going with Ethereum we are choosing most promising blockchsin that has all of the functionality and security that one might need, but with some trade-offs. All of the transactions are a subject to an 'gas cost' which is simply put amount of bytes in this smart contract multiplied by 'gas price' that is based on current market demand (all paid in Ether, Ethereum native token). This cost as of lately has been brutal. Cost to mint a basic NFT as of Sept 9 2021 was reaching ~200 USD. This is not feasible at all, especiallly for a game like Hyperblade that implies a large amount of transactions for the best user-experience.
+
+Based on that, we have to go on Layer 2. Layer 2 is an umbrella term for any kind of scalling solution for a blockchain, and also the direction where the whole Ethereum ecosystem is heading. L2 have generally super cheap transactions, low latency, and high level of security. The issue with L2 that the user experience is not as polished like in base-layer Ethereum. Right now to get on a L2 (e.g. Optimism, Arbitrum or Polygon side-chain) one has to first authorize the project, and then migrate their token to this L2. And all of this means more expenses on base level, paid with Ether directly. So even thought working inside of L2 is easy and cheap, it's still )
+
+Since the revenue comes mainly from fees and content sales,
 
 while in the closed beta you have to buy your way in to play the game, thus getting early revenue & keeping the playerbase manageable
 
 Later on Free-to-Play
 
-## Voting & ELO token _(yeah Tim, this will be better for HIP)_
+<!-- ## Voting & ELO token _(yeah Tim, this will be better for HIP)_
 
 Kicks in later with full Hyperblade DAO adoption, playerz only. Populares
 
@@ -118,7 +208,7 @@ And so on
 
 ## Regarding Pay-to-Win
 
-Hyperblade will always be accessible and fair to everyone irregards to how much capital they invested in.
+Hyperblade will always be accessible and fair to everyone irregards to how much capital they've put in.
 
 # TOKEMAK overview
 
@@ -145,4 +235,17 @@ Use/burn it in-game to open NFT crates, (mint NFTs), or upgrade (smith) swords.
 
 or just sell it.
 
-By keeping $SPR for general on-chain activity like DAO governance and staking income and having a separate token purely for in-game rewards we'll be able to manage the economy irregardless of the player headcount. The goal is to keep the inflation in check, and fairly reward player activity.
+By keeping $SPR for general on-chain activity like DAO governance and staking income and having a separate token purely for in-game rewards we'll be able to manage the economy irregardless of the player headcount. The goal is to keep the inflation in check, and fairly reward player activity. -->
+
+<!-- <Quote fontSize="1.4rem">We're building a whole new community-driven digital ecosystem. We're proving that game-dev can now be done the blockchain way.</Quote>
+
+.
+
+export const Quote = ({children, fontSize}) => (
+<span
+style={{
+      fontStyle: 'italic'
+    }}>
+{"asd"}
+</span>
+); -->
