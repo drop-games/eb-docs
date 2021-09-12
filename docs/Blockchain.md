@@ -99,7 +99,7 @@ Staking rewards will be locked for 6 months, after that they will be available f
 
 Total amount of $SPR allocated for staking rewards is 7,500,000. It will be released over the span of 3 years after the start of staking.
 
-<!-- ### Equation
+### Equation
 
 $$
 R=\frac{APY}{\left(\frac{365}{7}\right)\cdot p}\cdot S\cdot m
@@ -127,7 +127,7 @@ $$
 R=\frac{50\%}{\left(\frac{365}{7}\right)\cdot }\cdot 10\cdot 1.11
 $$
 
-The reward unlocked after vesting will be **~0.64 $SPR** -->
+The reward unlocked after vesting will be **~0.64 $SPR**
 
 ## Treasury
 

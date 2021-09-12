@@ -2,122 +2,131 @@ const lightCodeTheme = require("prism-react-renderer/themes/github");
 const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 const math = require("remark-math");
 const katex = require("rehype-katex");
+
+// With JSDoc @type annotations, IDEs can provide config autocompletion
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
-module.exports = {
-  title: "Hyperblade",
-  tagline: "Duel To Earn",
-  url: "https://docs.playhyperblade.com",
-  baseUrl: "/",
-  onBrokenLinks: "throw",
-  onBrokenMarkdownLinks: "warn",
-  favicon: "img/favicon.ico",
-  organizationName: "facebook", // Usually your GitHub org/user name.
-  projectName: "docusaurus", // Usually your repo name.
-  themeConfig: {
-    colorMode: {
-      defaultMode: "dark",
-    },
-    navbar: {
-      title: "Hyperblade",
-      logo: {
-        alt: "My Site Logo",
-        src: "img/logo.svg",
-      },
-      items: [
-        {
-          type: "docsVersionDropdown",
-          docId: "intro",
-          position: "left",
-          label: "Tutorial",
-        },
-        { to: "/blog", label: "Blog", position: "left" },
-        {
-          href: "https://github.com/facebook/docusaurus",
-          label: "GitHub",
-          position: "right",
-        },
+(
+  module.exports = {
+    title: "Hyperblade Docs",
+    tagline: "Duel to Earn",
+    url: "https://docs.playhyperblade.com",
+    baseUrl: "/",
+    onBrokenLinks: "throw",
+    onBrokenMarkdownLinks: "warn",
+    favicon: "img/logo.ico",
+    organizationName: "Hyperblade DAO", // Usually your GitHub org/user name.
+    projectName: "hb-dao", // Usually your repo name.
+
+    presets: [
+      [
+        "@docusaurus/preset-classic",
+        /** @type {import('@docusaurus/preset-classic').Options} */
+        ({
+          docs: {
+            sidebarPath: require.resolve("./sidebars.js"),
+            remarkPlugins: [math],
+            rehypePlugins: [katex],
+            // Please change this to your repo.
+            editUrl: "https://github.com/dropdao/hb-docs",
+          },
+          theme: {
+            customCss: require.resolve("./src/css/custom.css"),
+          },
+        }),
       ],
-    },
-    footer: {
-      style: "dark",
-      links: [
-        {
-          title: "Docs",
-          items: [
-            {
-              label: "Tutorial",
-              to: "/docs/intro",
-            },
-          ],
-        },
-        {
-          title: "Community",
-          items: [
-            {
-              label: "Stack Overflow",
-              href: "https://stackoverflow.com/questions/tagged/docusaurus",
-            },
-            {
-              label: "Discord",
-              href: "https://discordapp.com/invite/docusaurus",
-            },
-            {
-              label: "Twitter",
-              href: "https://twitter.com/docusaurus",
-            },
-          ],
-        },
-        {
-          title: "More",
-          items: [
-            {
-              label: "Blog",
-              to: "/blog",
-            },
-            {
-              label: "GitHub",
-              href: "https://github.com/facebook/docusaurus",
-            },
-          ],
-        },
-      ],
-      copyright: `Copyright © ${new Date().getFullYear()} Hyperblade DAO`,
-    },
-    prism: {
-      theme: lightCodeTheme,
-      darkTheme: darkCodeTheme,
-    },
-  },
-  presets: [
-    [
-      "@docusaurus/preset-classic",
+    ],
+    stylesheets: [
       {
-        docs: {
-          sidebarPath: require.resolve("./sidebars.js"),
-          remarkPlugins: [math],
-          rehypePlugins: [katex],
-          // Please change this to your repo.
-          editUrl:
-            "https://github.com/facebook/docusaurus/edit/master/website/",
-        },
-        blog: {
-          showReadingTime: true,
-          // Please change this to your repo.
-          editUrl:
-            "https://github.com/facebook/docusaurus/edit/master/website/blog/",
-        },
-        theme: {
-          customCss: require.resolve("./src/css/custom.css"),
-        },
+        href: "https://cdn.jsdelivr.net/npm/katex@0.13.11/dist/katex.min.css",
+        integrity:
+          "sha384-Um5gpz1odJg5Z4HAmzPtgZKdTBHZdw8S29IecapCSB31ligYPhHQZMIlWLYQGVoc",
+        crossorigin: "anonymous",
       },
     ],
-  ],
-  stylesheets: [
-    {
-      href: "https://cdn.jsdelivr.net/npm/katex@0.13.11/dist/katex.min.css",
-      integrity:
-        "sha384-Um5gpz1odJg5Z4HAmzPtgZKdTBHZdw8S29IecapCSB31ligYPhHQZMIlWLYQGVoc",
-      crossorigin: "anonymous",
-    },
-  ],
-};
+    themeConfig:
+      /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
+      ({
+        navbar: {
+          title: "Hyperblade",
+          logo: {
+            alt: "Hyperblade logo",
+            src: "img/logobig.png",
+          },
+          items: [
+            {
+              type: "doc",
+              docId: "intro",
+              position: "left",
+              label: "Whitepaper",
+            },
+            {
+              href: "https://github.com/dropdao/hb-docs",
+              label: "GitHub",
+              position: "right",
+            },
+          ],
+        },
+        footer: {
+          style: "dark",
+          links: [
+            {
+              title: "Docs",
+              items: [
+                {
+                  label: "Whitepaper",
+                  to: "/docs/intro",
+                },
+              ],
+            },
+            {
+              title: "DAO links",
+              items: [
+                {
+                  label: "Discord",
+                  href: "https://playhyperblade.com",
+                },
+                {
+                  label: "Discord",
+                  href: "https://playhyperblade.com",
+                },
+                {
+                  label: "GitHub",
+                  href: "https://playhyperblade.com",
+                },
+                {
+                  label: "Snapshot",
+                  href: "https://playhyperblade.com",
+                },
+              ],
+            },
+            {
+              title: "Social",
+              items: [
+                {
+                  label: "Youtube",
+                  href: "https://playhyperblade.com",
+                },
+                {
+                  label: "Twitter",
+                  href: "https://playhyperblade.com",
+                },
+                {
+                  label: "Facebook",
+                  href: "https://playhyperblade.com",
+                },
+                {
+                  label: "Instagram",
+                  href: "https://playhyperblade.com",
+                },
+              ],
+            },
+          ],
+          copyright: `Copyright © ${new Date().getFullYear()} Hyperblade DAO`,
+        },
+        prism: {
+          theme: lightCodeTheme,
+          darkTheme: darkCodeTheme,
+        },
+      }),
+  }
+);
