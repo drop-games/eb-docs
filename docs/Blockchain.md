@@ -42,6 +42,10 @@ The supply of Timeore is controlled directly by Hyperblade DAO, making sure play
 
 ## In-game currency
 
+Besides price of the token up and staking rewards distributed, $SPR has intristic purpose of being the currency in Hyperblade ecocystem.
+
+All of the trades are facilitated in $SPR (or $ETH converted to $SPR on the spot).
+
 ### Hyperblade Marketplace
 
 Hyperblade Marketplace is where all of the HB related purchases are being made. It's a market where players trade their NFTs as well as purchase DLC and other game-related stuff.
@@ -95,7 +99,7 @@ Staking rewards will be locked for 6 months, after that they will be available f
 
 Total amount of $SPR allocated for staking rewards is 7,500,000. It will be released over the span of 3 years after the start of staking.
 
-<!-- ### Equation
+### Equation
 
 $$
 R=\frac{APY}{\left(\frac{365}{7}\right)\cdot p}\cdot S\cdot m
@@ -123,7 +127,7 @@ $$
 R=\frac{50\%}{\left(\frac{365}{7}\right)\cdot }\cdot 10\cdot 1.11
 $$
 
-The reward unlocked after vesting will be **~0.64 $SPR** -->
+The reward unlocked after vesting will be **~0.64 $SPR**
 
 ## Treasury
 
@@ -145,13 +149,14 @@ Treasury is the most valued asset of the DAO, so it's in our interest to recruit
 
 Total possible Spacerock supply is 50,000,000 $SPR
 
-| Receiver      | Allocation % | Allocation $SPR | When    |
-| ------------- | ------------ | --------------- | ------- |
-| Team          | 15%          | 7,500,000       | Q4 2021 |
-| Private Sale  | 12%          | 6,000,000       | Q1 2022 |
-| Public Sale   | 8%           | 4,000,000       | Q2 2022 |
-| Treasury      | 50%          | 25,000,000      | Q2 2022 |
-| Yield rewards | 15%          | 7,500,000       | Q3 2022 |
+| Receiver        | Allocation % | Allocation $SPR | When    |
+| --------------- | ------------ | --------------- | ------- |
+| Team            | 15%          | 7,500,000       | Q4 2021 |
+| Private Sale    | 12%          | 6,000,000       | Q1 2022 |
+| Public Sale     | 8%           | 4,000,000       | Q2 2022 |
+| Treasury        | 35%          | 17,500,000      | Q2 2022 |
+| Staking Rewards | 20%          | 10,000,000      | Q2 2022 |
+| Game Rewards    | 10%          | 5,000,000       | Q3 2022 |
 
 Tokens issued to the team & private sale investors are subject to a lock up and vesting schedule.
 
