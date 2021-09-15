@@ -118,6 +118,7 @@ Player rewards curve
 
 <!-- Active player curves:
 
+Three key values that Hyperblade NFTs have are: utility, artistry, and scarcity.
 a = [(0,0),(1,1000),(2,2200),(3,2500),(4,3000),(5,4000),(6,3500),(7,3200),(8,4800),(9,6500),(10,7500),(11,7700),(12,7000),(14,6800),(18,26600),(20,30000),(22,32000),(24,28000),(26,26000),(28,40000),(30,20000),(32,15000),(34,11000),(36,12000)]
 
 $$
@@ -188,4 +189,51 @@ This is a cool game because its on Unreal 5 and its free-to-play and will be ope
 
 Connect with your metamask account, download the game **_Duel to earn_**
 
-The point of this game is for players to enjoy the gameplay, posibilities to earn are just as important for the sake of us getting rich. -->
+The point of this game is for players to enjoy the gameplay, posibilities to earn are just as important for the sake of us getting rich.
+
+
+
+## Voting & ELO token _(yeah Tim, this will be better for HIP)_
+
+Kicks in later with full Hyperblade DAO adoption, playerz only. 
+
+Earn this token by playing the game and winning over players, classic ELO scoring system. Easy to understand for players coming from other games. (Winning over better players gives you more $ELO than over lower ranked opponents).
+
+$ELO is always tied to players account/blockchain address.
+
+Players will vote only on gameplay affecting decision (balance, etc), quadratic voting with delegation. Delegate (you can pick your favorite player on the leaderboard),
+
+whoever can propose the change, the change will be added as a task to the DAO system, price will be set like in Gitcoin DAO, and covered by Hyperblade treasury, it should rise if nobody is taking/completing the task. After verifying the completion and validity (should reviewers be staking their $SPR token?) reward will be released from the escrow account.
+
+_Who will be deciding on new content? $SPR or $ELO (i lean towards $SPR) players will dgaf about the cost of the implementation of their desired changes, and it won't be them paying out the bounties/rewards, as it will come out of the treasury-_
+
+Vote and you will roll for an NFT (doesn't matter if delegated or not), you got to open your lootbox or it won't be activated
+This roll will be based on your $ELO balance (not the tokens you were given delegation of), this gives top players way to earn even more as they can resell the NFTs
+
+Drop Games will hold 200,000 token initially - frozen account, this will allow Drop Games to participate in the game affecting decision for smoother transition to DAO governance.
+
+Every year there will be more token released and divided between current players (ELO system)
+
+Year 0: 0
+
+Year 1: 100,000
+
+Year 2: 200,000
+
+Year 3: 300,000
+
+Year 4: 400,000
+
+Year 5: 500,000
+
+Year 6: 600,000
+
+And so on
+
+## Regarding Pay-to-Win
+
+Hyperblade will always be accessible and fair to everyone irregards to how much capital they've put in.
+
+
+
+ -->

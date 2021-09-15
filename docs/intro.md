@@ -4,11 +4,9 @@ sidebar_position: 1
 
 # Introduction
 
-## Hyperblade
+## Welcome to Hyperblade
 
-<Quote fontSize="1.3rem">Duel to Earn</Quote>
 
----
 
 **Hyperblade** is the first game that is connecting real gamers and the world of blockchain.
 
@@ -56,7 +54,7 @@ The whitepaper goes deeper on the topics from this introduction. It summarizes t
 
 <Quote fontSize="1.4rem">We're building a whole new community-driven digital ecosystem. We're proving that game-dev can now be done the blockchain way.</Quote>
 
-.
+<br/>
 
 export const Quote = ({children, fontSize}) => (
 <span
