@@ -2,7 +2,7 @@
 sidebar_position: 4
 ---
 
-# Hyperblade DAO Governance
+# DAO Governance
 
 ### Why DAO?
 

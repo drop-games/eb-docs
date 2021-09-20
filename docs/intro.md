@@ -4,9 +4,9 @@ sidebar_position: 1
 
 # Introduction
 
+import TextStyled from "../src/components/CustomReactComponents";
+
 ## Welcome to Hyperblade
-
-
 
 **Hyperblade** is the first game that is connecting real gamers and the world of blockchain.
 
@@ -18,7 +18,7 @@ _
 **Hyperblade** is a competitive free-to-play sword fighting game, as well as a way for players to get real life income by playing the game they like.
 _
 
-But we are not developing only a game, Hyperblade is a whole new ecosystem built around the idea that players are much more than just a source of revenue. We took a whole new approach by putting together decentralization and openness of blockchain with a game that is actually fun to play. The organization behind the project is Hyperblade DAO, a decentralized autonomous organization. This is a new type of entity that puts the community in the forefront, _creating incentives and a sound framework for thousands of people to organize without the need for formal roles or hiearchy_[^1].
+But we are not developing only a game, Hyperblade is a whole new ecosystem built around the idea that players are much more than just a source of revenue. We took a brand new approach of putting together decentralization and openness of blockchain with a game that is actually fun to play. The organization behind the project is Hyperblade DAO, a decentralized autonomous organization. This is a new type of entity that puts the community in the forefront, _creating incentives and a sound framework for thousands of people to organize without the need for formal roles or hiearchy_[^1].
 
 [^1]: https://medium.com/coinmonks/daos-are-the-next-best-thing-4efaff6662f6
 
@@ -26,7 +26,7 @@ The backbone of **Hyperblade DAO** (and therefore the Hyperblade ecosystem) is *
 
 ## The Game
 
-**Hyperblade** is situated in a new fantasy universe that combines our world with the world of sci-fi. The result is an original and compelling narrative revolving around martial arts and melee weapons. We want to make players fans not only of the game, but of the whole Hyperblade universe itself.
+**Hyperblade** is situated in a new fantasy universe that combines our world with the world of sci-fi. The result is an original and compelling narrative revolving around martial arts and melee weapons. We want players to be fans not only of the game, but of the whole Hyperblade universe itself.
 
 A group of erudites called _‘The Architects’_ has been pushing the progress of the human race for centuries. Now in the distant future, human race is at that point where their technology is basically magic-like. The culmination of Architects' efforts was them synthesizing a new universe in a quantum experiment. After analyzing all of the data, they determine that the universe they created is the polar opposite to their own universe. In shock, they realize that this negative universe is a vessel for them to be in while they got to create their own original universe. This means that in the physics world of Hyperblade, existence and time are in a loop. One universe creates the other, forming a chain dependency.
 
@@ -52,16 +52,6 @@ One big issue that we're focusing on is accessibility, so besides the game being
 
 The whitepaper goes deeper on the topics from this introduction. It summarizes the mechanics and principles of Hyperblade and the DAO. Reader should get an understanding of the project and how it's being made.
 
-<Quote fontSize="1.4rem">We're building a whole new community-driven digital ecosystem. We're proving that game-dev can now be done the blockchain way.</Quote>
+<TextStyled fontStyle="italic" fontSize="1.4rem">We're building a whole new community-driven digital ecosystem. We're proving that game-dev can now be done the blockchain way.</TextStyled>
 
 <br/>
-
-export const Quote = ({children, fontSize}) => (
-<span
-style={{
-      fontSize: fontSize,
-      fontStyle: 'italic'
-    }}>
-{children}
-</span>
-);
