@@ -25,7 +25,7 @@ Each character has a set of unique attack moves and an one-of gameplay ability. 
 <ThemedImage style={{width: "30rem", maxWidth: "100%"}} alt="Combos graph" sources={{    light: useBaseUrl('../static/img/game/Combos-light-mode.png'),    dark: useBaseUrl('../static/img/game/Combos-dark-mode.png'),  }}/>
 
 <br/>
-<TextStyled fontSize="0.8rem">Example of a combo chain going from heavy attack to medium to light and back to medium</TextStyled>
+<TextStyled fontSize="0.8rem" color="var(--ifm-color-primary)" fontWeight="bold">Example of a combo chain going from heavy attack to medium to light and back to medium</TextStyled>
 
 <br/>
 <br/>
@@ -38,6 +38,14 @@ Different stances combined with the physically-based sword-fighting of Hyperblad
 
 Characters are the base for stance system, but they also have have individual properties such as attack speed, movement speed and size. Coupled with the selection of a sword type, which also augments gameplay, the combat variability and playstyle customization in Hyperblade becomes substantial.
 
+<br/>
+<ThemedImage style={{width: "40rem", maxWidth: "100%" }} alt="Combos graph" sources={{    light: useBaseUrl('../static/img/game/Combos2-light-mode.png'),    dark: useBaseUrl('../static/img/game/Combos2-dark-mode.png'),  }}/>
+
+<br/>
+<TextStyled fontSize="0.8rem" color="var(--ifm-color-primary)" fontWeight="bold">The same combo chain from the above, expressed as a series of inputs on a PS5</TextStyled>
+
+<br/>
+<br/>
 <TextStyled fontSize="1.3rem" fontWeight="bold" >Directionality</TextStyled>
 <br/>
 One of the key elements of combat is directionality.
@@ -61,22 +69,14 @@ The player is also equipped with a block mechanic, which effectively blocks any 
 Hyperblade is built with real cross-play in mind. And the key principle is that controls are optimized for both PC and console gaming. Furthermore, the control scheme allows even for mobile gaming without serious disadvantages.
 The way we achieve that is by putting complex game mechanics and a huge amount of unique attack animations behind a very simple input layout. The next figure shows how controls look on each platform.
 
-<br/>
-<ThemedImage style={{width: "40rem", maxWidth: "100%" }} alt="Combos graph" sources={{    light: useBaseUrl('../static/img/game/Combos2-light-mode.png'),    dark: useBaseUrl('../static/img/game/Combos2-dark-mode.png'),  }}/>
 
-<br/>
-<TextStyled fontSize="0.8rem">The same combo chain from the above, expressed as a series of inputs on a PS5</TextStyled>
-
-<br/>
-<br/>
 
 The controls are meant to be responsive, intuitive, and snappy, while at the same time being simple enough that they can be mapped easily to any platform. Following schema show how controls are mapped to example targeted platforms.
 
-<br/>
-<ThemedImage style={{width: "40rem", maxWidth: "100%" }} alt="Combos graph" sources={{    light: useBaseUrl('../static/img/game/Combos2-light-mode.png'),    dark: useBaseUrl('../static/img/game/Combos2-dark-mode.png'),  }}/>
+<ThemedImage style={{width: "40rem", maxWidth: "100%" }} alt="Combos graph" sources={{    light: useBaseUrl('../static/img/game/Controls-light-mode.png'),    dark: useBaseUrl('../static/img/game/Controls-dark-mode.png'),  }}/>
 
 <br/>
-<TextStyled fontSize="0.8rem">to be replaced with PC/console/mobile controls schematics</TextStyled>
+<TextStyled fontSize="0.8rem" color="var(--ifm-color-primary)" fontWeight="bold">PC/console/mobile controls schematics</TextStyled>
 
 <br/>
 <br/>
