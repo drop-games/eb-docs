@@ -24,11 +24,11 @@ Further down the timeline there will be an option for other DAO members to direc
 
 The collaboration is done using channels such as _Discord_ or _Snapshot_, as well as any other suitable way to effectively communicate and move the project forward.
 
-## $SPR Voting
+## \$SPR Voting
 
-Currently the main stakeholders in the DAO are $SPR owners, and they are voting in council members to represent their interests.
-All of their votes are counted in **quadratically**. This means that the real voting power of each voter equals square root of their **total** $SPR balance (i.e. wallet balance, staked and locked $SPR), this is done to make the elections democratic as it gets and to limit 'whale' influence on the outcome of elections. Tokenholders are incentivised to vote in elections with additional rewards like **NFT loot crate** drops, as well as they have option to delegate their voting power to some other tokenholder. 
-$SPR has to be in the wallet for 1 month until it will be elegible for voting as a way to lessen the possible hostile voting attacks.
+Currently the main stakeholders in the DAO are \$SPR owners, and they are voting in council members to represent their interests.
+All of their votes are counted in **quadratically**. This means that the real voting power of each voter equals square root of their **total** $SPR balance (i.e. wallet balance, staked and locked $SPR), this is done to make the elections democratic as it gets and to limit 'whale' influence on the outcome of elections. Tokenholders are incentivised to vote in elections with additional rewards like **NFT loot crate** drops, as well as they have option to delegate their voting power to some other tokenholder.
+\$SPR has to be in the wallet for 1 month until it will be elegible for voting as a way to lessen the possible hostile voting attacks.
 
 Another way for $SPR holders to influence where the project is going is by voting for **community created NFT** that will be included in the game. The incentive for the voters to choose the best art pieces is a **higher drop rate** in loot crates and/or **portion of fees** from the sales of this NFT.
 

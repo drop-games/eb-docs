@@ -7,13 +7,6 @@ import TextStyled from "../src/components/CustomReactComponents";
 
 # NFT
 
-<!-- Drop Games NFTs; Community created NFTs; NFT types - Swords, Armor, Other, real estate; NFT Themes & Collections; NFT mutability (contract upgradability)
-Any NFT can be voted in?
-How to earn NFT - duel to earn -> get a loot crate, buy on market
-Temporarily held NFT (like a boxing belt for champs etc)
-Third party NFT implementation (art in dojo, NFT music etc)
-Creators earns how? -->
-
 ## Why NFTs?
 
 NFTs are changing gaming world as we know it. Players are for the first time the real owners of their items, and are free to do whatever with them.
