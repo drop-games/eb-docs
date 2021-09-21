@@ -69,8 +69,6 @@ The player is also equipped with a block mechanic, which effectively blocks any 
 Hyperblade is built with real cross-play in mind. And the key principle is that controls are optimized for both PC and console gaming. Furthermore, the control scheme allows even for mobile gaming without serious disadvantages.
 The way we achieve that is by putting complex game mechanics and a huge amount of unique attack animations behind a very simple input layout. The next figure shows how controls look on each platform.
 
-
-
 The controls are meant to be responsive, intuitive, and snappy, while at the same time being simple enough that they can be mapped easily to any platform. Following schema show how controls are mapped to example targeted platforms.
 
 <ThemedImage style={{width: "40rem", maxWidth: "100%" }} alt="Combos graph" sources={{    light: useBaseUrl('../static/img/game/Controls-light-mode.png'),    dark: useBaseUrl('../static/img/game/Controls-dark-mode.png'),  }}/>
@@ -103,7 +101,7 @@ The setting is in an alternate-reality world, meaning we use the real world as t
 
 <img src={'../static/img/game/inspirationboard.png'} alt='Inspiration Board'/>
 
-### Story
+## Story
 
 Our story starts in the distant future, where human race is in such an advanced state that their technology is indistinguishable from magic. The group of top sciencists known as 'The Architects' are at that level where they are able to alter the state of time and matter. In one of their experiments they created a brand new universe, which in turn of events was acknowledged to be the 'opposite universe'. As architects realize the purpose of it, they have to migrate to it to be able to create the original universe they were from. This creates a loop, where one universe creates the other one and vice versa.
 

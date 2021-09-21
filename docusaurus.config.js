@@ -86,7 +86,7 @@ const katex = require("rehype-katex");
                   href: "https://playhyperblade.com",
                 },
                 {
-                  label: "Discord",
+                  label: "Reddit",
                   href: "https://playhyperblade.com",
                 },
                 {

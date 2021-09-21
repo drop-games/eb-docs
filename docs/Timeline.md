@@ -2,7 +2,7 @@
 sidebar_position: 6
 ---
 
-# 'The Gameplan' & Timeline
+# Timeline
 
 ## Tying it all together
 
