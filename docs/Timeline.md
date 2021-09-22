@@ -43,7 +43,7 @@ _Sept 2021 - Dec 2021_
 - Marketing - Trailer with NFTs
 - NFT promo sales
 - Public $SPR token sale
-- $SPR liquidity & staking rewards
+- \$SPR liquidity & staking rewards
 - HB DAO 7-member committee
 
 ### Phase 2
@@ -55,7 +55,7 @@ _Jan 2022 - Apr 2022_
 - HB marketplace
 - HB player customimzation
 - HB social game-modes
-- $SPR ($TMO) player rewards
+- \$SPR (\$TMO) player rewards
 - Smart contracts v2
 - Fiat on-ramp/off-ramp
 - Basic tools for third-party development

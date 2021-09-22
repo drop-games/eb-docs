@@ -45,6 +45,6 @@ Hyperblade Improvement Proposals or HIP are submitted by DAO members and include
 
 All of the HIPs will be visible on _Snapshot_, and this is where the vote will be held by the council. The whole voting process is transparent to prevent collusion and to promote healthy project development.
 
-## THe Future of DAO
+## The Future of DAO
 
 As a true blockchain project Hyperblade is on a verge of disrupting how games are being made and how community can be involved in the making of them. And this is why we want to constantly evolve both the technology as well as how the goverenance is carried out. This is why we are all for experimenting with the way the DAO is managed. We want to give players who actually play the game a voice and a way to change the direction the project is going. In the future, players could vote on the gameplay issues like balance or content updates. We envision DAO being fairly managed with all of the stakeholders being equitably represented.

@@ -6,11 +6,11 @@ sidebar_position: 1
 
 import TextStyled from "../src/components/CustomReactComponents";
 
-## Welcome to Hyperblade
+## Abstract
 
-**Hyperblade** is the first game that is connecting real gamers and the world of blockchain.
+**Hyperblade** is a tactical melee 1v1 fighting game with a bettable NFT economy and a yield-generating token
 
-The development started in 2019 as the _'Project Blade,'_ and from Day 1 our goal was to create a game with a super low entry barrier, amazing replayablity and competitive edge. Blockchain brought a big twist on how the game is being made, as well as the fact that players can now be empowered to have a say and stake in the game they play. As of today (September 2021) the game is in it's alpha stage with full release scheduled for 2022.
+<TextStyled color="var(--ifm-color-primary)" fontSize="1.4rem">One paragraph concentrated TLDR</TextStyled>
 
 ## Core concept
 
@@ -48,9 +48,13 @@ The cornerstone of Hyperblade's complex economy is **Spacerock ($SPR)** token, i
 
 One big issue that we're focusing on is accessibility, so besides the game being free-to-play, all blockchain activity is on L2. This means that the cost of dealing with NFTs is democratic and and not restrictive at all.
 
-## Whitepaper
+## Background
 
-The whitepaper goes deeper on the topics from this introduction. It summarizes the mechanics and principles of Hyperblade and the DAO. Reader should get an understanding of the project and how it's being made.
+The development of Hyperblade started in 2019 then as the _'Project Blade,'_ by Drop Games Inc., a company founded by **Tim & Theo Born**. From Day 1 the goal was to create a game with a super low entry barrier, amazing replayablity and competitive edge. Blockchain brought a big twist on how the game is being made, as well as the fact that players can now be empowered to have a say and stake in the game they play. As of today (September 2021) the game is in it's alpha stage with full release scheduled for 2022.
+
+## Disclaimer
+
+This white paper serves the purpose of introducing reader to the core concepts of _Hyperblade_ and _Hyperblade DAO_. The project is in active development and the content of this documents is subject to change without prior notice.
 
 <TextStyled fontStyle="italic" fontSize="1.4rem">We're building a whole new community-driven digital ecosystem. We're proving that game-dev can now be done the blockchain way.</TextStyled>
 
