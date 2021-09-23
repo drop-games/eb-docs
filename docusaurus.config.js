@@ -9,13 +9,14 @@ const katex = require("rehype-katex");
   module.exports = {
     title: "Hyperblade Docs",
     tagline: "Duel to Earn",
-    url: "https://docs.playhyperblade.com",
-    baseUrl: "/",
+    url: "https://dropdao.github.io",
+    baseUrl: "/hb-docs/",
     onBrokenLinks: "throw",
     onBrokenMarkdownLinks: "warn",
     favicon: "img/logo.ico",
-    organizationName: "Hyperblade DAO", // Usually your GitHub org/user name.
-    projectName: "hb-dao", // Usually your repo name.
+    organizationName: "dropdao", // Usually your GitHub org/user name.
+    trailingSlash: false,
+    projectName: "hb-docs", // Usually your repo name.
 
     presets: [
       [
