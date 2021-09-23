@@ -11,11 +11,12 @@ const katex = require("rehype-katex");
     tagline: "Duel to Earn",
     url: "https://docs.playhyperblade.com",
     baseUrl: "/hb-docs/",
+    trailingSlash: false,
     onBrokenLinks: "throw",
     onBrokenMarkdownLinks: "warn",
     favicon: "img/logo.ico",
-    organizationName: "Hyperblade DAO", // Usually your GitHub org/user name.
-    projectName: "hb-dao", // Usually your repo name.
+    organizationName: "dropdao", // Usually your GitHub org/user name.
+    projectName: "hb-docs", // Usually your repo name.
 
     presets: [
       [
@@ -26,6 +27,7 @@ const katex = require("rehype-katex");
             sidebarPath: require.resolve("./sidebars.js"),
             remarkPlugins: [math],
             rehypePlugins: [katex],
+            routeBasePath: "/",
             // Please change this to your repo.
             editUrl: "https://github.com/dropdao/hb-docs",
           },
@@ -47,7 +49,7 @@ const katex = require("rehype-katex");
       /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
       ({
         navbar: {
-          title: "Hyperblade",
+          title: "Hyperblade Whitepaper",
           logo: {
             alt: "Hyperblade logo",
             src: "img/logobig.png",
@@ -74,7 +76,7 @@ const katex = require("rehype-katex");
               items: [
                 {
                   label: "Whitepaper",
-                  to: "/docs/intro",
+                  to: "/",
                 },
               ],
             },
