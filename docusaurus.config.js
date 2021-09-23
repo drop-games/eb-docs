@@ -10,7 +10,7 @@ const katex = require("rehype-katex");
     title: "Hyperblade Docs",
     tagline: "Duel to Earn",
     url: "https://docs.playhyperblade.com",
-    baseUrl: "/",
+    baseUrl: "/hb-docs/",
     onBrokenLinks: "throw",
     onBrokenMarkdownLinks: "warn",
     favicon: "img/logo.ico",
