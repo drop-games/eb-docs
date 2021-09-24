@@ -22,7 +22,7 @@ Hyperblade puts a heavy emphasis on letting players find their own individualist
 
 Each character has a set of unique attack moves and an one-of gameplay ability. The attacks are separated into 3 attack stances: the light, medium, and heavy stance. Characters have different number of attacks in every stance, e.g. a 'nimble' character would have more light attacks than a 'tank' character. Attacks then can be chained into a combo. And combos can contain attacks from any stance.
 
-<ThemedImage style={{width: "30rem", maxWidth: "100%"}} alt="Combos graph" sources={{    light: useBaseUrl('../static/img/game/Combos-light-mode.png'),    dark: useBaseUrl('../static/img/game/Combos-dark-mode.png'),  }}/>
+<ThemedImage style={{width: "30rem", maxWidth: "100%"}} alt="Combos graph" sources={{    light: useBaseUrl('../img/game/Combos-light-mode.png'),    dark: useBaseUrl('../img/game/Combos-dark-mode.png'),  }}/>
 
 <br/>
 <TextStyled fontSize="0.8rem" color="var(--ifm-color-primary)" fontWeight="bold">Example of a combo chain going from heavy attack to medium to light and back to medium</TextStyled>
@@ -39,7 +39,7 @@ Different stances combined with the physically-based sword-fighting of Hyperblad
 Characters are the base for stance system, but they also have have individual properties such as attack speed, movement speed and size. Coupled with the selection of a sword type, which also augments gameplay, the combat variability and playstyle customization in Hyperblade becomes substantial.
 
 <br/>
-<ThemedImage style={{width: "40rem", maxWidth: "100%" }} alt="Combos graph" sources={{    light: useBaseUrl('../static/img/game/Combos2-light-mode.png'),    dark: useBaseUrl('../static/img/game/Combos2-dark-mode.png'),  }}/>
+<ThemedImage style={{width: "40rem", maxWidth: "100%" }} alt="Combos graph" sources={{    light: useBaseUrl('../img/game/Combos2-light-mode.png'),    dark: useBaseUrl('../img/game/Combos2-dark-mode.png'),  }}/>
 
 <br/>
 <TextStyled fontSize="0.8rem" color="var(--ifm-color-primary)" fontWeight="bold">The same combo chain from the above, expressed as a series of inputs on a PS5</TextStyled>
@@ -71,7 +71,7 @@ The way we achieve that is by putting complex game mechanics and a huge amount o
 
 The controls are meant to be responsive, intuitive, and snappy, while at the same time being simple enough that they can be mapped easily to any platform. Following schema show how controls are mapped to example targeted platforms.
 
-<ThemedImage style={{width: "40rem", maxWidth: "100%" }} alt="Combos graph" sources={{    light: useBaseUrl('../static/img/game/Controls-light-mode.png'),    dark: useBaseUrl('../static/img/game/Controls-dark-mode.png'),  }}/>
+<ThemedImage style={{width: "40rem", maxWidth: "100%" }} alt="Combos graph" sources={{    light: useBaseUrl('../img/game/Controls-light-mode.png'),    dark: useBaseUrl('../img/game/Controls-dark-mode.png'),  }}/>
 
 <br/>
 <TextStyled fontSize="0.8rem" color="var(--ifm-color-primary)" fontWeight="bold">PC/console/mobile controls schematics</TextStyled>
@@ -99,7 +99,7 @@ Hyperblade utilizes a stylized artstyle, which makes it very visually appealing 
 
 The setting is in an alternate-reality world, meaning we use the real world as the base and create something on top, bringing a brand new story-driven universe to life (just like _Overwatch_, _Harry Potter_, or _Soul Calibur_ do). This provides us with a very good framework not limited by the setting of any existing franchise, yet it also gives us a way to tie real-world cultural references to our game. As a fighting game revolving around melee combat, real-life martials like kendo or fencing could now be implemented in our character lore.
 
-<img src={'../static/img/game/inspirationboard.png'} alt='Inspiration Board'/>
+<img src={'../img/game/inspirationboard.png'} alt='Inspiration Board'/>
 
 ## Story
 
@@ -111,7 +111,7 @@ The plot of the first chapter of Hyperblade reveloves around a teenager from tod
 
 After waking up all confused, he thinks this was just a bad dream, but it's not his bed where he finds himself. He is now in _Mirror Society_ and his life will never be the same like before. The first chapter is about his self-discovery and understanding where he is and what is his purpose. His newfound skills in sword fighting put him right on the track to reach the top of the social ladder and find out what is this all about.
 
-## Weapon Types
+## Combat Styles & Weapon Types
 
 Hyperblade just like the name suggests focuses primarily on sword-based combat. And there are multiple types of swords like one handed swords, claymores, katanas and more. Again, each sword has different game parameters like attack speed, damage it inflicts or reach. For player's familiarity the way we implement weapon types is by grouping them loosely together, so players know what they expect from using a skimitar vs a katana.
 

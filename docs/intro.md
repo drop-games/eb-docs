@@ -11,7 +11,8 @@ import TextStyled from "../src/components/CustomReactComponents";
 
 **Hyperblade** is a tactical melee 1v1 fighting game with a bettable NFT economy and a yield-generating token
 
-<TextStyled color="var(--ifm-color-primary)" fontSize="1.4rem">One paragraph concentrated TLDR</TextStyled>
+Hyperblade,
+UE5; Free-to-Play; Cross-play & Cross-Platform; Mobile; esports; Blockchain; Ethereum; Level 2; Token; NFT; DAO; open source; divine intellect; stylized
 
 ## Core concept
 

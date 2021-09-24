@@ -10,7 +10,7 @@ const katex = require("rehype-katex");
     title: "Hyperblade Docs",
     tagline: "Duel to Earn",
     url: "https://docs.playhyperblade.com",
-    baseUrl: "/hb-docs/",
+    baseUrl: "/",
     trailingSlash: false,
     onBrokenLinks: "throw",
     onBrokenMarkdownLinks: "warn",
@@ -56,14 +56,8 @@ const katex = require("rehype-katex");
           },
           items: [
             {
-              type: "doc",
-              docId: "intro",
-              position: "left",
-              label: "Whitepaper",
-            },
-            {
-              href: "https://github.com/dropdao/hb-docs",
-              label: "GitHub",
+              href: "https://playhyperblade.com",
+              label: "Home",
               position: "right",
             },
           ],

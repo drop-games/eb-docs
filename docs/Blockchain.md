@@ -12,22 +12,22 @@ In this section we explain the blockchain part of the Hyperblade and the mechani
 
 ## Spacerock overview
 
-Spacerock ($SPR) is an ERC-20 token and native currency of the Hyperblade universe. It is managed by Hyperblade DAO, and has a total possible supply of 50,000,000 $SPR. Spacerock is the cornerstone of the DAO governance, as well as the primary medium of exchange in Hyperblade economy. [Governance](Governance) section goes in detail on how the DAO works.
+Spacerock ($SPR) is an ERC-20 token and native currency of the Hyperblade universe. It is managed by Hyperblade DAO, and has a total possible supply of 10,000,000 $SPR. Spacerock is the cornerstone of the DAO governance, as well as the primary medium of exchange in Hyperblade economy. [Governance](Governance) section goes in detail on how the DAO works.
 
 Since our goal is to make Hyperblade as accessible as it gets, it will be at mostly on **Level 2 of Ethereum**. Low transaction costs and easy on-boarding is what we're after.
 
 ## $SPR Allocation
 
-Total possible Spacerock supply is **50,000,000 $SPR**
+Total possible Spacerock supply is **10,000,000 $SPR**
 
 | Receiver        | Allocation % | Allocation $SPR | When    |
 | --------------- | ------------ | --------------- | ------- |
-| Team            | 15%          | 7,500,000       | Q4 2021 |
-| Private Sale    | 12%          | 6,000,000       | Q1 2022 |
-| Public Sale     | 8%           | 4,000,000       | Q2 2022 |
-| Treasury        | 35%          | 17,500,000      | Q2 2022 |
-| Staking Rewards | 20%          | 10,000,000      | Q2 2022 |
-| Game Rewards    | 10%          | 5,000,000       | Q3 2022 |
+| Team            | 15%          | 1,500,000       | Q4 2021 |
+| Private Sale    | 12%          | 1,200,000       | Q1 2022 |
+| Public Sale     | 8%           | 800,000         | Q2 2022 |
+| Treasury        | 35%          | 3,500,000       | Q2 2022 |
+| Staking Rewards | 20%          | 2,000,000       | Q2 2022 |
+| Game Rewards    | 10%          | 1,000,000       | Q3 2022 |
 
 Tokens issued to the **team** & **private sale investors** are subject to a 1 year lockup, **team** has additional 3 year vesting with monthly release in addition to that.
 
@@ -35,7 +35,7 @@ Tokens issued to the **team** & **private sale investors** are subject to a 1 ye
 
 <TextStyled fontSize="1.5rem" fontWeight="bold" >Distribution Chart</TextStyled>
 
-<ThemedImage alt="Spacerock Distribution Chart" sources={{    light: useBaseUrl('../static/img/chart-light-mode.svg'),    dark: useBaseUrl('../static/img/chart-dark-mode.svg'),  }}/>
+<ThemedImage alt="Spacerock Distribution Chart" sources={{    light: useBaseUrl('../img/chart-light-mode.svg'),    dark: useBaseUrl('../img/chart-dark-mode.svg'),  }}/>
 
 ## How to get Spacerock
 
@@ -87,7 +87,7 @@ The [NFT](NFT) section goes deeper on NFTs and their role in HB universe.
 
 ## Liqidity
 
-Liquidity is a necessary part of any healthy token economy. We're distributing **4,000,000 $SPR** during the public sale, which will be the first time $SPR will be available on the open market. Initial token sale is sensitive process that is going to have long term implications, so we have to make sure we'll do it the right way. The two current options in play are **Tokemak** and **Balancer Liquidity Bootstrapping Pool**. Both options allow for smooth price discovery, have reasonable capital reqirements, no explicit smart contract risk, and solid UX.
+Liquidity is a necessary part of any healthy token economy. We're distributing **800,000 $SPR** during the public sale, which will be the first time $SPR will be available on the open market. Initial token sale is sensitive process that is going to have long term implications, so we have to make sure we'll do it the right way. The two current options in play are **Tokemak** and **Balancer Liquidity Bootstrapping Pool**. Both options allow for smooth price discovery, have reasonable capital reqirements, no explicit smart contract risk, and solid UX.
 
 ## Staking
 
@@ -97,7 +97,7 @@ We are going to use the staking approach pioneered by _Illuvium_. After the laun
 
 Staking rewards will be locked for 6 months, after that they will be available for redemption. Unclaimed rewards accumulate compounded interest.
 
-Total amount of token allocated for staking rewards is **7,500,000 $SPR**. It will be released linearly over the span of 3 years after the start of staking.
+Total amount of token allocated for staking rewards is **2,000,000 $SPR**. It will be released linearly over the span of 3 years after the start of staking.
 
 ### Equation
 
@@ -141,7 +141,7 @@ The reward unlocked after vesting will be **~0.648 $SPR**
 
 If Spacerock is the blood of the Hyperblade DAO, then the Treasury is it's heart.
 
-The purpose of treasury is to fuel the development and move the project forward. Salaries, equity and grants for prominent DAO members, as well as other expenses like marketing, server costs, tournament prize pools etc., is what treasury is for. It is essentially a smart contract where all of the DAO's wealth is stored. This is where the allocated **17,500,000 $SPR** are going to be held, as well as where the revenues will go to. Think of the treasury as of the main business account of the DAO.
+The purpose of treasury is to fuel the development and move the project forward. Salaries, equity and grants for prominent DAO members, as well as other expenses like marketing, server costs, tournament prize pools etc., is what treasury is for. It is essentially a smart contract where all of the DAO's wealth is stored. This is where the allocated **3,500,000 $SPR** are going to be held, as well as where the revenues will go to. Think of the treasury as of the main business account of the DAO.
 
 The key principles for treasury are: inflows must exceed the outflows, divesification of assets, transparency on all levels, and putting development first.
 DAO takes a vote on all major proposal regarding the treasury, including budgetting for a new project, additional game rewards, friendly token-swaps with other projects, purchase of stable-coins etc.
