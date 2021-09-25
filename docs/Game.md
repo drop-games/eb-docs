@@ -133,4 +133,4 @@ Esports is the logical evolution of ranked gameplay. The balance, fast pace and 
 
 ## Other gamemodes
 
-The game will not be limited only to 1v1 duels. There are several game modes currently in the development that will enrich the players' experience. Starting with a social game mode that we call the Lounge, which allows dozens of players to join a single server and just hang out and chat. The upcoming modes will also focus on expanding base game, for example 3v3 MOBA style game mode that can later translate to a social
+The game will not only be limited to 1v1 duels. There are several game modes currently in the development that will enrich the players' experience. Starting with a social game mode that we call the Hub, which allows dozens of players to join a single server and just hang out and chat, as well invite each other to duel. The upcoming modes will also focus on expanding base gameplay, for example 3v3 MOBA style game mode that can later translate to competitive/ranked.
