@@ -6,8 +6,8 @@ sidebar_position: 6
 
 This timeline/roadmap is subdivided into larger _Phases_, with Phase 0 being the pre-DAO period and following Phases are what is coming. Items are listed in the order they should be (or they were) completed.
 
-:::note
-This timeline will change as the project evolves
+:::warning
+This timeline is a subject to change as the project evolves
 :::
 
 ### Phase 0 - <Colored color="var(--ifm-color-primary)">Finished</Colored>

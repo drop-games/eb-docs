@@ -7,7 +7,7 @@ const katex = require("rehype-katex");
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 (
   module.exports = {
-    title: "Hyperblade Docs",
+    title: "Hyperblade Whitepaper",
     tagline: "Duel to Earn",
     url: "https://docs.playhyperblade.com",
     baseUrl: "/",

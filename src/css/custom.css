@@ -82,3 +82,38 @@ thead {
 tbody {
   background-color: var(--ifm-table-body-background-color);
 }
+
+.pseudo-table {
+  display: flex;
+  flex-direction: column;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+
+.pseudo-table-row {
+  display: flex;
+  flex-direction: row;
+}
+
+.pseudo-table-row-left-header {
+  flex: none;
+  margin-left: 0.8rem;
+  margin-right: 1.5rem;
+  font-weight: bold;
+  overflow: hidden;
+  white-space: nowrap;
+}
+@media screen and (max-width: 1250px) {
+  .pseudo-table-row {
+    flex-direction: column;
+  }
+
+  .pseudo-table-row-left-header {
+    font-weight: bold;
+    width: unset;
+    margin-left: inherit;
+    margin-right: inherit;
+    margin-top: 1rem;
+    margin-bottom: 0rem;
+  }
+}

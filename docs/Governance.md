@@ -4,12 +4,6 @@ sidebar_position: 4
 
 # DAO Governance
 
-## Why DAO?
-
-What made us go with the blockchain route is the current situation in the gaming industry where players have basically no control over the game they play, as well as no real in-game asset ownership (items can be permanently removed and banned players lose everything they got). The sole cause of this is a centralized economy that is fully controlled by the developer coming with only one official point of sale and limited/forbidden item & account resale. What this boils to is an economy that has no price-regulation and infinite/unrestricted asset emission, which in turn can lead to an unexpected inflation and items then being worhtless. Those kind of in-game economies are also tied to one particular game (best case, a franchise), so the items are rendered useless outside of it. Finally, the fact that the game can be simply closed down by the developer/IP owner (which happened to still popular multiplayer titles like _Need for Speed: World_ or _Battlefield Heroes_), shows that players are perceived only as a source of income, and barely something else.
-
-We mitigated the issues listed above by taking the blockchain way. Real ownership and true item scarcity are now guaranteed by the smart-contract and blockchain integrity. Item owners are permitted to do anything with their items, even outside of the game ecosystem. Matter of a fact, it is in DAO's interest that the players are trading/gambling/staking/leasing their items, as this generates market fees and therefore revenue. Hyperblade's inherit openness leads to greater adoption with more people flocking to see what is going on, creative individuals coming to expand the universe, and talented developers building interesting third party tools, or possibly even forking the game.
-
 _Our goal is to make Hyperblade DAO self-sufficient and managed by people who love the project and want it succeed as much as we do. We want to reach to as many people as we can, showing them that gaming can be done differently now._
 
 ## Hyperblade DAO
@@ -34,6 +28,7 @@ Another way for $SPR holders to influence where the project is going is by votin
 
 ## The Council
 
+<TextStyled fontWeight="bold">The Graph like council</TextStyled>
 \$SPR tokenholders vote in **the council of 7**, who are deemed the most suitable candidates to make high-level decisions regarding the protocol, Spacerock and DAO governance. Everything council-wise is done using **smart contracts** including on-chain voting. The election is held every 4 months via _Snapshot_, where candidates can be nominated at any time prior to that. The process of voting itself lasts 3 days, and after that the candidates with the most votes automatically receive the seat at the council.
 The core purpose of the council is to vote on **Hyperblade Improvement Proposals**, where the council member votes will have an equal weight and the outcome is decided by a _simple majority_.
 
@@ -48,3 +43,7 @@ All of the HIPs will be visible on _Snapshot_, and this is where the vote will b
 ## The Future of DAO
 
 As a true blockchain project Hyperblade is on a verge of disrupting how games are being made and how community can be involved in the making of them. And this is why we want to constantly evolve both the technology as well as how the goverenance is carried out. This is why we are all for experimenting with the way the DAO is managed. We want to give players who actually play the game a voice and a way to change the direction the project is going. In the future, players could vote on the gameplay issues like balance or content updates. We envision DAO being fairly managed with all of the stakeholders being equitably represented.
+
+## NFT Voting
+
+<TextStyled fontWeight="bold">essentially prediction market, like vitalik said</TextStyled>

@@ -57,6 +57,8 @@ Items are often for the sake of consistency grouped together in a collection, wh
 
 The primary marketplace for HB NFTs will be Hyperblade Marketplace (detailed in [Blockchain](Blockchain#hyperblade-marketplace) section). Alternatively, the unwrapped Hyperblade NFTs can be traded on any other NFT market, such as OpenSea, Rarible etc.
 
+The initial market offering of a NFT is done trough an Dutch Auction, to ensure t
+
 ## NFT Types
 
 **Hyperblade NFTs** can be put in three categories:

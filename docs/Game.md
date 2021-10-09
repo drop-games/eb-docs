@@ -23,9 +23,8 @@ Hyperblade puts a heavy emphasis on letting players find their own individualist
 Each character has a set of unique attack moves and an one-of gameplay ability. The attacks are separated into 3 attack stances: the light, medium, and heavy stance. Characters have different number of attacks in every stance, e.g. a 'nimble' character would have more light attacks than a 'tank' character. Attacks then can be chained into a combo. And combos can contain attacks from any stance.
 
 <ThemedImage style={{width: "30rem", maxWidth: "100%"}} alt="Combos graph" sources={{    light: useBaseUrl('../img/game/Combos-light-mode.png'),    dark: useBaseUrl('../img/game/Combos-dark-mode.png'),  }}/>
-
 <br/>
-<TextStyled fontSize="0.8rem" color="var(--ifm-color-primary)" fontWeight="bold">Example of a combo chain going from heavy attack to medium to light and back to medium</TextStyled>
+<TextStyled fontSize="0.8rem" color="var(--ifm-color-primary)" fontWeight="bold">Fig.1: Example of a combo chain going from heavy attack to medium to light and back to medium</TextStyled>
 
 <br/>
 <br/>
@@ -42,7 +41,7 @@ Characters are the base for stance system, but they also have have individual pr
 <ThemedImage style={{width: "40rem", maxWidth: "100%" }} alt="Combos graph" sources={{    light: useBaseUrl('../img/game/Combos2-light-mode.png'),    dark: useBaseUrl('../img/game/Combos2-dark-mode.png'),  }}/>
 
 <br/>
-<TextStyled fontSize="0.8rem" color="var(--ifm-color-primary)" fontWeight="bold">The same combo chain from the above, expressed as a series of inputs on a PS5</TextStyled>
+<TextStyled fontSize="0.8rem" color="var(--ifm-color-primary)" fontWeight="bold">Fig.2: The same combo chain from the above, expressed as a series of inputs on a PS5</TextStyled>
 
 <br/>
 <br/>
@@ -74,7 +73,7 @@ The controls are meant to be responsive, intuitive, and snappy, while at the sam
 <ThemedImage style={{width: "40rem", maxWidth: "100%" }} alt="Combos graph" sources={{    light: useBaseUrl('../img/game/Controls-light-mode.png'),    dark: useBaseUrl('../img/game/Controls-dark-mode.png'),  }}/>
 
 <br/>
-<TextStyled fontSize="0.8rem" color="var(--ifm-color-primary)" fontWeight="bold">PC/console/mobile controls schematics</TextStyled>
+<TextStyled fontSize="0.8rem" color="var(--ifm-color-primary)" fontWeight="bold">Fig.3: PC/console/mobile controls schematics</TextStyled>
 
 <br/>
 <br/>
