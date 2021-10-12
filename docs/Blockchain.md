@@ -51,7 +51,7 @@ Tokens issued to the **team** & **private sale investors** are subject to a 1 ye
 - Through partnering with the DAO
 - Playing the game
 
-## Play-to-Earn
+## Duel-to-Earn
 
 The core idea of Hyperblade that it is one of the first blockchain games with mainstream appeal and actual gameplay. And one of the biggest draws will be the possiblity to earn by simply playing the game.
 
@@ -199,9 +199,11 @@ For Hyperblade having premier user experience and all while on blockchain means 
 
 <br/>
 
-**This is what we are aiming for on full release:**
+### Planned Blockchain Features On-Release
 
+_
 To play the game, player has to connect their web3 wallet with Hyperblade on L2. And from there, the sky's the limit.
+_
 
 - Seamless on/off ramps from Layer 1/fiat currencies/exchanges
 - Non-custodial account ownership

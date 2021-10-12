@@ -27,7 +27,7 @@ First NFTs in Hyperblade are designed by the core dev team, those will set the s
 
 Worth noting is that we strive for the best player experience, and this means absence of Pay-to-Win in general. None of the NFTs/items are giving the holder an unfair advantage over their opponents. You _cannot_ buy skill in Hyperblade.
 
-NFTs are however not only used for the item ownership. Non-transferable (i.e. buy once have them forever tied to your account) NFTs serve as a way to sell stuff like DLC's, tournament tickets and such.
+NFTs are however not only used for the item ownership. Non-transferable (i.e. buy once have them forever tied to your account) NFTs serve as a way to sell DLC's, tournament tickets and such.
 
 ### The Power of Utility
 
@@ -57,21 +57,32 @@ Items are often for the sake of consistency grouped together in a collection, wh
 
 The primary marketplace for HB NFTs will be Hyperblade Marketplace (detailed in [Blockchain](Blockchain#hyperblade-marketplace) section). Alternatively, the unwrapped Hyperblade NFTs can be traded on any other NFT market, such as OpenSea, Rarible etc.
 
-The initial market offering of a NFT is done trough an Dutch Auction, to ensure t
+The initial market offering of a NFT is done trough an Dutch Auction, to ensure the fair
 
 ## NFT Types
 
-**Hyperblade NFTs** can be put in three categories:
+**Hyperblade NFTs** are fundamentally divided into the three categories:
 
-- In-game tranferable
-- In-game non-tranferable
-- Other
-
-The first category includes true NFTs like **Swords**, **Armor/Character Skins** or **Dojos**, those are valuable in and out of the game. What makes them special is that they are directly playable in Hyperblade, limited in issuance, and owners are able to whatver with them (e.g. importing the model in a game other than Hyperblade as an asset). The market will set the price for those items, and due to full compliance with NFT specifications those will be tradable even on third-party markets like _OpenSea_ and such. Each of those items has both general metadata like name, icon or 3D model that will be stored in decentralized matter on _IPFS_, which will be what owner is in custody/charge of, and Hyperblade specific metadata like in-game statistics or minor accessories.
-
-In-game non-transferable items is the broad category that covers everything else that is, as the name suggests, available in the game and is tied to the owner's account. This is a classic mechanic of non-blockchain games, where player can get an item by playing/buying it and cannot resell it. DLCs, season passes, or minor vanity like custom UI elements or emotes are the examples of this.
-
-Since Hyperblade is going to full extent of being a 'blockchain game', we utilize NFTs where they naturally work the best. Tounament tickets are the prime example of this, especially tickets with in-person attendance. Anybody can purchase a ticket and then can resell it if they want to, all on the blockchain.
+<div className="pseudo-table">
+	<div className="pseudo-table-row">
+		<p className="pseudo-table-row-left-header" style={{minWidth: '13rem'}}>In-game tranferable</p>
+		<p>
+		The first category includes true NFTs like <b>Swords</b>, <b>Armor/Character Skins</b> or <b>Dojos</b>, those are valuable in and out of the game. What makes them special is that they are directly playable in Hyperblade, limited in issuance, and owners are able to whatver with them (e.g. importing the model in a game other than Hyperblade as an asset). The market will set the price for those items, and due to full compliance with NFT specifications those will be tradable even on third-party markets like <i>OpenSea</i> and such. Each of those items has both general metadata like name, icon or 3D model that will be stored in decentralized matter on <i>IPFS</i>, which will be what owner is in custody/charge of, and Hyperblade specific metadata like in-game statistics or minor accessories.
+		</p>
+	</div>
+	<div className="pseudo-table-row">
+		<p className="pseudo-table-row-left-header" style={{minWidth: '13rem'}}>In-game non-transferable</p>
+		<p>
+		In-game non-transferable items is the broad category that covers everything else that is, as the name suggests, available in the game and is tied to the owner's account. This is a classic mechanic of non-blockchain games, where player can get an item by playing/buying it and cannot resell it. DLCs, season passes, or minor vanity like custom UI elements or emotes are the examples of this.
+		</p>
+	</div>
+	<div className="pseudo-table-row">
+		<p className="pseudo-table-row-left-header" style={{minWidth: '13rem'}}>Other/Auxilliary</p>
+		<p>
+		Since Hyperblade is going to full extent of being a 'blockchain game', we utilize NFTs where they naturally work the best. Tounament tickets are the prime example of this, especially tickets with in-person attendance. Anybody can purchase a ticket and then can resell it if they want to, all on the blockchain.
+		</p>
+	</div>
+</div>
 
 ### Swords
 
