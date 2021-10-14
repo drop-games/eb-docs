@@ -122,3 +122,27 @@ tbody {
     margin-bottom: 0rem;
   }
 }
+
+.abstract {
+  overflow-wrap: break-word;
+  margin: 1.8rem 2.5rem 3.5rem;
+  hyphens: manual;
+  text-align: justify;
+  font-size: 0.9rem;
+}
+
+@media screen and (max-width: 1250px) {
+  .abstract {
+    margin: inherit;
+  }
+}
+
+.list-enlarged {
+  margin-top: 2rem;
+  font-size: larger;
+  font-weight: 550;
+}
+
+.list-enlarged > li {
+  margin-bottom: 1.4rem;
+}

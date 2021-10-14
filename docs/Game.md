@@ -12,15 +12,15 @@ This section focuses on the Hyperblade as a game, explaining core mechanics, sto
 
 ## Core gameplay
 
-Hyperblade is a third-person fighter game that revolves around melee weapons and 1v1 duels. The gameplay is dynamic yet super competitive, and everything is built with cross-play in mind, so even mobile players can enjoy battling on the arenas of Hyperblade with relative ease.
+Hyperblade is a third-person fighter game that revolves around melee weapons and 1v1 duels. The gameplay is dynamic yet super competitive, and since it's built with cross-play in mind, even mobile players can enjoy battling on the arenas of Hyperblade with relative ease.
 
-_Duel your opponents in a classic rounds system, you have 90 seconds in each round to defeat your opponent three times. Or try any different game mode, maybe even a social one where you just hang out with your friends in the dojo. Play even offline versus bots or in the singleplayer campaigns._
+_Duel your opponents in a classic rounds system, you have 90 seconds in each round to defeat your opponent three times. Or try any different game mode, maybe even a social one where you just hang out with your friends in the dojo. Play even offline versus bots or in singleplayer campaigns._
 
 ## Key Mechanics
 
-Hyperblade puts a heavy emphasis on letting players find their own individualistic fighting style, and the overall game design reflects that. To allow the players to build their own style, the game lets players to choose a combination of a character and a sword type. Each of which adds their distinctive augmentations to the overall gameplay experience.
+Hyperblade puts a heavy emphasis on letting players find their own individualistic fighting style, and the overall game design reflects that. To allow the players to build their own style, the game lets players to choose a combination of a character and a sword type, each of which adds their distinctive augmentations to the overall gameplay experience.
 
-Each character has a set of unique attack moves and an one-of gameplay ability. The attacks are separated into 3 attack stances: the light, medium, and heavy stance. Characters have different number of attacks in every stance, e.g. a 'nimble' character would have more light attacks than a 'tank' character. Attacks then can be chained into a combo. And combos can contain attacks from any stance.
+Every character has a set of unique attack moves and an one-of gameplay ability. The attacks are separated into 3 attack stances: the light, medium, and heavy stance. Characters have different number of attacks in every stance, e.g. a 'nimble' character would have more light attacks than a 'tank' character. Attacks then can be chained into a combo, where combos can contain attacks from any stance.
 
 <ThemedImage style={{width: "30rem", maxWidth: "100%"}} alt="Combos graph" sources={{    light: useBaseUrl('../img/game/Combos-light-mode.png'),    dark: useBaseUrl('../img/game/Combos-dark-mode.png'),  }}/>
 <br/>
@@ -29,11 +29,11 @@ Each character has a set of unique attack moves and an one-of gameplay ability. 
 <br/>
 <br/>
 
-Stances also have different properties. Heavy attacks are slower while dealing more damage. A light attack is fast, but deals low amounts of damage, while a medium attack is a balanced one.
+Stances also have different properties. Heavy attacks are slower while dealing more damage, a light attack is fast, but deals low amount of damage, while a medium attack is the balanced one.
 
-The concept of stances gives us the ability to include a large variety of different attacks in the game. Players then can pick and choose different attack animations, chaining them together into a unique attack combo. Players will eventually discover which combo chains are favourable against other combo chains, allowing for a great depth of skill as each attack move has its own distinctive animation, and thus direction and timing.
+The concept of stances gives us the ability to include a large variety of different attacks/moves in the game. Players then can pick and choose different attack animations, chaining them together into a unique attack combo. Players will eventually discover which combo chains are favourable against other combo chains, allowing for a great depth of skill as each attack move has its own distinctive animation, and thus direction and timing.
 
-Different stances combined with the physically-based sword-fighting of Hyperblade also allows for interesting combat mechanics such as parries. When two swords collide a heavy attack wins over a medium attack, a medium attack wins over a light attack, and the air attack wins over the heavy attack. This creates a circular dependency between all of the attacks, ensuring that each attack can be countered if the player is skilled enough.
+Different stances combined with the physically-based sword-fighting of Hyperblade also allows for interesting combat mechanics such as _parries_. When two swords collide a heavy attack wins over a medium attack, a medium attack wins over a light attack, and the air attack wins over the heavy attack. This creates a circular dependency between all of the attacks, ensuring that each attack can be countered if the player is skilled enough.
 
 Characters are the base for stance system, but they also have have individual properties such as attack speed, movement speed and size. Coupled with the selection of a sword type, which also augments gameplay, the combat variability and playstyle customization in Hyperblade becomes substantial.
 
@@ -49,26 +49,28 @@ Characters are the base for stance system, but they also have have individual pr
 <br/>
 One of the key elements of combat is directionality.
 
-Because we’re generating attack collision based on the animation of the characters, the directionality of attacks comes into play. Different animations have different directionality of attacks, which means in order to parry an attack successfully a player has to be aware of the direction than an incoming attack is taking and counter it with an attack that has an intersecting trajectory. This sort of gameplay is very reminiscent of titles such as _Mordhau_ or _Star Wars Jedi Knight: Jedi Academy_, where players have to aim their sword attacks and use the right attack direction to successfully parry an attack or to get through the opponents’ defence and inflict a damaging hit. To capitalize on this interesting nature of directionality, we decided to implement it as one of the features of movement mechanic, this is done by adding a left attack and a right attack to each stance. When the player is standing still or moving forward, stance forward combo attacks are selected.
+Because the game is generating attack collision based on the animation of the characters, the directionality of attacks comes into play. Different animations have different directionality of attacks, which means in order to parry an attack successfully a player has to be aware of the direction than an incoming attack is taking and counter it with an attack that has an intersecting trajectory. This sort of gameplay is very reminiscent of titles such as _Mordhau_ or _Star Wars Jedi Knight: Jedi Academy_, where players have to aim their sword attacks and use the right attack direction to successfully parry an attack or to get through the opponents’ defence and inflict a damaging hit. To capitalize on this interesting nature of directionality, Hyperblade implements it as one of the features of movement mechanic, this is done by adding a left attack and a right attack to each stance. When the player is standing still or moving forward, stance forward combo attacks are selected.
 
 <TextStyled fontSize="1.3rem" fontWeight="bold" >Attack Charge and Tiers</TextStyled>
 <br/>
-When play-testing Hyperblade early, one big problem arose pretty quickly: kiting opponents indefinitely and having no incentive to attack the opponent when on the losing end. That’s why we introduced the concept of attack charging. Attack charging incentivizes the player to run at the opponent and be the first to attack, as a higher charged attack always wins the parry. This means that the first player to charge an attack is put into an offensive position, while the opposing player is put into a defensive position. The defensive player then has the choice of counter-attacking, blocking or trying to avoid the attack.
+During the prototype stage, a significant issue was uncovered:
+The player who is currently winning can simply be evading his opponenet or stay in the 'block' stance, not receiving any damage, thus insure his technical victory.
+To mitigate this exploit, the concept of attack charging was implemented. Attack charging incentivizes the player to run at the opponent and be the first to attack, as a higher charged attack always wins the parry. This means that the first player to charge an attack is put into an offensive position, while the opposing player is put into a defensive position. The defensive player then has the choice of counter-attacking, blocking or trying to avoid the attack.
 
-We extended the concept of charged attacks by introducing charge tiers. Charge tiers augment the attack based on how fully charged the attack is. Tier 1 is the base attack, Tier 2 is a middle ground defined in the character properties, and Tier 3 is a fully charged attack. In order to charge an attack, the player has to hold down the attack button. The player character emits visible visual cues to signify how charged the player is. When a player charges an attack fully, the attack will automatically play at a Tier 3 level. Tier 3 attacks also serve the purpose of being able to break through the block of the opposing player.
+Attack charge tiers augment the attack based on how fully charged the attack is. Tier 1 is the base attack, Tier 2 is a middle ground defined in the character properties, and Tier 3 is a fully charged attack. In order to charge an attack, the player has to hold down the attack button. The player character emits visible visual cues to signify how charged the player is. When a player charges an attack fully, the attack will automatically play at a Tier 3 level. Tier 3 attacks also serve the purpose of being able to break through the block of the opposing player.
 
-<TextStyled fontSize="1.3rem" fontWeight="bold" >Parries and Block</TextStyled>
+<TextStyled fontSize="1.3rem" fontWeight="bold" >Parries and Blocks</TextStyled>
 <br/>
-Physicality and Directionality of attacks raise the obvious question of what happens when two swords collide; we call this event a ‘Parry.’ When a player parries another attack the attack with the higher charge tier has the advantage. The player that wins the parry has a faster recovery time, allowing a bigger time window to counter-attack the opponent. If two players parry with the same charge tier, the parry is neutral and both players have the same recovery time and thus time delay between allowing an attack input to go through.
+Physicality and Directionality of attacks raise the obvious question of what happens when two swords collide; we call this event a _Parry_ When a player parries another attack the attack with the higher charge tier has the advantage. The player that wins the parry has a faster recovery time, allowing a bigger time window to counter-attack the opponent. If two players parry with the same charge tier, the parry is neutral and both players have the same recovery time and thus time delay between allowing an attack input to go through.
 
-The player is also equipped with a block mechanic, which effectively blocks any incoming attacks and projectiles. The block has a certain ‘break’ damage threshold. If a player is spamming the block button constantly, it’s very easy for the opponent to break his block by breaking the threshold. On top of that, fully charged Tier 3 attacks instantly break any blocks or parries of lesser stances. This way we ensure that blocks are only used as a last resort option to dodge an incoming attack.8
+Player are also able to utilize the _Block_ mechanic, which effectively blocks any incoming attacks and projectiles. The block has a certain ‘break’ damage threshold. If a player overusing the block at the moment, it will be very easy for the opponent to break his block by breaking the threshold. On top of that, fully charged Tier 3 attacks instantly break any blocks or parries of the lesser stances. This is done to enforce blocks the last resort option to dodge an incoming attack.
 
 ## Controls
 
-Hyperblade is built with real cross-play in mind. And the key principle is that controls are optimized for both PC and console gaming. Furthermore, the control scheme allows even for mobile gaming without serious disadvantages.
+Hyperblade is built with real cross-play in mind. And the key principle is that controls are optimized for both PC and console gaming. Furthermore, the control scheme allows even for mobile gaming without any serious disadvantages.
 The way we achieve that is by putting complex game mechanics and a huge amount of unique attack animations behind a very simple input layout. The next figure shows how controls look on each platform.
 
-The controls are meant to be responsive, intuitive, and snappy, while at the same time being simple enough that they can be mapped easily to any platform. Following schema show how controls are mapped to example targeted platforms.
+The controls are meant to be responsive, intuitive, and snappy, while at the same time being simple enough that they can be mapped easily to any platform. The following schema show how controls are mapped to example targeted platforms.
 
 <ThemedImage style={{width: "40rem", maxWidth: "100%" }} alt="Combos graph" sources={{    light: useBaseUrl('../img/game/Controls-light-mode.png'),    dark: useBaseUrl('../img/game/Controls-dark-mode.png'),  }}/>
 

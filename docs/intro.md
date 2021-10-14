@@ -15,12 +15,14 @@ import TextStyled from "../src/components/CustomReactComponents";
 
 ## Abstract
 
-**Hyperblade** is a economic experiment in a value redistribution that combines a decentralized blockchain gaming ecosystem and an earning platform.
+<p className="abstract">
+<b>Hyperblade</b> is an economic experiment in a value redistribution that combines a decentralized blockchain gaming ecosystem and an earning platform.
 It's unique proposition is in the fusion of a highly replayable and accessible fighter game with elements of blockchain, particulary play-to-earn and on-chain governance & asset ownership.
 Hyperblade itself is a tactical melee-fighting game with cross-play on PC/Consoles/Mobile, prioritizing mathematical logic for the balance and giving players mainstream-ready gameplay and user experience.
 Combining the lessons learned from both gaming and blockchain industries, Hyperblade augments the now common free-to-play with play-to-earn cryptocurrency rewards in a fair distribution system dubbed "Duel-to-Earn", along with seamless blockchain integration via monetary and governance token "Spacerock", allowing the community to both govern and earn in a decentralized way.
 The inherent transparency, trustlessness and permissionless are further projected by tying game assets to Web3 wallet ownership, leveraging the openness of the platform to be the basis of the following gaming and infrastructure projects.
 Our goal is to shift the paradigms of the value creation, proving that community-driven approach is a sustainable way of developing highly artistic and innovative projects.
+</p>
 
 ## Industry Dynamics
 

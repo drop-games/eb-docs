@@ -9,45 +9,51 @@ import TextStyled from "../src/components/CustomReactComponents";
 
 ## Why NFTs?
 
-NFTs are changing gaming world as we know it. Players are for the first time the real owners of their items, and are free to do whatever with them.
-
-Hyperblade is built with this in mind. We took the concept of player ownership and integrated in directly in our game.
-NFTs are now what makes Hyperblade a unique experience for each and every player.
-And it will be one of the first games that features regular and 3D NFTs, both usable in the game. Those items range from basic vanity such as a frame around an avatar, to one-of custom made Dojos. Buy the item you like on the Hyperblade Marketplace or play the game and earn the thing with your own effort.
+_
+NFTs are changing gaming world as we know it. Players are for the first time the real owners of their items, ensured by the continuous integrity of the blockchain, and the untapped potential of NFTs in terms of their utility is one of the key focuses of Hyperblade development.
+_
 
 ## NFTs in Hyperblade
 
-To accomodate the broad spectrum of utility that different types of items have, they follow both fungible (ERC-721) and semifungible (ERC-1155) token specifications[^1]. Token are pre-minted on Layer 1 Ethereum then transfered to Layer 2, and this is where all of the activity is going on.
+NFTs are what makes Hyperblade a unique experience for each and every player, where it is of the first games that features regular and 3D NFTs, both usable in the game.
 
-The way we integrate NFTs into Hyperblade is by taking their metadata, i.e. what makes each NFT unique, and using them as parameters for the game itself. Later on, the core metadata like model/texture will be migrated to IPFS. So with metadata residing directly on chain, the true NFT ownership will be achieved. Brand new derivative projects can emerge now, even without Hyperblade DAO oversight. Players can now come together and build something completely unique and and groundbreaking, all with the NFTs they own. We believe that this is the way NFTs should be, decentralized and with vision for the future.
+Hyperblade further takes an advantage of the trustless and permissionless blockchain asset ownership by incorporating NFTs in other major aspects of the ecosystem, such as assets that are not featuring visuals like _DLC_, _tournament tickets_ etc.
+To accomodate the broad spectrum of utility that different types of items have, they follow both fungible (ERC-721) and semifungible (ERC-1155) token specifications[^1]. Token are pre-minted on Layer 1 Ethereum then transfered to Layer 2, where all of the user-facing activity is happening.
+
+The way NFTs are integrated into Hyperblade is by taking their metadata, i.e. what makes each NFT unique, and using them as parameters for the game itself. Later on, the core NFT metadata e.g. model/texture will be migrated to _**IPFS**_. So with metadata residing directly on chain, the true asset ownership will be achieved. Brand new derivative projects can emerge now, even without Hyperblade DAO oversight. Players can now come together and build something completely unique and and groundbreaking, all with the NFTs they own. _We believe that this is the way NFTs should be, decentralized and with a vision for the future._
 
 [^1]: non-fungible token and semi-fungible token are techically not the same, but for the sake of simplicity both are referred to as "NFT".
 
-First NFTs in Hyperblade are designed by the core dev team, those will set the standard how the NFTs should look and play like. Later on, creatives will be free to join us in this process. The NFTs designed by third-party participants will have to go through DAO vote to get in the game/market. After that they are treated just like any other items made by core team themselves.
+First NFTs in Hyperblade are designed by the core dev team, those will set the standard how the NFTs should look and play like. Later on, creatives will be free to join us in this process. The NFTs designed by third-party participants will have to go through DAO vote to get in the game/market. After that they are treated just like any other items made by core team itself.
 
 Worth noting is that we strive for the best player experience, and this means absence of Pay-to-Win in general. None of the NFTs/items are giving the holder an unfair advantage over their opponents. You _cannot_ buy skill in Hyperblade.
 
-NFTs are however not only used for the item ownership. Non-transferable (i.e. buy once have them forever tied to your account) NFTs serve as a way to sell DLC's, tournament tickets and such.
-
 ### The Power of Utility
 
-The three key values of Hyperblade NFTs are: utility, artistry, and scarcity. And while market got artistry and scarcity figured out already, the utility is perhaps lagging behind. For us, giving the items an actual utility is how we want to differentiate from the other projects.
+The three key values of Hyperblade NFTs are: **utility**, **artistry**, and **scarcity**. And while market got artistry and scarcity figured out already, the utility aspect is perhaps lagging behind. For Hyperblade, giving the items an actual _utility_ is how the project differentiates from it's competitiors.
 
-First of all, NFTs in Hyperblade can be literally usable in the game itself. Fighters wield _their own_ swords, put on _their own_ armor and so on. And the same goes the other way, each opponent shows up with a unique set of equipment making every duel truly special.
-
-Singleplayer is also where players will see the NFTs they own. During the playthrough, certain leveled items could be substituted with actual NFTs when it's fitting. Total immersion is what we're after, and defeating the final boss with the sword that is yours and yours only definitely adds up to the game atmosphere.
-
-The more advanced NFTs like swords can have their metadata altered by performing certain actions. Develop your NFT into something more with added vanity like stickers and aura, traceable history, or _smithing_. And because we also introduce untradable NFTs, we can now have artifacts that go from one player to another, think a Champion's Crown that goes from one reigning champ to the next one.
-
-Finally, it's becoming more and more obvious that gaming powered by blockchain and the community strives the most when there is a lot of stuff to do. And this is why we allow, and even encourage, on-chain activity like lending, fractionalizing, wagering etc. Matter of fact HB NFTs could be usable in other games as well, starting with a possible second game set in Hyperblade universe.
+- **Personalized Gameplay Experience** NFTs in Hyperblade are usable in the game itself. Fighters wield _their own_ swords, put on _their own_ armor and so on. And the same goes the other way, opponents also show up with their own equipment making every duel truly unique.
+- **Singleplayer Integration** - Singleplayer is also where players will see the NFTs they own. During the playthrough, certain leveled items could be substituted with actual NFTs when it's fitting. Total immersion is what we're after, and defeating the final boss with the sword that is yours and yours only definitely adds up to the game atmosphere.
+- **Metadata Mutation** - The more advanced NFTs like swords can have their metadata altered by performing certain actions. NFT can be mutated via added vanity like stickers and aura, traceable history, or _smithing_. And with the introduction of untradable NFTs, Hyperblade features artifacts that go from one player to another, e.g. a _Champion's Crown that goes from one reigning champ to the next one._
+- **On-Chain Features** - Communities of the games powered by blockchain strive the most when there is plenty of options of to do, including extra usability of the NFTs. And this is why we allow, and even encourage, on-chain activity like lending, fractionalizing, wagering etc. all to that point, where Hyperblade NFTs could be usable in other games as well, starting with a possible second game set in the Hyperblade universe.
 
 ### Loot Crates & Item Rarity
 
-Earning NFTs by playing comes in two flavors, through opening _fair_ loot crates, or getting the NFT outright. Items and loot crates come in different rarity tiers, and each loot crate crate is guaranteed to have at least one item of the appropriate rarity level. To open a loot crate, players have to use the in-game currency.
+Earning NFTs by playing comes through two channels: opening _fair_ loot crates, or getting the NFTs outright. Items and loot crates come in different rarity tiers, and each loot crate crate is guaranteed to have at least one item of the appropriate rarity level. To open a loot crate, players have to use the in-game currency **_Timeore_**.
 
-We have 7 rarity tiers planned. Starting with the most basic 'Wooden' and ending up with 'Diamond'.
+We have 7 rarity tiers planned. Starting with the most basic 'Wooden' and ending up with 'Diamond'. Each
 
-Getting a NFT/loot crate in-game is done by achieving certain milestones like reaching a specific level/rank or by participating in weekly challenges and such.
+<ul className="list-enlarged">
+	<li>Wooden</li>
+	<li>Iron</li>
+	<li>Silver</li>
+	<li>Golden</li>
+	<li>Platinum</li>
+	<li>Emerald</li>
+	<li>Diamond</li>
+</ul>
+
+Getting a NFT/loot crate in-game is done by achieving certain milestones like reaching a specific level/rank or by participating in weekly challenges and such. Furthermore, both of those categories are fully market integrated, and are tradable etc. in the line with other NFTs, creating yet another outlet for _Duel-to-Earn_.
 
 ### NFT Collections & Themes
 
@@ -86,26 +92,29 @@ The initial market offering of a NFT is done trough an Dutch Auction, to ensure 
 
 ### Swords
 
-In the beginning, player starts with a basic wooden sword, a bokken. This sword does not hold much of a value as it is, but this changes as the player rises trough the ranks. Later on this sword can be re-forged using in-game currency into something more rare and therefore valuable.
-Player also obtain extra swords from the Hyperblade Market or trough opening loot crates.
+In the beginning, player starts with a basic wooden sword, a _bokken_. This starter sword does not hold much of a value as it is, but this changes as the player progresses trough the ranks. Later on this sword can be re-forged using in-game currency becoming unique, therefore rare and valuable.
+Player also obtain extra swords from the Hyperblade Market or trough opening Loot Crates.
 Swords are then put into 7 tiers of increasing rarity, where the top ones are almost impossible to get by the regular means.
 
-Each sword has a unique, randomly generated, skin. Those skins can differ in 'wear level', color shade, or sporadicaly, sword can have a special property like a blue glow. On top of this, swords can be further customized with 'stickers' and such, thus adding to the variety how each sword will be like.
+Each sword has a unique, randomly generated, skin. Those skins can differ in 'wear level', color shade, or sporadicaly, sword can have a special property e.g. a blue static glow. On top of this, swords can be further customized with 'stickers' and such, thus adding to the variety of the sword pool.
 
 Additional metadata like 'kill-count' might be also integrated into the sword, so weapons now have their own history as well.
 
-The visual qualities, personal history, and perhaps the sentimental value, is why we believe players will be appreciating the swords they have, in addition to ability show off their personal achievements right on the blockchain.
+_
+The visual qualities, personal history, and perhaps the sentimental value, is why we believe players will be appreciating the swords they have, in addition to possibility show off their personal achievements right on the blockchain.
+_
 
 ### Armor & Character Skins
 
-Those are really similar to **Swords** in terms of implementation, where the biggest difference is that those have different customization pattern. Characters each have armor slots just like in classic RPG's like _The Elder Scrolls_ or similar, and player has to collect all of the pieces to have a complete set. Each character can have different types of armor and their own wardrobe customization. Further, there can be unique character skins that change how the character looks in general, not only limited to attire.
+Armor & Skins, akin to **Swords** in terms of implementation have advanced ingame and on-chain functionality, where the main difference is different customization patterns for the wearables.
+Characters have armor slots just like in classic RPG's like _The Elder Scrolls_ or such, and player has to collect all the pieces to have a complete set. Each character can have different types of armor and their own wardrobe customization. Further, there can be unique character skins that change how the character looks in general, not only limited to attire.
 
-At this time armor serves only as a visual distinguishment, and does not translate into any gameplay changes.
+At this time armor serves as a way for players to visually personalize the characters in and out of the game with no effect on the actual gameplay.
 
 ### Dojo
 
-One of the most exclusive NFTs that player can get is the _Dojo_. This is the most sacred possession of any player that can get it. There is only limited amount of existing Dojos, and each of them is unique. Players can join a server with the Dojo as the location and it's up to them who are they going to invite their Dojo. Owner can organize duels and tournaments here, as well as show off their Sword, Armor and _third-party NFT_ collection. Expect to see real NFT art decorating the wall or custom soundtrack on entering the premises, owners can finally take pride in the real estate they have.
+One of the most exclusive NFTs that player can get is the _Dojo_. This is the most sacred possession of any player that can get it. There is only limited amount of existing Dojos, and each of them is unique. Players can join a server with the Dojo as the location and it's up to them who are they going to invite their Dojo. Owner can organize duels and tournaments here, as well as show off their Sword, Armor and _third-party NFT_ collection. _Expect to see real NFT art decorating the wall or custom soundtrack on entering the premises, owners can finally take pride in the virtual real estate they have._
 
 ## Hyperblade NFT Viewer App
 
-To enhance the user experience of the first Hyperblade NFT owners we plan on releasing the **Hyperblade NFT Viewer** app, which allows the users to connect their web3 wallets and see their Hyperblade NFTs right there. The app will be available for free on iOS/Android as well as online on <Link to="https://playhyperblade.com">playhyperblade.com</Link>. Here the users can see the swords they own, generate icons for the NFTs they already have and more.
+To enhance the user experience of the first Hyperblade NFT owners we plan on releasing the **Hyperblade NFT Viewer** app, which allows the users to connect their Web3 wallets and see their Hyperblade NFTs right there. The app will be available for free on iOS/Android as well as online on <Link to="https://playhyperblade.com">playhyperblade.com</Link>. Here the users can see the swords they own, generate icons for the NFTs they already have and more.
