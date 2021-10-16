@@ -53,9 +53,9 @@ Tokens issued to the **team** & **private sale investors** are subject to a 1 ye
 
 ## Duel-to-Earn
 
-The core idea of Hyperblade that it is one of the first games with conventional gameplay and blockchain-native features. And one of the biggest draws will be the possiblity to earn by playing the game. Hyperblade coins it's own term for that: **_Duel-to-Earn_**
+The core idea of Hyperblade that it is one of the first games with conventional gameplay and blockchain-native features. And one of the biggest draws will be the possibility to earn by playing the game. Hyperblade coins it's own term for that: **_Duel-to-Earn_**
 
-Due to the novelty of the concept of play-to-earn including vast economic implications, a due dilligence steps are required to implement this feature correctly. Considering the role of $SPR in the governance, it's important to preserve the balanced tokenomics and not allow inflation or attackers obtaining a significant portion of the circulating supply.
+Due to the novelty of the concept of play-to-earn including vast economic implications, a due diligence steps are required to implement this feature correctly. Considering the role of $SPR in the governance, it's important to preserve the balanced tokenomics and not allow inflation or attackers obtaining a significant portion of the circulating supply.
 
 For that purpose Hyperblade introduces a second, solely play-to-earn token - **_Timeore_**
 
@@ -79,7 +79,7 @@ Besides being an investment vehicle, $SPR has intristic purpose of being the cur
 
 Hyperblade Marketplace is where all of the HB related purchases are being made. It's the market where players trade their NFTs as well as purchase DLC and other game-related stuff. It is directly accessible in Hyperblade as well as through a separate app on the web.
 
-All trades are subject to a 4.5% fee that goes to HB Treasury. Gas fees are subsidised by the DAO (and low nontheless because of L2 integration).
+All trades are subject to a 4.5% fee that goes to HB Treasury. Gas fees are subsidised by the DAO (and low nonetheless because of L2 integration).
 
 This is also where creators will be able to sell their NFTs and other items, including setting up re-sale fees and initial price.
 
@@ -89,7 +89,7 @@ The [NFT](NFT) section goes deeper on NFTs and their role in HB universe.
 
 ## Liqidity
 
-**Liquidity** is a necessary part of any healthy token economy. We're distributing **800,000 $SPR** during the public sale, which will be the first time $SPR will be available on the open market. Initial token sale is sensitive process that is going to have long term implications, so we have to make sure we'll do it the right way. The two current options in play are **Tokemak** and **Balancer Liquidity Bootstrapping Pool**. Both options allow for smooth price discovery, have reasonable capital reqirements, no explicit smart contract risk, and solid UX.
+**Liquidity** is a necessary part of any healthy token economy. We're distributing **800,000 $SPR** during the public sale, which will be the first time $SPR will be available on the open market. Initial token sale is sensitive process that is going to have long term implications, so we have to make sure we'll do it the right way. The two current options in play are **Tokemak** and **Balancer Liquidity Bootstrapping Pool**. Both options allow for smooth price discovery, have reasonable capital requirements, no explicit smart contract risk, and solid UX.
 
 ## Staking
 
@@ -147,8 +147,8 @@ _
 
 The purpose of treasury is to fuel the development and move the project forward. Salaries, equity and grants for prominent DAO members, as well as other expenses like marketing, server costs, tournament prize pools etc., is what treasury is for. It is essentially a smart contract where all of the DAO's wealth is stored. This is where the allocated **3,500,000 $SPR** are going to be held, as well as where the revenues will go to. Think of the treasury as of the main business account of the DAO.
 
-The key principles for treasury are: inflows must exceed the outflows, divesification of assets, transparency on all levels, and putting development first.
-DAO takes a vote on all major proposal regarding the treasury, including budgetting for a new project, additional game rewards, friendly token-swaps with other projects, purchase of stable-coins etc.
+The key principles for treasury are: inflows must exceed the outflows, diversification of assets, transparency on all levels, and putting development first.
+DAO takes a vote on all major proposal regarding the treasury, including budgeting for a new project, additional game rewards, friendly token-swaps with other projects, purchase of stable-coins etc.
 
 DAO does not have an 'expiration' date, and neither does the treasury. So therefore due to it's nature and the role it plays in the DAO, it requires pragmatic supervision and rational budgeting. And it is in our interest to recruit the best available talent to help us manage it.
 
@@ -162,7 +162,7 @@ All of the market activity on HB Marketplace is taxed by the DAO. This includes:
 
 #### Direct Sales
 
-Direct sales of DAO comminisioned NFTs: cosmetics & unique NFTs, including "non-playable" NFTs
+Direct sales of DAO commissioned NFTs: cosmetics & unique NFTs, including "non-playable" NFTs
 
 #### DLC content & Battle-passes
 
@@ -186,7 +186,7 @@ We believe that by sharing what we build with others, we can make the whole bloc
 
 ## Blockchain integration
 
-Hyperblade is one of the first mainstream-ready games on **Ethereum blockchain**. So besides developing the game, we are putting HB economy on the chain, meaning that all of the $SPR activity, NFT trade, and pretty much everything else is tied to Web3 account ownership. And by choosing Ethereum we are going with the most promising blockchain that has the biggest market, as well as all functionality and security that we need. ETH 2.0 with decentralized Proof-of-Stake will use at least ~99.95% less energy post update[^1], making it, and therefore Hyperblade, truly enviromentally friendly. But building on Ethereum comes with certain trade-offs.
+Hyperblade is one of the first mainstream-ready games on **Ethereum blockchain**. So besides developing the game, we are putting HB economy on the chain, meaning that all of the $SPR activity, NFT trade, and pretty much everything else is tied to Web3 account ownership. And by choosing Ethereum we are going with the most promising blockchain that has the biggest market, as well as all functionality and security that we need. ETH 2.0 with decentralized Proof-of-Stake will use at least ~99.95% less energy post update[^1], making it, and therefore Hyperblade, truly environmentally friendly. But building on Ethereum comes with certain trade-offs.
 
 [^1]: https://blog.ethereum.org/2021/05/18/country-power-no-more/
 

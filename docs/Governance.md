@@ -8,7 +8,7 @@ _Our goal is to make Hyperblade DAO self-sufficient and managed by people who lo
 
 ## Hyperblade DAO
 
-Hyperblade DAO is the organization of **Spacerock** tokenholders as well other people interested in the success of the project, including Hyperblade players. The DAO controls Hyperblade (game), Spacerock & Timeore tokenomics, core Smart Contracts (including HB NFT contracts), Hyperblade Marketplace, as well as it self-manages it's own govenance including voting mechanisms.
+Hyperblade DAO is the organization of **Spacerock** tokenholders as well other people interested in the success of the project, including Hyperblade players. The DAO controls Hyperblade (game), Spacerock & Timeore tokenomics, core Smart Contracts (including HB NFT contracts), Hyperblade Marketplace, as well as it self-manages it's own governance including voting mechanisms.
 
 The future iterations of DAO governance will go beyond $SPR token voting, giving a voice to the rest of the community and especially the most involved and talented individuals who want to see the DAO prosper.
 
@@ -22,8 +22,8 @@ The collaboration is done using channels such as _Discord_ or _Snapshot_, as wel
 ## \$SPR Voting
 
 Currently the main stakeholders in the DAO are \$SPR owners, and they are voting in council members to represent their interests.
-All of their votes are counted in **quadratically**. This means that the real voting power of each voter equals square root of their **total** $SPR balance (i.e. wallet balance, staked and locked $SPR), this is done to make the elections democratic as it gets and to limit 'whale' influence on the outcome of elections. Tokenholders are incentivised to vote in elections with additional rewards like **NFT loot crate** drops, as well as they have option to delegate their voting power to some other tokenholder.
-\$SPR has to be in the wallet for 1 month until it will be elegible for voting as a way to lessen the possible hostile voting attacks.
+All of their votes are counted in **quadratically**. This means that the real voting power of each voter equals square root of their **total** $SPR balance (i.e. wallet balance, staked and locked $SPR), this is done to make the elections democratic as it gets and to limit 'whale' influence on the outcome of elections. Tokenholders are incentivized to vote in elections with additional rewards like **NFT loot crate** drops, as well as they have option to delegate their voting power to some other tokenholder.
+\$SPR has to be in the wallet for 1 month until it will be eligible for voting as a way to lessen the possible hostile voting attacks.
 
 Another way for $SPR holders to influence where the project is going is by voting for **community created NFTs** that will be included in the game. The incentive for the voters to choose the best art pieces is a **higher drop rate** in loot crates and/or **portion of fees** from the sales of this NFT.
 

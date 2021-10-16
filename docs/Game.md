@@ -47,20 +47,22 @@ Characters are the base for stance system, but they also have have individual pr
 <br/>
 <TextStyled fontSize="1.3rem" fontWeight="bold" >Directionality</TextStyled>
 <br/>
-One of the key elements of combat is directionality.
 
-Because the game is generating attack collision based on the animation of the characters, the directionality of attacks comes into play. Different animations have different directionality of attacks, which means in order to parry an attack successfully a player has to be aware of the direction than an incoming attack is taking and counter it with an attack that has an intersecting trajectory. This sort of gameplay is very reminiscent of titles such as _Mordhau_ or _Star Wars Jedi Knight: Jedi Academy_, where players have to aim their sword attacks and use the right attack direction to successfully parry an attack or to get through the opponents’ defence and inflict a damaging hit. To capitalize on this interesting nature of directionality, Hyperblade implements it as one of the features of movement mechanic, this is done by adding a left attack and a right attack to each stance. When the player is standing still or moving forward, stance forward combo attacks are selected.
+One of the key elements of combat is directionality.
+Because the game is generating attack collision based on the animation of the characters, the directionality of attacks comes into play. Different animations have different directionality of attacks, which means in order to parry an attack successfully a player has to be aware of the direction than an incoming attack is taking and counter it with an attack that has an intersecting trajectory. This sort of gameplay is very reminiscent of titles such as _Mordhau_ or _Star Wars Jedi Knight: Jedi Academy_, where players have to aim their sword attacks and use the right attack direction to successfully parry an attack or to get through the opponents’ defense and inflict a damaging hit. To capitalize on this interesting nature of directionality, Hyperblade implements it as one of the features of movement mechanic, this is done by adding a left attack and a right attack to each stance. When the player is standing still or moving forward, stance forward combo attacks are selected.
 
 <TextStyled fontSize="1.3rem" fontWeight="bold" >Attack Charge and Tiers</TextStyled>
 <br/>
+
 During the prototype stage, a significant issue was uncovered:
-The player who is currently winning can simply be evading his opponenet or stay in the 'block' stance, not receiving any damage, thus insure his technical victory.
+The player who is currently winning can simply be evading his opponent or stay in the 'block' stance, not receiving any damage, thus insure his technical victory.
 To mitigate this exploit, the concept of attack charging was implemented. Attack charging incentivizes the player to run at the opponent and be the first to attack, as a higher charged attack always wins the parry. This means that the first player to charge an attack is put into an offensive position, while the opposing player is put into a defensive position. The defensive player then has the choice of counter-attacking, blocking or trying to avoid the attack.
 
 Attack charge tiers augment the attack based on how fully charged the attack is. Tier 1 is the base attack, Tier 2 is a middle ground defined in the character properties, and Tier 3 is a fully charged attack. In order to charge an attack, the player has to hold down the attack button. The player character emits visible visual cues to signify how charged the player is. When a player charges an attack fully, the attack will automatically play at a Tier 3 level. Tier 3 attacks also serve the purpose of being able to break through the block of the opposing player.
 
 <TextStyled fontSize="1.3rem" fontWeight="bold" >Parries and Blocks</TextStyled>
 <br/>
+
 Physicality and Directionality of attacks raise the obvious question of what happens when two swords collide; we call this event a _Parry_ When a player parries another attack the attack with the higher charge tier has the advantage. The player that wins the parry has a faster recovery time, allowing a bigger time window to counter-attack the opponent. If two players parry with the same charge tier, the parry is neutral and both players have the same recovery time and thus time delay between allowing an attack input to go through.
 
 Player are also able to utilize the _Block_ mechanic, which effectively blocks any incoming attacks and projectiles. The block has a certain ‘break’ damage threshold. If a player overusing the block at the moment, it will be very easy for the opponent to break his block by breaking the threshold. On top of that, fully charged Tier 3 attacks instantly break any blocks or parries of the lesser stances. This is done to enforce blocks the last resort option to dodge an incoming attack.
@@ -80,7 +82,7 @@ The controls are meant to be responsive, intuitive, and snappy, while at the sam
 <br/>
 <br/>
 
-In order to maximize player engagement and retention, we are building up gameplay complexity behind the veil of extremely simple arcade-like controls. High replayability is achieved as a result of the uniqueness of each of the player matchups, where each player has the choice of a character and a sword type. And on top of the already complex stance and parry system, the addition of character abilities, sword types and freedom of movement augment the possibilites of each mach being completely unique and to never be repeated again.
+In order to maximize player engagement and retention, we are building up gameplay complexity behind the veil of extremely simple arcade-like controls. High replayability is achieved as a result of the uniqueness of each of the player match-ups, where each player has the choice of a character and a sword type. And on top of the already complex stance and parry system, the addition of character abilities, sword types and freedom of movement augment the possibilites of each mach being completely unique and to never be repeated again.
 
 ## Customization
 
@@ -88,37 +90,42 @@ Customization does not stop at the gameplay level, characters have rich visual c
 
 There is a certain amount of slots on character models that can be used. The elements can be armor pieces, clothes or even auras, victory animation emotes and such. However, the most important feature is sword customization.
 
-Players start with a default Bokken sword (think wooden katana) and as they progress the swords get fancier up to the levels where one can end up with super rare like Demonic Claymore of Doom or such. There are multiple types of swords available in the game, each has it's own unique parameters and plays differently than the others. Because of the distinctions like speed, damage and reach, players have to see what works the best with the character they use, because their opponents will definitely do the same.
+Players start with a basic _Bokken_ sword[^1] and as they progress the swords get more rare, advanced and exquisite. There are multiple types of swords available in the game, each has it's own unique parameters and plays differently than the others. Because of the distinctions like speed, damage and reach, players have to see what works the best with the character they use.
 
-The way we implement core customization is by going with on-chain NFTS. Those NFTs can be obtained during the playthrough or on the Hyperblade Marketplace. How does it all work is described in [NFT](NFT) section.
+The way we implement core customization is by going with on-chain NFTs. The NFTs can be obtained during the playthrough or on the Hyperblade Marketplace. How does it all work is described in [NFT](NFT) section.
+
+[^1]: https://en.wikipedia.org/wiki/Bokken
 
 ## Visuals & Setting
 
-Being a free-to-play, cross-platform fighting game, Hyperblade is a game built with mass appeal in mind. Our goal is to create a brand new universe that captivates a wide array of audiences while retaining a lot of depth, and that's why we've made several conscious decisions about the game design.
+Being a free-to-play, cross-platform fighting game, Hyperblade is a game built with mass appeal in mind. The goal is to create a brand new universe that captivates a wide array of audiences while retaining a lot of depth, and that's why a several key decisions about the Hyperblade design were made.
 
-Hyperblade utilizes a stylized artstyle, which makes it very visually appealing and readable, the later is especially important for competitive gameplay. Another advantage of the stylized approach is that it allows us to have a streamlined art pipeline, where we're able to make new assets effectively without losing any of the aesthetic value. The stylized graphics look great even on lower end platforms or mobile, which makes again game truly accessible for all. Finally, we want Hyperblade to be played without any visual discomfort even many years after the release, so having the graphics that will stand the test of time is essential. _Team Fortress 2_ is our benchmark in regards to longetivity, and the stylized artstyle and built in-trading platform are perhaps the reasons why this 14 year old game is just as popular as ever.
+Hyperblade utilizes a stylized artstyle, which makes it very visually appealing and readable, with later being especially important for competitive gameplay. Another advantage of the stylized approach is that it allows for a streamlined art pipeline, where the new assets are created effectively without losing any of the aesthetic value. The stylized graphics look arguably great even on lower end platforms or mobile, which makes again game truly accessible for all. Finally, Hyperblade is meant to be played without any visual discomfort even years after the initial release, so having the graphics that will stand the test of time is essential. _Team Fortress 2_ is the benchmark in regards to longevity, and the stylized artstyle, switch to Free-to-Play and built in-trading platform are perhaps the reasons why this 14 year old game is just as popular as ever[^2].
 
-The setting is in an alternate-reality world, meaning we use the real world as the base and create something on top, bringing a brand new story-driven universe to life (just like _Overwatch_, _Harry Potter_, or _Soul Calibur_ do). This provides us with a very good framework not limited by the setting of any existing franchise, yet it also gives us a way to tie real-world cultural references to our game. As a fighting game revolving around melee combat, real-life martials like kendo or fencing could now be implemented in our character lore.
+[^2]: https://steamcharts.com/app/440
 
-<img src={'../img/game/inspirationboard.png'} alt='Inspiration Board'/>
+The setting is in an alternate-reality world, meaning that Hyperblade uses real world as the basis and adds a multitude of sci-fi and fantasy elements, bringing a brand new story-driven universe to life (just like _Overwatch_, _Harry Potter_, or _Soul Calibur_ do). This gives the game a very good framework to work with, not limited by the setting of any existing franchise, yet also a way to tie real-world cultural references to the story and universe. As a fighting game revolving around melee combat, real-life martials like kendo or fencing could now be implemented in the character lore, as well as in the actual gameplay.
+
+<img src={'../img/game/inspirationboard.png'} alt='Hyperblade Artboard'/>
 
 ## Story
 
-Our story starts in the distant future, where human race is in such an advanced state that their technology is indistinguishable from magic. The group of top sciencists known as 'The Architects' are at that level where they are able to alter the state of time and matter. In one of their experiments they created a brand new universe, which in turn of events was acknowledged to be the 'opposite universe'. As architects realize the purpose of it, they have to migrate to it to be able to create the original universe they were from. This creates a loop, where one universe creates the other one and vice versa.
+The story begins in the distant future where human race is in such an advanced state that their technology is indistinguishable from magic. The group of key scientists, known as 'The Architects', are at that level where they are able to alter the state of time and matter. In one of their experiments they created a brand new universe, which in turn of events was acknowledged to be the 'opposite universe'. As architects realize the purpose of it, they have to migrate to it to be able to create the original universe they were from. This creates a loop where one universe creates the other one and vice versa.
 
-To fulfill their goals and they have to create a new society spanning multitude of star systems. This society is built on a certain set of values that Architects deem the best for the purpose of doing their research. Honor, martial arts and ancient philosophy are the key values that the whole _Mirror Society_ is following.
+To fulfill their goals and they create a new, interstellar society. This society is built on a set of values that Architects deem the best for the purpose of doing their research. Honor, martial arts and ancient philosophy are the key values that the whole _Mirror Society_ is following.
 
-The plot of the first chapter of Hyperblade reveloves around a teenager from today's New York City and his adventures in the Mirror Society. The events begin with him being ambushed in his home city by a group of presumed assassins all wielding 'shadowy' swords. While trying to escape, protagonist finds himself surrounded and seemingly doomed, but all of a sudden a sword appears in the ground, and as the last desperate attempt to survive, the main protagonist grabs it and suddenly disappears.
+The plot of the first chapter of Hyperblade revolves around a teenager from today's New York City and his adventures in the Mirror Society. The events begin with him being ambushed in his home city by a group of presumed assassins all wielding 'shadowy' swords. While trying to escape, protagonist finds himself surrounded and seemingly doomed, but all of a sudden a sword appears in the ground, and as the last desperate attempt to survive, the main protagonist grabs it and suddenly disappears.
 
-After waking up all confused, he thinks this was just a bad dream, but it's not his bed where he finds himself. He is now in _Mirror Society_ and his life will never be the same like before. The first chapter is about his self-discovery and understanding where he is and what is his purpose. His newfound skills in sword fighting put him right on the track to reach the top of the social ladder and find out what is this all about.
+After waking up all confused, he thinks this was just a bad dream, but it's not his bed where he finds himself. He is now in _Mirror Society_ and his life will never be the same like before. The first chapter is about his self-discovery and understanding where he is and what is his purpose. His newfound skills in sword fighting put him right on the track to help him in finding out what happened and if he ever get back home.
 
 ## Combat Styles & Weapon Types
 
-Hyperblade just like the name suggests focuses primarily on sword-based combat. And there are multiple types of swords like one handed swords, claymores, katanas and more. Again, each sword has different game parameters like attack speed, damage it inflicts or reach. For player's familiarity the way we implement weapon types is by grouping them loosely together, so players know what they expect from using a skimitar vs a katana.
+Hyperblade, just like the name suggests, focuses primarily on sword-fighting. And there are multiple types of swords like one handed swords, claymores, katanas and more. Again, each sword has different game parameters like attack speed, damage it inflicts or reach. For the purpose of making the learning curve smoother, the weapon types are grouped together based on their combat style.
 
-During the development we discovered that while sword fights are fun, there could be more to it. So besides swords we already have **hammers and maces** already in Hyperblade, which brings another layer of game dynamics and complexity. And there are also other types of weaponry currently in works. The next iteration of Hyperblade will come with **spears**, and in the future we want to bring halberds, crescent swords or flails.
+During the early development of Hyperblade, it became obvious that a wide variety of combat and weapon types adds a considerable amount of complexity and therefore replayability to the game. The current (October 2021) version of the game includes **hammers** and **maces**, with **spears** implementation on the way.
+In the future, more weapon types will be added, notably crescent swords and flails.
 
-To further enhance the gameplay and they way duels work, we introduce limited **ranged** combat. This is done to prevent ultra passive combat where one player just plainly evades his opponent. The way it's implemented is by giving a minor ability to every character to launch a projectile. It could be a ninja star, a throwing knife, or even something more exotic like a self-guiding mini drone etc.
+To further enhance the gameplay and they way duels work, Hyperblade features limited **ranged** combat. This is done to prevent ultra passive combat where one player just plainly evades his opponent. The way it's implemented is by giving a minor ability to every character to launch a projectile. It could be a ninja star, a throwing knife, or even something more exotic like a self-guiding mini drone etc.
 
 ## Seasons, Ranked & Esports
 
@@ -130,8 +137,8 @@ Competitive ranks are separate from the player level, and are reset each each **
 
 There are unique **Rewards** given out for playing ranked mode, as well as a chance to get a Loot Crate just like in casual mode. The chance that one gets a better reward is linearely increasing as the ranks are rising up. The top players can expect to get valuable NFTs that are impossible to get otherwise.
 
-Esports is the logical evolution of ranked gameplay. The balance, fast pace and rich visuals are making both esports and regular streaming viable, giving the viewers feeling like they are the ones playing. We also plan on hosting several annual tournaments with prize pools. Those will be funded from the DAO treasury, sponsors and NFT ticket sales. Later on, tools for hosting custom tournaments will be released for all.
+Esports is the logical evolution of ranked gameplay. The balance, fast pace and rich visuals are making both esports and streaming viable, giving the viewers feeling like they are the ones playing. We also plan on hosting several annual tournaments with prize pools. Those will be funded from the DAO treasury, sponsors and NFT ticket sales. Later on, tools for hosting custom tournaments will be released for all.
 
-## Other gamemodes
+## Other Gamemodes
 
-The game will not only be limited to 1v1 duels. There are several game modes currently in the development that will enrich the players' experience. Starting with a social game mode that we call the Hub, which allows dozens of players to join a single server and just hang out and chat, as well invite each other to duel. The upcoming modes will also focus on expanding base gameplay, for example 3v3 MOBA style game mode that can later translate to competitive/ranked.
+The game will not only be limited to 1v1 duels. There are several game modes currently in the development, starting with a social game mode called the _Hub_, which allows up to 32 players to join a single server and just hang out and chat, as well invite each other to duel. The upcoming modes will also focus on expanding base gameplay, for example 3v3 MOBA style game mode that can later translate to competitive/ranked is considered.

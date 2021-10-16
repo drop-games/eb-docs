@@ -18,7 +18,7 @@ _
 NFTs are what makes Hyperblade a unique experience for each and every player, where it is of the first games that features regular and 3D NFTs, both usable in the game.
 
 Hyperblade further takes an advantage of the trustless and permissionless blockchain asset ownership by incorporating NFTs in other major aspects of the ecosystem, such as assets that are not featuring visuals like _DLC_, _tournament tickets_ etc.
-To accomodate the broad spectrum of utility that different types of items have, they follow both fungible (ERC-721) and semifungible (ERC-1155) token specifications[^1]. Token are pre-minted on Layer 1 Ethereum then transfered to Layer 2, where all of the user-facing activity is happening.
+To accommodate the broad spectrum of utility that different types of items have, they follow both fungible (ERC-721) and semifungible (ERC-1155) token specifications[^1]. Token are pre-minted on Layer 1 Ethereum then transfered to Layer 2, where all of the user-facing activity is happening.
 
 The way NFTs are integrated into Hyperblade is by taking their metadata, i.e. what makes each NFT unique, and using them as parameters for the game itself. Later on, the core NFT metadata e.g. model/texture will be migrated to _**IPFS**_. So with metadata residing directly on chain, the true asset ownership will be achieved. Brand new derivative projects can emerge now, even without Hyperblade DAO oversight. Players can now come together and build something completely unique and and groundbreaking, all with the NFTs they own. _We believe that this is the way NFTs should be, decentralized and with a vision for the future._
 
@@ -30,7 +30,7 @@ Worth noting is that we strive for the best player experience, and this means ab
 
 ### The Power of Utility
 
-The three key values of Hyperblade NFTs are: **utility**, **artistry**, and **scarcity**. And while market got artistry and scarcity figured out already, the utility aspect is perhaps lagging behind. For Hyperblade, giving the items an actual _utility_ is how the project differentiates from it's competitiors.
+The three key values of Hyperblade NFTs are: **utility**, **artistry**, and **scarcity**. And while market got artistry and scarcity figured out already, the utility aspect is perhaps lagging behind. For Hyperblade, giving the items an actual _utility_ is how the project differentiates from it's competitors.
 
 - **Personalized Gameplay Experience** NFTs in Hyperblade are usable in the game itself. Fighters wield _their own_ swords, put on _their own_ armor and so on. And the same goes the other way, opponents also show up with their own equipment making every duel truly unique.
 - **Singleplayer Integration** - Singleplayer is also where players will see the NFTs they own. During the playthrough, certain leveled items could be substituted with actual NFTs when it's fitting. Total immersion is what we're after, and defeating the final boss with the sword that is yours and yours only definitely adds up to the game atmosphere.
@@ -71,9 +71,9 @@ The initial market offering of a NFT is done trough an Dutch Auction, to ensure 
 
 <div className="pseudo-table">
 	<div className="pseudo-table-row">
-		<p className="pseudo-table-row-left-header" style={{minWidth: '13rem'}}>In-game tranferable</p>
+		<p className="pseudo-table-row-left-header" style={{minWidth: '13rem'}}>In-game transferable</p>
 		<p>
-		The first category includes true NFTs like <b>Swords</b>, <b>Armor/Character Skins</b> or <b>Dojos</b>, those are valuable in and out of the game. What makes them special is that they are directly playable in Hyperblade, limited in issuance, and owners are able to whatver with them (e.g. importing the model in a game other than Hyperblade as an asset). The market will set the price for those items, and due to full compliance with NFT specifications those will be tradable even on third-party markets like <i>OpenSea</i> and such. Each of those items has both general metadata like name, icon or 3D model that will be stored in decentralized matter on <i>IPFS</i>, which will be what owner is in custody/charge of, and Hyperblade specific metadata like in-game statistics or minor accessories.
+		The first category includes true NFTs like <b>Swords</b>, <b>Armor/Character Skins</b> or <b>Dojos</b>, those are valuable in and out of the game. What makes them special is that they are directly playable in Hyperblade, limited in issuance, and owners are able to anything with them (e.g. importing the model in a game other than Hyperblade as an asset). The market will set the price for those items, and due to full compliance with NFT specifications those will be tradable even on third-party markets like <i>OpenSea</i> and such. Each of those items has both general metadata like name, icon or 3D model that will be stored in decentralized matter on <i>IPFS</i>, which will be what owner is in custody/charge of, and Hyperblade specific metadata like in-game statistics or minor accessories.
 		</p>
 	</div>
 	<div className="pseudo-table-row">
@@ -83,9 +83,9 @@ The initial market offering of a NFT is done trough an Dutch Auction, to ensure 
 		</p>
 	</div>
 	<div className="pseudo-table-row">
-		<p className="pseudo-table-row-left-header" style={{minWidth: '13rem'}}>Other/Auxilliary</p>
+		<p className="pseudo-table-row-left-header" style={{minWidth: '13rem'}}>Other/Auxiliary</p>
 		<p>
-		Since Hyperblade is going to full extent of being a 'blockchain game', we utilize NFTs where they naturally work the best. Tounament tickets are the prime example of this, especially tickets with in-person attendance. Anybody can purchase a ticket and then can resell it if they want to, all on the blockchain.
+		Since Hyperblade is going to full extent of being a 'blockchain game', we utilize NFTs where they naturally work the best. Tournament tickets are the prime example of this, especially tickets with in-person attendance. Anybody can purchase a ticket and then can resell it if they want to, all on the blockchain.
 		</p>
 	</div>
 </div>
@@ -96,7 +96,7 @@ In the beginning, player starts with a basic wooden sword, a _bokken_. This star
 Player also obtain extra swords from the Hyperblade Market or trough opening Loot Crates.
 Swords are then put into 7 tiers of increasing rarity, where the top ones are almost impossible to get by the regular means.
 
-Each sword has a unique, randomly generated, skin. Those skins can differ in 'wear level', color shade, or sporadicaly, sword can have a special property e.g. a blue static glow. On top of this, swords can be further customized with 'stickers' and such, thus adding to the variety of the sword pool.
+Each sword has a unique, randomly generated, skin. Those skins can differ in 'wear level', color shade, or sporadically, sword can have a special property e.g. a blue static glow. On top of this, swords can be further customized with 'stickers' and such, thus adding to the variety of the sword pool.
 
 Additional metadata like 'kill-count' might be also integrated into the sword, so weapons now have their own history as well.
 

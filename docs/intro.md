@@ -17,7 +17,7 @@ import TextStyled from "../src/components/CustomReactComponents";
 
 <p className="abstract">
 <b>Hyperblade</b> is an economic experiment in a value redistribution that combines a decentralized blockchain gaming ecosystem and an earning platform.
-It's unique proposition is in the fusion of a highly replayable and accessible fighter game with elements of blockchain, particulary play-to-earn and on-chain governance & asset ownership.
+It's unique proposition is in the fusion of a highly replayable and accessible fighter game with elements of blockchain, particularly play-to-earn and on-chain governance & asset ownership.
 Hyperblade itself is a tactical melee-fighting game with cross-play on PC/Consoles/Mobile, prioritizing mathematical logic for the balance and giving players mainstream-ready gameplay and user experience.
 Combining the lessons learned from both gaming and blockchain industries, Hyperblade augments the now common free-to-play with play-to-earn cryptocurrency rewards in a fair distribution system dubbed "Duel-to-Earn", along with seamless blockchain integration via monetary and governance token "Spacerock", allowing the community to both govern and earn in a decentralized way.
 The inherent transparency, trustlessness and permissionless are further projected by tying game assets to Web3 wallet ownership, leveraging the openness of the platform to be the basis of the following gaming and infrastructure projects.
@@ -26,7 +26,7 @@ Our goal is to shift the paradigms of the value creation, proving that community
 
 ## Industry Dynamics
 
-The world as we know it is going through changes. Since the inception of the internet and it's broad adoption along with mobile technologies we've been facing an unprecedented level of innovation, changing the way we work, communicate and enjoy entertainmen. And _blockchain_ with it's radical value proposition is shaping up to be the breaktrough that changes the way we live yet again.
+The world as we know it is going through changes. Since the inception of the internet and it's broad adoption along with mobile technologies we've been facing an unprecedented level of innovation, changing the way we work, communicate and enjoy entertainment. And _blockchain_ with it's radical value proposition is shaping up to be the breakthrough that changes the way we live yet again.
 
 The rise of blockchain, with it's open and technology-first ecosystem, enabled for even more rapid ascent of blockchain gaming.
 And despite the current simplicity of blockchain games, play-to-earn and NFTs are attracting millions of players, making an enormous impact on the whole market and signifying the potential of blockchain integrated gaming.
@@ -45,7 +45,7 @@ where the dynamics can be compared to the likes of _Tekken_, _Mortal Kombat_ or 
 and the community-first approach, where the the value is being build in and out of the game.
 The high replayability is achieved by combining the super flexible combat and fair matchmaking with rich customization of play-style and appereance, making every duel not like any another.
 
-What distinguishes Hyperblade as a fighter game from it's predcessors is the native support for **cross-play**. PC, console and mobile players can all duel against each other on equal ground, as the mechanics of the game give no explicit advantage to either platform, thus enabling for real cross-play with no compromises.
+What distinguishes Hyperblade as a fighter game from it's predecessors is the native support for **cross-play**. PC, console and mobile players can all duel against each other on equal ground, as the mechanics of the game give no explicit advantage to either platform, thus enabling for real cross-play with no compromises.
 The simple control scheme Hyperblade accessible even for casual gamers, yet at the same time, sharp and precise inputs allow for competitive ranked gameplay and the eventual emergence of esports.
 In Hyperblade, skill and knowledge of the game is how a player gets an edge over his opponents, pay-to-win is not applicable here as purchasable items have no effect on the game balance.
 
@@ -61,7 +61,7 @@ Hyperblade is a part of Ethereum ecosystem and utilizes blockchain for governanc
 Hyperblade is developed by **[Hyperblade DAO](Governance)**, a decentralized organization of **Spacerock token-holders** who participate in governance via on-chain quadratic voting.
 Initially, the direct governance is shared between core developers and seven voted-in council members, who in turn vote openly on pending proposals submitted by the community.
 
-The proposition behind Hyperblade DAO is to put the community in the forefront by creating incentives and a collaboration framework for thousands of people without the need of a formal roles or hiearchy, empowering the most talented and highly driven community members.
+The proposition behind Hyperblade DAO is to put the community in the forefront by creating incentives and a collaboration framework for thousands of people without the need of a formal roles or hierarchy, empowering the most talented and highly driven community members.
 With the accessibility and best player experience in mind, _Hyperblade has to be an inherently democratic and fair platform_. Free-to-play online distribution of the game, decentralized governance & ownership and nominal cost for blockchain interaction are key for equity of all of the participants.
 
 **[Spacerock ($SPR)](Blockchain)** serves as the primary monetary and governance token of Hyperblade, is the basis for DAO revenue redistribution, and has a fixed supply of **10,000,000 $SPR** released in a transparent and controlled manner.
