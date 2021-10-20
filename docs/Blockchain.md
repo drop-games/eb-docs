@@ -99,7 +99,7 @@ We are going to use the staking approach pioneered by _Illuvium_. After the laun
 
 Staking rewards will be locked for 6 months, after that they will be available for redemption. Unclaimed rewards accumulate compounded interest.
 
-Total amount of token allocated for staking rewards is **2,000,000 $SPR**. It will be released linearly over the span of 3 years after the start of staking.
+Total amount of token allocated for staking rewards is **2,000,000 $SPR**. It will be released linearly over the span of 3 years after the start of staking. The staking APY is reduced as more $SPR is locked, yet at the same time due to less $SPR in circulation it's price rises up.
 
 ### Equation
 

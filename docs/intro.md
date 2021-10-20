@@ -16,22 +16,20 @@ import TextStyled from "../src/components/CustomReactComponents";
 ## Abstract
 
 <p className="abstract">
-<b>Hyperblade</b> is an economic experiment in a value redistribution that combines a decentralized blockchain gaming ecosystem and an earning platform.
-It's unique proposition is in the fusion of a highly replayable and accessible fighter game with elements of blockchain, particularly play-to-earn and on-chain governance & asset ownership.
-Hyperblade itself is a tactical melee-fighting game with cross-play on PC/Consoles/Mobile, prioritizing mathematical logic for the balance and giving players mainstream-ready gameplay and user experience.
+<b>Hyperblade</b> is an economic experiment in the value redistribution of creative labor. 
+It's unique value proposition is the fusion of a highly accessible, yet competitive fighting game and with a lore rich enterntainment universe with an exploration of novel economic paradigms that enable new market price discovery mechanisms aimed at ethically and equitably redistributing the unique quantized value that each individual of a community contributes.
 Combining the lessons learned from both gaming and blockchain industries, Hyperblade augments the now common free-to-play with play-to-earn cryptocurrency rewards in a fair distribution system dubbed "Duel-to-Earn", along with seamless blockchain integration via monetary and governance token "Spacerock", allowing the community to both govern and earn in a decentralized way.
 The inherent transparency, trustlessness and permissionless are further projected by tying game assets to Web3 wallet ownership, leveraging the openness of the platform to be the basis of the following gaming and infrastructure projects.
 Our goal is to shift the paradigms of the value creation, proving that community-driven approach is a sustainable way of developing highly artistic and innovative projects.
 </p>
 
-## Industry Dynamics
+## Creative Labor
 
-The world as we know it is going through changes. Since the inception of the internet and it's broad adoption along with mobile technologies we've been facing an unprecedented level of innovation, changing the way we work, communicate and enjoy entertainment. And _blockchain_ with it's radical value proposition is shaping up to be the breakthrough that changes the way we live yet again.
+Since the inception of the internet and it's broad adoption along with mobile technologies we've been facing an unprecedented level of innovation, changing the way we work, communicate and enjoy entertainment. And _blockchain_ with it's radical value proposition is shaping up to be the breakthrough that changes the way we live yet again.
 
-The rise of blockchain, with it's open and technology-first ecosystem, enabled for even more rapid ascent of blockchain gaming.
-And despite the current simplicity of blockchain games, play-to-earn and NFTs are attracting millions of players, making an enormous impact on the whole market and signifying the potential of blockchain integrated gaming.
-
-Gaming world is ready for blockchain and the unrestricted innovation and uncensorable ownership that it comes with, connecting entertainment with the latest technology once again.
+Blockchain's decentralized ownership and governance results in fair and equal treatment of all, guaraneed by the integrity of blockchain and smart contracts.
+The virtual asset ownership in form of tokens allows the creatives to be fully recognized and appreciated, where the 2021 NFT boom is a prime example of how community can empower the authors,followed closely by just as rapid rise of the blockchain gaming.
+And despite the current simplicity of blockchain games, play-to-earn and NFTs are attracting millions of players, making an enormous impact on the whole market and signifying the potential of blockchain integrated gaming. Gaming world is ready for blockchain and the unrestricted innovation and uncensorable ownership that it comes with, connecting entertainment with the latest technology once again.
 
 _
 [Appendix](Appendix) section features an elaborate analysis of blockchain gaming and it's history, as well as the role of innovation in the video gaming industry.
