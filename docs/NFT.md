@@ -10,7 +10,7 @@ import TextStyled from "../src/components/CustomReactComponents";
 ## Why NFTs?
 
 _
-NFTs are changing gaming world as we know it. Players are for the first time the real owners of their items, ensured by the continuous integrity of the blockchain, and the untapped potential of NFTs in terms of their utility is one of the key focuses of Hyperblade development.
+NFTs are changing gaming world as we know it. Players are for the first time the real owners of their items, ensured by the continuous integrity of the blockchain. The untapped potential of NFTs in terms of their utility is one of the key focuses of Hyperblade development.
 _
 
 ## NFTs in Hyperblade
@@ -18,13 +18,13 @@ _
 NFTs are what makes Hyperblade a unique experience for each and every player, where it is of the first games that features regular and 3D NFTs, both usable in the game.
 
 Hyperblade further takes an advantage of the trustless and permissionless blockchain asset ownership by incorporating NFTs in other major aspects of the ecosystem, such as assets that are not featuring visuals like _DLC_, _tournament tickets_ etc.
-To accommodate the broad spectrum of utility that different types of items have, they follow both fungible (ERC-721) and semifungible (ERC-1155) token specifications[^1]. Token are pre-minted on Layer 1 Ethereum then transfered to Layer 2, where all of the user-facing activity is happening.
+To accommodate the broad spectrum of utility that different types of items have, they follow both fungible (ERC-721) and semifungible (ERC-1155) token specifications[^1]. Token are pre-minted on Layer 1 Ethereum then transfered to Layer 2 - where the user-facing activity is happening.
 
-The way NFTs are integrated into Hyperblade is by taking their metadata, i.e. what makes each NFT unique, and using them as parameters for the game itself. Later on, the core NFT metadata e.g. model/texture will be migrated to _**IPFS**_. So with metadata residing directly on chain, the true asset ownership will be achieved. Brand new derivative projects can emerge now, even without Hyperblade DAO oversight. Players can now come together and build something completely unique and and groundbreaking, all with the NFTs they own. _We believe that this is the way NFTs should be, decentralized and with a vision for the future._
+The way NFTs are integrated into Hyperblade is by taking their metadata, i.e. what makes each NFT unique, and using them as parameters for the game itself. Later on, the core NFT metadata e.g. model/texture will be migrated to _**IPFS**_. And with metadata residing directly on chain, the true asset ownership will be achieved. Brand new derivative projects can emerge now, even without Hyperblade DAO oversight. Owners can now come together and build something completely unique and and groundbreaking, all with the NFTs they own.
 
-[^1]: non-fungible token and semi-fungible token are techically not the same, but for the sake of simplicity both are referred to as "NFT".
+[^1]: non-fungible token and semi-fungible token are techically not the same, but for the the purposes of simplicity both are referred to as "NFT".
 
-First NFTs in Hyperblade are designed by the core dev team, those will set the standard how the NFTs should look and play like. Later on, creatives will be free to join us in this process. The NFTs designed by third-party participants will have to go through DAO vote to get in the game/market. After that they are treated just like any other items made by core team itself.
+First NFTs are designed by the core dev team, those will set the standard how the NFTs should look and play like. Later on, creatives will be free to participate in this process. The NFTs designed by third-party submitters will have to go through DAO vote to get in the game and it's market. After that, they will be on equal terms with the original items made by core team itself.
 
 Worth noting is that we strive for the best player experience, and this means absence of Pay-to-Win in general. None of the NFTs/items are giving the holder an unfair advantage over their opponents. You _cannot_ buy skill in Hyperblade.
 

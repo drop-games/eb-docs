@@ -13,7 +13,7 @@ Hyperblade DAO is the organization of **Spacerock** tokenholders as well other p
 The future iterations of DAO governance will go beyond $SPR token voting, giving a voice to the rest of the community and especially the most involved and talented individuals who want to see the DAO prosper.
 
 The initial decision making and day-to-day operations are carried out by the _core team_.
-The team is the main force behind the development of the Hyperblade as well as the governing body for the DAO until _The Council_ will take the reign. For the purposes of incentivization, there is pre-allocated $SPR budget for the team members, as well as the contributing council members. $SPR received by the team will have a year lock-up period, where the largest receivers will also be subjects to a vesting schedule.
+The team is the main force behind the development of the Hyperblade as well as the governing body for the DAO until _The Council_ will take the reign. For the purposes of incentivization, there is pre-allocated $SPR budget for the team members, as well as the contributing council members. $SPR received by the team will have a year lock-up period, where the largest receivers will also be subjects to a vesting schedule. The core team has it's own _Dev Council_, which purpose is to fairly set compensation for each member.
 
 Further down the timeline there will be an option for other DAO members to directly participate in the building of Hyperblade, this will be done trough a task-management pipeline allowing for a distributed way of creating and fulfilling tasks regarding the development & management of the project, with results verified in a trustless manner and rewards paid out in cryptocurrency (ETH & $SPR)
 

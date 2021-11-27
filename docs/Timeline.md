@@ -20,7 +20,7 @@ _2019 - Sept 2021_
 
 ### Phase 1
 
-_Sept 2021 - Dec 2021_
+_Jan 2022 - Mar 2022_
 
 - Hyperblade NFT viewer app - Mobile & Web
 - Core team assembly
@@ -39,7 +39,7 @@ _Sept 2021 - Dec 2021_
 
 ### Phase 2
 
-_Jan 2022 - Apr 2022_
+_Apr 2022 - Jun 2022_
 
 - Crypto-space promo campaign
 - HB beta ('pay-to-play')
@@ -53,7 +53,7 @@ _Jan 2022 - Apr 2022_
 
 ### Phase 3
 
-_Apr 2022 - 2023_
+_Jul 2022 - 2023_
 
 - Full-strength marketing
 - HB free-to-play release

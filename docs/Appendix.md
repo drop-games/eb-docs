@@ -30,9 +30,11 @@ The current perception of what will shape the gaming industry in the near future
 
 ### Cross-play
 
-**Cross-play** or cross-platform play, the ability for players to play against others who are using different gaming hardware to theirs
-Following the notion of cross-platform development, cross-play is now achievable and can be implemented by using industry standard tooling like Unreal Engine 4 or Unity, however it implies a certain degree of engineering complexity and it is not available "out-of-the-box"[^5].
-However, despite the fact that this is a feature that the players might value, the correct implementation demands an extensive research in regards to disadvantages that one group of player would have over another, as well as the possible issues with cross-platform compatibility. First-person shooter (FPS) is the prime example of a genre where cross-play adds up balancing challenges as PC gamers using a computer mouse have inherently precise aiming mechanics compared to the controller users. However, games with simplistic controls schemes or casual (non-competitive) titles might not be affected by this issue.
+**Cross-play**, or cross-platform play, is the players' ability to play against others who are using different platform to theirs.
+Following the notion of _cross-platform development_, cross-play is now achievable and can be implemented by using industry standard tooling like **Unreal Engine 4** or **Unity**. However, due to it not available "out-of-the-box"[^5], cross-play implies a certain degree of engineering complexity, especially in terms of inter-platform compatibility.
+Despite the fact that this is a feature that players hold in a high regard, the correct implementation cannot give one group of players the upper hand over another.
+First-person shooter (FPS) is the prime example of a genre where cross-play adds up balancing challenges, a computer mouse allows for way more precise aiming mechanics compared to a console controller, and developers often have to use workarounds like auto-aim.
+However, games with simplistic controls schemes or casual (non-competitive) titles might not be affected by this issue whatsoever, providing players with the same level of experience irregardless of the platform they are on.
 
 ### Blockchain Gaming
 

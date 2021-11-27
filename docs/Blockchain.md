@@ -77,11 +77,11 @@ Besides being an investment vehicle, $SPR has intristic purpose of being the cur
 
 ### Hyperblade Marketplace
 
-Hyperblade Marketplace is where all of the HB related purchases are being made. It's the market where players trade their NFTs as well as purchase DLC and other game-related stuff. It is directly accessible in Hyperblade as well as through a separate app on the web.
+Hyperblade Marketplace is where all of the HB related purchases are being made. It's the market where players trade their NFTs as well as purchase DLC and other game-related items. It is directly accessible in Hyperblade as well as through a separate web app.
 
-All trades are subject to a 4.5% fee that goes to HB Treasury. Gas fees are subsidised by the DAO (and low nonetheless because of L2 integration).
+All trades are subject to a 4.5% fee that goes to HB Treasury. Gas fees are subsidised by the DAO (and low nonetheless because of the L2 integration).
 
-This is also where creators will be able to sell their NFTs and other items, including setting up re-sale fees and initial price.
+The marketplace is also a platform for the creatives to sell their NFTs, earning from the sales of their items.
 
 We want to promote active NFT-$SPR trade, as this is where significant portion of revenues will be coming from. And this is why we are adding functionality on top of basic trade, i.e. auctions, NFT re-fogring (like adding stickers or statistics on a sword) and more.
 
@@ -202,6 +202,10 @@ The user experience will get better in near future as wallets get more advanced,
 For Hyperblade, having premier user experience means being on Layer 2 from the beginning. Our current choice would be **Arbitrum** or **Polygon**, due to the blockchain innovating astonishingly fast, Hyperblade could be on a **ZK Rollup** as well _(or even multiple Layer 2's)_.
 
 What this achieves is a set up where player connects their Web3 wallet like _Metamask_ to Hyperblade on L2, and then interacts seamlessly with the ecosystem. Notably, the premise of seamlessness means: fast and secure transactions, waived gas fees, uninteruptible access to the market and ability to easily get on and off the chain.
+
+### Hyperblade DEX
+
+With user experience being one of the key priorities, Hyperblade DAO has to be ready to deploy the appropriate tooling if needed. A separate decentralized exchange for Hyperblade tokens has to be considered, including integration with the Hyperblade Marketplace. The most viable solution is forking Uniswap V2, as it is both proven and readily available.
 
 <br/>
 
