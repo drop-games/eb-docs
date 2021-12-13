@@ -57,7 +57,7 @@ The core idea of Hyperblade that it is one of the first games with conventional 
 
 Due to the novelty of the concept of play-to-earn including vast economic implications, a due diligence steps are required to implement this feature correctly. Considering the role of $SPR in the governance, it's important to preserve the balanced tokenomics and not allow inflation or attackers obtaining a significant portion of the circulating supply.
 
-For that purpose Hyperblade introduces a second, solely play-to-earn token - **_Timeore_**
+For that purpose Hyperblade introduces a second, solely play-to-earn token - **_Timeore_**.
 
 ### Timeore
 

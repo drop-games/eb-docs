@@ -51,8 +51,9 @@ const katex = require("rehype-katex");
         navbar: {
           title: "Hyperblade Whitepaper",
           logo: {
-            alt: "Hyperblade logo",
-            src: "img/logobig.png",
+            alt: "Hyperblade Logo",
+            src: "img/logosimpleb.png",
+            srcDark: "img/logosimplew.png",
           },
           items: [
             {

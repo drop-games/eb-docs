@@ -5,9 +5,15 @@ slug: /
 
 # Introduction
 
+import ThemedImage from '@theme/ThemedImage';
+import useBaseUrl from '@docusaurus/useBaseUrl';
 import TextStyled from "../src/components/CustomReactComponents";
 
-<TextStyled fontWeight="bold" color="var(--ifm-color-primary)" fontSize="2rem">Hyperblade</TextStyled>
+<br/>
+<br/>
+
+<ThemedImage width="50%" alt="Hyperblade logo" sources={{    light: useBaseUrl('../img/logob.png'),    dark: useBaseUrl('../img/logow.png'),  }}/>
+
 <br/>
 <TextStyled fontStyle="italic" fontSize="1.4rem">A tactical melee fighting game with a bettable NFT economy and a yield-generating token</TextStyled>
 
@@ -92,11 +98,17 @@ The underlying artistic side of the NFTs allow them to be a ground creative expr
 
 ## Open Sourcing
 
-The openness and unrestricted innovation, along with security and reliability, made crypto space what it is now.
+The openness and unrestricted innovation, along with security and reliability, made web3/crypto space what it is now.
 Open sourcing and the free flow of ideas, that are essential to blockchain, allowed even small teams to build monumental projects that would be imposible to make without the ability to stand on the shoulders of giants.
 
 Hyperblade as a blockchain native project shares the same values.
 The planned functionality requires an extensive amount of engineering, where the technology is being developed using the available open source code and through the collaboration with other teams, e.g. using open source _Uniswap V2_ to build a decentralized Hyperblade exchange. DAO acknowledges that it in the common interest to share the innovation even further, and therefore all of the code will be made available in open, combining GPL licensing for common components such as Marketplace, DEX or governance modules, and delayed open-sourcing via BSL for Hyperblade's art side with 3 year closed-source period.
+
+## Key values
+
+- Openness (open source)
+- Product first
+- web3
 
 ## Background
 
