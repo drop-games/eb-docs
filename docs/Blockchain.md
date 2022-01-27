@@ -8,13 +8,34 @@ import ThemedImage from '@theme/ThemedImage';
 import useBaseUrl from '@docusaurus/useBaseUrl';
 import TextStyled from "../src/components/CustomReactComponents";
 
-In this section we explain the blockchain part of the Hyperblade and the mechanics behind it's main token - **the Spacerock**.
+Hyperblade is built as blockchain-first game, and therefore sound economic design of it's ecosystem is essential for both short and long term sustainability.
+
+The project features multi-token Ethereum based economy, **Spacerock** serves as the main governance/monetary token, and **Timeore** as the Duel-to-Earn (Play-to-Earn) reward vehicle.
+
+## Duel-to-Earn
+
+The unique value proposition of Hyperblade is the possibility to earn tokenized rewards by playing a game with conventional, entertainment oriented gameplay.
+Hyperblade coins it's own term for that: **Duel-to-Earn**.
+
+In contrast to the earlier Play-to-Earn experiments, Hyperblade benefits directly from the value the players contribute, i.e. time and effort they put into the game.
+Winning over equally (or higher) skilled opponents, completing a specific amount of matches for a given week, or finishing seasonal challenges are the types of activities that yield tokenized Duel-to-Earn rewards. Duel-to-Earn therefore promotes winning gameplay and constant participation, which in turn makes the Hyperblade's multiplayer fun and engaging.
+
+The initial version of Duel-to-Earn gives players an opportunity to earn **Timeore** ERC-20 tokens and **NFT Loot Crates** by playing the **[Ranked Mode](Game#Ranked)**, where the rewards accumulate in the span of a week and then get transfered to the appropriate Ethereum wallet.
+Timeore is then 'burned' to open NFT Loot Crates (resulting in a verifiably randomized NFT item drop), to modify an existing NFTs, or to join higher-level Ranked matches.
+
+Timeore's full compliance with ERC-20 specification allows for further expansion of it's functionality as well as for unrestricted secondary market to exist. The utility of Timeore gives it an intristic purpose and therefore an actual economic value.
+
+The supply of Timeore is controlled by the Hyperblade DAO, which sets the amount of $TMO available for D2E rewards in the current time-period (52 weeks initially). With the supply of both Timeore and NFT Loot Crates being limited, the yields will be diminishing as the player-count increases.
+
+Because the significant economic implications of Duel-to-Earn, it's essential to practice due diligence while implementing this feature.
+Two key priorities are economic stability of the ecosystem, and fairness of the rewards distribution - considering both varying player head-count and long-term sustainability.
+The nature of tokenized rewards implies that the participants will try to maximize their yields by any means, therefore it's important to prevent bad actors from abusing the system and getting an unfair advantage over their peers.
+Behavior like cheating, fixing matches, botting, idling and such is not only discouraged, but accounted for during the game design stage. However, active moderation is still required, adding up to the list of DAO's responsibilities.
 
 ## Spacerock overview
 
-Spacerock ($SPR) is an ERC-20 token and native currency of the Hyperblade universe. It is managed by Hyperblade DAO, and has a total possible supply of 10,000,000 $SPR. Spacerock is the cornerstone of the DAO governance, as well as the primary medium of exchange in Hyperblade economy. [Governance](Governance) section goes in detail on how the DAO works.
-
-Since our goal is to make Hyperblade as accessible as it gets, it will be at mostly on **Level 2 of Ethereum**. Low transaction costs and easy on-boarding is what we're after.
+Spacerock ($SPR) is an ERC-20 token and native currency of the Hyperblade universe. It is managed by Hyperblade DAO, and has a total possible supply of 10,000,000 $SPR, distributed in a fair and transparent manner.
+Spacerock is the cornerstone of the DAO governance and community-based ownership, as well as the primary medium of exchange in the Hyperblade economy. $SPR-holders are able to govern in a decentralized way, receive a share of redistributed profits, and earn through DeFi applications. [Governance](Governance) section goes in detail on how the DAO works.
 
 ## $SPR Allocation
 
@@ -22,14 +43,14 @@ Total possible Spacerock supply is **10,000,000 $SPR**
 
 | Receiver        | Allocation % | Allocation $SPR | When    |
 | --------------- | ------------ | --------------- | ------- |
-| Team            | 15%          | 1,500,000       | Q4 2021 |
+| Team            | 15%          | 1,500,000       | Q1 2022 |
 | Private Sale    | 12%          | 1,200,000       | Q1 2022 |
 | Public Sale     | 8%           | 800,000         | Q2 2022 |
 | Treasury        | 35%          | 3,500,000       | Q2 2022 |
 | Staking Rewards | 20%          | 2,000,000       | Q2 2022 |
 | Game Rewards    | 10%          | 1,000,000       | Q3 2022 |
 
-Tokens issued to the **team** & **private sale investors** are subject to a 1 year lockup, **team** has additional 3 year vesting with monthly release in addition to that.
+Tokens issued to the **team** & **private sale investors** are subject to a 1 year lockup, **team** has additionally 2 more years of vesting with monthly release schedule.
 
 <br />
 
@@ -48,30 +69,12 @@ Tokens issued to the **team** & **private sale investors** are subject to a 1 ye
 	<li>Participating in DAO governance</li>
 	<li>Completing dev tasks/bounties</li>
 	<li>Through partnering with the DAO</li>
-	<li>Playing the game</li>
+	<li>Duel-to-Earn and swap $TMO for $SPR</li>
 </ul>
-
-## Duel-to-Earn
-
-The core idea of Hyperblade that it is one of the first games with conventional gameplay and blockchain-native features. And one of the biggest draws will be the possibility to earn by playing the game. Hyperblade coins it's own term for that: **_Duel-to-Earn_**
-
-Due to the novelty of the concept of play-to-earn including vast economic implications, a due diligence steps are required to implement this feature correctly. Considering the role of $SPR in the governance, it's important to preserve the balanced tokenomics and not allow inflation or attackers obtaining a significant portion of the circulating supply.
-
-For that purpose Hyperblade introduces a second, solely play-to-earn token - **_Timeore_**.
-
-### Timeore
-
-Players earn Timeore by playing the game, this could be winning over higher ranked players in duel mode, grinding in singleplayer etc.
-
-Later Timeore would be burned to open **NFT loot crates**, **mint NFTs**, or **upgrade items** (re-forge swords). This utility makes Timeore valuable for NFT collectors, who now have to buy Timeore from the players, thus creating a market for it.
-
-The supply of Timeore is controlled directly by Hyperblade DAO, making sure players are rewarded fairly irregardless of their headcount. $SPR is still used for DAO governance and revenue sharing, and now Timeore functions as an another layer of protection from price instability for the main token.
-
-Furthermore, with how the stability of Timeore price and fair rewards distribution are essential, portion of the Spacerock will be used to supplement Timeore, including liquidity providing.
 
 ## In-game currency
 
-Besides being an investment vehicle, $SPR has intristic purpose of being the currency in Hyperblade ecosystem.
+Besides being an investment vehicle, $SPR has intristic purpose of being the primary currency in Hyperblade ecosystem.
 
 **All trades are facilitated in $SPR (or $ETH converted to $SPR on the spot).**
 
@@ -121,7 +124,7 @@ $p$ is periods elegible for rewards
 $S$ is staked **\$SPY**  
 $m$ is rewards multiplier, calculated as $1+{p}\mathbin{/}{52}$, base is $1$
 
-### Examples
+<TextStyled fontSize="1.3rem" fontWeight="bold" >Examples</TextStyled>
 
 Here are two example scenarios of staking assuming constant 50% APY:
 
@@ -141,30 +144,29 @@ The reward unlocked after vesting will be **~0.648 $SPR**
 
 ## Treasury
 
-_
-If Spacerock is the blood of the Hyperblade DAO, then the Treasury is it's heart.
-_
-
-The purpose of treasury is to fuel the development and move the project forward. Salaries, equity and grants for prominent DAO members, as well as other expenses like marketing, server costs, tournament prize pools etc., is what treasury is for. It is essentially a smart contract where all of the DAO's wealth is stored. This is where the allocated **3,500,000 $SPR** are going to be held, as well as where the revenues will go to. Think of the treasury as of the main business account of the DAO.
+The purpose of treasury is to fuel the development and move the platform forward. Salaries, equity and grants for prominent DAO members, as well as other expenses like marketing, server costs, tournament prize pools etc., is what treasury is for. It is essentially a smart contract where all of the DAO's wealth is stored. This is where the allocated **3,500,000 $SPR** are going to be held, as well as where the revenues will go to.
 
 The key principles for treasury are: inflows must exceed the outflows, diversification of assets, transparency on all levels, and putting development first.
 DAO takes a vote on all major proposal regarding the treasury, including budgeting for a new project, additional game rewards, friendly token-swaps with other projects, purchase of stable-coins etc.
 
-DAO does not have an 'expiration' date, and neither does the treasury. So therefore due to it's nature and the role it plays in the DAO, it requires pragmatic supervision and rational budgeting. And it is in our interest to recruit the best available talent to help us manage it.
+DAO does not have an 'expiration' date, and neither does the treasury. So therefore due to it's nature and the role it plays in the DAO, it requires pragmatic supervision and rational budgeting, it's in DAO's interests to recruit the best available talent to aid with Treasury management.
 
 ## Revenue Model
 
-Two most significant revenue sources are market fees and direct sales. Since the whole economy is $SPR based, users need to get some before they can interact with the ecosystem. The incoming revenue streams are going to the HB Treasury, and from there they are either distributed among $SPR holders or fund further project development.
+Two most significant revenue sources are market fees and direct sales. Since the economy is $SPR based, users need to get some before they can interact with the ecosystem. The incoming revenue streams are going to the HB Treasury, and from there they are either distributed among $SPR holders or used to fund further platform development.
 
-#### Market fees
+<TextStyled fontSize="1.3rem" fontWeight="bold" >Market fees</TextStyled>
+<br/>
 
-All of the market activity on HB Marketplace is taxed by the DAO. This includes: sales, resales, third-party NFT minting & market-placement etc.
+All of the market activity on HB Marketplace generates fees for the DAO. This includes: sales, resales, third-party NFT minting & market-placement etc.
 
-#### Direct Sales
+<TextStyled fontSize="1.3rem" fontWeight="bold" >Direct Sales</TextStyled>
+<br/>
 
-Direct sales of DAO commissioned NFTs: cosmetics & unique NFTs, including "non-playable" NFTs
+Direct sales of DAO commissioned NFTs: cosmetics & unique NFTs, including "non-playable" NFTs.
 
-#### DLC content & Battle-passes
+<TextStyled fontSize="1.3rem" fontWeight="bold" >DLC content & Battle-passes</TextStyled>
+<br/>
 
 We plan on releasing seasonal battle-passes for Hyperblade. Those will bring free content for all players, like themed seasonal maps, as well as more exclusive content for those who buy the battle-pass.
 
@@ -176,13 +178,15 @@ We plan on releasing seasonal battle-passes for Hyperblade. Those will bring fre
 - Seasonal tournaments
 - Themed maps
 
-### Services for other developers
+<TextStyled fontSize="1.3rem" fontWeight="bold" >Services for other developers</TextStyled>
+<br/>
 
-The robust ecosystem that we are building requires a lot of tooling. And because of the nature of blockchain, it's actually in our interest that some of it will be available for other developers as well.
+The robust ecosystem that we are building requires a substantional amount of tooling. And due to nature of blockchain and how it's core values are often aligned with the values of the open-source community, Hyperblade adopts similar stance on software developers. The infrastructure elements are developed using open-source components, and what is the result of that is made available for the rest of the community to build on top of. This benefits the blockchain ecosystem as a whole, and open-sourced elements can be further improved with the contribution of the community, resulting in notably better security and functionality.
 
-HB Marketplace does not have to be limited only for HB items, later on third-party NFTs can be minted & traded here. The same goes for our in-house task management software. Some version of monetization would be introduced to offset the expenses.
+Even with main infrastructure repositories being freely available to be forked, third-party projects might want to directly use Hyperblade infrastructure as it is without having to maintain the systems themselves. Hyperblade DAO then can provide Infrastructure-as-a-Service to other developers,
+e.g. HB Marketplace can be expanded to include third-party NFTs listings, including minting and modification.
 
-We believe that by sharing what we build with others, we can make the whole blockchain ecosystem better.
+We believe that by sharing what we build with others, we can make the whole blockchain universe better and that is why we embrace the open-source mentality with everything that it comes with.
 
 ## Blockchain integration
 
@@ -192,20 +196,20 @@ Hyperblade is one of the first mainstream-ready games on **Ethereum blockchain**
 
 All of the transactions on Ethereum are a subject to an 'gas cost' which is, simply put, computational effort to perform the transaction multiplied by 'gas price'. In turn, gas price is dictated by the current market demand for transactions/smart contract execution and is paid in Ether (Ethereum native token). This cost as of lately has been brutal. Minting a basic NFT as of Sept 9 2021 costs as much as ~200 USD. This is not feasible at all, especially for a game like Hyperblade that requires a large amount of transactions for the best user experience.
 
-Based on that, Hyperblade has to be integrated with **Layer 2**. Layer 2 is an umbrella term for any kind of scaling solution for a blockchain. L2s have generally super cheap transactions, low latency, and high level of security. Ethereum is currently going all in on Layer 2, both apps and users are already coming on one L2 or another. However, we are just in the beginning of Layer 2 Ethereum which means drawbacks. Notably: smart-contract risk, confusing UX, and cross-layer fragmentation.
+Based on that, Hyperblade has to be deployed on **Layer 2**. Layer 2 is an umbrella term for any kind of scaling solution for a blockchain. L2s have generally super cheap transactions, low latency, and high level of security. Ethereum is currently going all in on Layer 2, both apps and users are already coming on one L2 or another. However, we are just in the beginning of Layer 2 Ethereum which means drawbacks. Notably: smart-contract risk, confusing UX, and cross-layer fragmentation.
 
 Main issue for people actually using L2 is very raw on-boarding experience. Right now to get on a L2 (e.g. Optimism, Arbitrum or Polygon side-chain) user has to first manually add L2 to their wallet, authorize it, and then migrate their tokens to this L2. All of this comes with extra gas costs on Layer 1.
-The user experience will get better in near future as wallets get more advanced, but this is where we currently are.
+The user experience will get better in near future as wallets and on-ramp solutions improve their functionality, and Hyperblade favors using a custom solutions for a seamless access to the ecosystem straight out the box.
 
 ### Hyperblade on Layer 2
 
-For Hyperblade, having premier user experience means being on Layer 2 from the beginning. Our current choice would be **Arbitrum** or **Polygon**, due to the blockchain innovating astonishingly fast, Hyperblade could be on a **ZK Rollup** as well _(or even multiple Layer 2's)_.
+For Hyperblade, having premier user experience means being on Layer 2 from the beginning. The current evaluation of available L2 solutions favors **Arbitrum** or **Polygon**, yet with the tempo of Layer 2 development across the board being astonishingly rapid, Hyperblade could be on a implemented natively on one of the upcoming **ZK Rollups** or even _multiple Layer 2's_.
 
-What this achieves is a set up where player connects their Web3 wallet like _Metamask_ to Hyperblade on L2, and then interacts seamlessly with the ecosystem. Notably, the premise of seamlessness means: fast and secure transactions, waived gas fees, uninteruptible access to the market and ability to easily get on and off the chain.
+What this achieves is a set up where player connects their Web3 wallet like _Metamask_ or _Argent_ to Hyperblade on L2, and then interacts seamlessly with the ecosystem. Notably, the premise of seamlessness means: fast and secure transactions, HB DAO subsidized gas fees, uninteruptible access to the market and ability to easily get on and off the chain.
 
 ### Hyperblade DEX
 
-With user experience being one of the key priorities, Hyperblade DAO has to be ready to deploy the appropriate tooling if needed. A separate decentralized exchange for Hyperblade tokens has to be considered, including integration with the Hyperblade Marketplace. The most viable solution is forking Uniswap V2, as it is both proven and readily available.
+With user experience being one of the key priorities, Hyperblade DAO has to be ready to deploy appropriate infrastructure solutions if needed. A separate decentralized exchange for Hyperblade tokens has to be considered, including integration with the Hyperblade Marketplace. The most viable solution is forking Uniswap V2, as it is both proven and readily available.
 
 <br/>
 
@@ -220,6 +224,6 @@ With user experience being one of the key priorities, Hyperblade DAO has to be r
 	<li>NFT unwrapping to Layer 1</li>
 </ul>
 
-Duel to earn rewards, NFT trade, player-to-player interactions and such are all accessible for everybody. Blockchain is now abstracted away, and gas costs are not interfering with the way players interact in the world of Hyperblade. Yet at the same time decentralization, immutability, security are still guaranteed by the blockchain.
+Duel to earn rewards, NFT trade, player-to-player interactions and such are all accessible for everybody. Blockchain is now abstracted away for end-users, and gas costs are not interfering with the way players interact in the world of Hyperblade. Yet at the same time decentralization, immutability, security are still guaranteed by the blockchain.
 
 Hyperblade NFTs are pre-minted on Layer 1 of Ethereum, and then sent in batches via wrapped contracts to L2. From there on, all of the subsequent transactions are on L2 with all of the benefits that it brings. NFT owners are then able to 'unwrap' the NFT on Layer 1 and continue from there.

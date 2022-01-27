@@ -4,15 +4,22 @@ sidebar_position: 6
 
 # Timeline
 
-This timeline/roadmap is subdivided into larger _Phases_, with Phase 0 being the pre-DAO period and following Phases are what is coming. Items are listed in the order they should be (or they were) completed.
+This timeline/roadmap is subdivided into larger _Phases_, with Phase 0 being the pre-DAO period and following Phases are what is coming. Items are listed in the order they should be implemented.
 
 :::warning
 This timeline is a subject to change as the project evolves
 :::
 
+<!-- Legend:
+Red - DAO & Governance
+Green - Infrastructure & Technical
+Blue - Hyperblade game
+Grey - Other
+-->
+
 ### Phase 0 - <Colored color="var(--ifm-color-primary)">Finished</Colored>
 
-_2019 - Sept 2021_
+_2019 - Dec 2021_
 
 - Hyperblade prototype - 'Project Blade'
 - HB vertical slice
@@ -23,67 +30,72 @@ _2019 - Sept 2021_
 _Jan 2022 - Mar 2022_
 
 - Hyperblade NFT viewer app - Mobile & Web
-- Core team assembly
-- HB website
+- Core team expansion
 - DAO founded
-- HB Alpha (internal)
-- DAO smart contracts v1
-- Epic MegaGrants
-- Smart contracts audited
-- Pre-sale $SPR token
-- Marketing - Trailer with NFTs
-- NFT promo sales
+- HB Alpha (internal), 1v1 gameplay
+- Smart contracts v1
+- Smart contracts audit
+- \$SPR minted & initial allocation
+- \$SPR pre-public sale
+- Marketing - 1st trailer
+- Promo NFT drop
 - Public $SPR token sale
-- \$SPR liquidity & staking rewards
-- HB DAO 7-member committee
+- \$SPR liquidity providing commences
+- \$SPR staking launch
+- DAO - Vote delegation
+- DAO - The Council - inaugural election
 
 ### Phase 2
 
-_Apr 2022 - Jun 2022_
+_Apr 2022 - Sept 2022_
 
-- Crypto-space promo campaign
-- HB beta ('pay-to-play')
-- HB marketplace
-- HB player customimzation
-- HB social game-modes
-- \$SPR (\$TMO) player rewards
-- Smart contracts v2
-- Fiat on-ramp/off-ramp
-- Basic tools for third-party development
+- Web3 promo campaign
+- HB Beta ('pay-to-play')
+- HB Marketplace
+- HB NFT in-game customimzation
+- HB "The Lounge" game-mode with up to 32 players
+- Basic tooling for third-party development
+- Smart contracts v2 & audit
+- Production-ready infrastructure
+- HB Pre-release QA/testing
 
 ### Phase 3
 
-_Jul 2022 - 2023_
+_Oct 2022 - 2023_
 
-- Full-strength marketing
-- HB free-to-play release
-- NFT creation platform
-- NFT voting by DAO
-- HB loot crates
-- Advanced NFT, incl. smithing & customization
-- Vote delegation
-- Alternate game-modes (3v3 and such)
+- Fiat on-ramp/off-ramp
+- Mainstream marketing
+- HB free-for-all access
+- Day 1 Tournament with a prize pool
+- Duel-to-Earn start - $TMO rewards
+- HB Loot Crates
+- User-created NFT publishing system
+- Community NFT voting
+- Advanced NFT functionality, incl. smithing & customization
+- Additional game-modes (3v3)
+- Custom server support
 - Player-to-Player wagering (betting)
-- Separated balance/NFT/DAO voting
-- Custom tournament system
 - 'Dojo' NFT sale/leasing
-- Third party NFT integration
-- Hour long singleplayer campaign
+- First HB singleplayer chapter
+- Early governance decentralization
+- Separated game-balance/NFT/DAO voting
+- External APIs and dev tools released
 
 ### Phase X
 
 _2023 - ?_
 
+- HB custom tournament system
+- DAO collaboration framework
+- Third-party NFT integration
 - Frozen $SPR issuance
-- HB on Unreal Engine 5
-- HB open sourced
-- Second, third game
-- Console/mobile releases
+- HB open-sourced
+- HB console/mobile releases
+- Second HB universe title
 - Advanced DAO governance
-- Full streaming/esports support
-- Collaboration with third party games/DAOs
-- Seasonal battle-passes
-- Full singleplayer campaign
+- Collaboration with third-party games/DAOs
+- HB Seasonal battle-passes
+- HB full singleplayer campaign
 - Peer-to-Peer match hosting
 
 export const Colored = ({children, color = 'initial'}) => (

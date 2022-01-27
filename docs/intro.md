@@ -15,6 +15,8 @@ import TextStyled from "../src/components/CustomReactComponents";
 <ThemedImage width="50%" alt="Hyperblade logo" sources={{    light: useBaseUrl('../img/logob.png'),    dark: useBaseUrl('../img/logow.png'),  }}/>
 
 <br/>
+<br/>
+<br/>
 <TextStyled fontStyle="italic" fontSize="1.4rem">A tactical melee fighting game with a bettable NFT economy and a yield-generating token</TextStyled>
 
 <br/>
@@ -23,17 +25,20 @@ import TextStyled from "../src/components/CustomReactComponents";
 
 <p className="abstract">
 <b>Hyperblade</b> is an economic experiment in the value redistribution of creative labor. 
-It's value proposition is the fusion of a lore rich entertainment universe based around a highly accessible, yet competitive, fighting game with an exploration of novel economic paradigms enabled by "Web3" technologies, ethically and equitably redistributing the unique quantized value contributed by each individual.
-Combining the lessons learned from both gaming and blockchain industries, Hyperblade augments the now common Free-to-Play concept with tokenized Play-to-Earn rewards in a fair distribution system dubbed "Duel-to-Earn", that together with governance and monetary token "Spacerock", allows the community to both govern and earn in a decentralized way.
-The inherent transparency, trustlessness and permissionless are further projected by tying game assets to Web3 wallet ownership, leveraging the openness of the platform to be the basis of the following gaming and infrastructure projects.
+It's value proposition is the fusion of a lore rich entertainment universe built around a highly accessible yet competitive fighting game, with an exploration of novel economic paradigms enabled by "Web3" technologies, ethically and equitably redistributing the unique quantized value contributed by each individual.
+Combining the lessons learned from both gaming and blockchain industries, Hyperblade augments the now common concept of Free-to-Play with tokenized Play-to-Earn rewards in a fair distribution system dubbed "Duel-to-Earn", promoting competitiveness and active participation essential for multiplayer to be vibrant and engaging.
+The community is able to earn, govern and build through "Hyperblade DAO", a decentralized blockchain-native organization, supported by governance/monetary token "Spacerock". The fundamental shift from opaque, centralized decision-making to distributed, community-first governance unlocks an entirely new plane of creativity and innovation, empowering the most talented and engaged individuals to contribute in an unrestricted, peer-supported manner.
+By adopting permissionless and uncensorable asset ownership through tokenization, including utilizing Non-Fungible Tokens ("NFT") as the main form of artistic value distribution, and open-source mentality, infrastructure and artistic advancements are not restricted to one particular platform.
+New projects can build using Hyperblade assets and infrastructure, allowing for a positive reinforcement loop for innovation, and enhanced utility for the original assets, increasing their intristic value. As the end result, Hyperblade is a self-directed project that gives back to the participants and benefits the blockchain ecosystem as a whole.
 Our goal is to shift the paradigms of the value creation, proving that community-driven approach is a sustainable way of developing highly artistic and innovative projects.
+
 </p>
 
 ## Creative Labor
 
 The Digital Age, the epoch of computers, internet and mobile technologies revolutionized the way we work, communicate and enjoy entertainment. And the fundamental driving force behind those paradigms is _Innovation_.
 
-And **Blockchain** with it's radical value proposition is shaping up to be the breakthrough that changes the way we live yet again.
+**Blockchain** with it's radical value proposition is shaping up to be the breakthrough that changes the way we live yet again.
 The permissionless and openness of the blockchain is, along with decentralized ownership and governance, guaranteed by the integrity smart contracts and blockchain itself, resulting in fair and equal treatment of all, thus setting the stage for a new wave of innovation starting now.
 
 And the **2021 NFT & blockchain gaming boom** is a prime example of how community can empower the creatives.
@@ -45,53 +50,55 @@ _
 
 ## The Game
 
-**Hyperblade** is an online third-person fighter revolving around player-vs-player melee combat, with target platforms being PC, consoles and mobile, available for free and linked to Web3 account ownership.
+**Hyperblade** is an online third-person fighter focusing on player-vs-player melee combat, powered by _Unreal Engine 5_, and designed for PC, consoles and mobile platforms. The game is distributed for free online, where accounts are tied to Web3 wallet ownership.
 The premise of the game is competitive nature of the fighter genre,
 where the dynamics can be compared to the likes of _Tekken_, _Mortal Kombat_ or _Super Smash Bros_,
 and the community-first approach, building the value in and out of the game.
-The high replayability is achieved by combining fair matchmaking with vast playstyle and appereance options, making every duel not like any another.
+The game itself is situated in a new fantasy universe that combines real world with the world of sci-fi, presented through a series of lore building singleplayer chapters. The result is an original and compelling narrative carrying entertainment value just by itself.
+Yet the primary game mode is Duel-to-Earn rewards supplemented **Ranked Mode**, players are competing for better ranks and rewards with similarely skilled opponents in matchmaker arranged duels. Duel-to-Earn system features rewards multipliers, cooldowns and penalties, all intended to balance out yields through out the playbase in a fair manner.
+Other than that, players are encouraged to join dedicated servers that feature custom game modes, including available on launch 32 player servers with social features like challenging for a duel and NFT betting/staking.
 
 What distinguishes Hyperblade as a fighter game from it's predecessors is the native support for **cross-play**.
 The mechanics of the game give no explicit advantage to either platform, PC, console and mobile players can all duel against each other on equal grounds, enabling for the real cross-play with no compromises.
-And the essentially simple control scheme is what Hyperblade accessible even for casual gamers, yet at the same time sharp and precise inputs allow for competitive ranked gameplay and the eventual emergence of esports.
+The fundamentally simple control scheme is what makes Hyperblade accessible even for casual gamers yet at the same time sharp and precise inputs allow for competitive gameplay and eventual emergence of esports.
 In Hyperblade, skill and knowledge of the game is how a player gets an edge over his opponents, the purchasable items have no effect on the game balance.
 
-The game itself is situated in a new fantasy universe that combines real world with the world of sci-fi, presented through a series of lore building singleplayer campaigns. The result is an original and compelling narrative carrying value just by itself.
+The diversity of the gameplay, augmented by vast playstyle and appereance options, wide array of playable maps and game modes are essential to high replayability and real entertainment value.
 
 ## Blockchain
 
-Hyperblade is a part of _Ethereum_ ecosystem and utilizes blockchain for governance, in-game economy and item ownership. The cornerstone of Hyperblade's complex economy are **Spacerock** and **Timeore** ERC-20 tokens. The primary user-facing blockchain activity is conducted on _Layer 2_ of Ethereum, providing users with secure, fast and cost-effective access to the platform.
+Hyperblade is a part of _Ethereum_ ecosystem and utilizes blockchain for governance, in-game economy, item ownership and player authentication. The cornerstone of Hyperblade's complex economy are **Spacerock** and **Timeore** ERC-20 tokens. The primary user-facing blockchain activity is conducted on _Layer 2_ of Ethereum[^1], providing users with secure, fast and cost-effective access to the platform.
 
-Hyperblade is developed by **[Hyperblade DAO](Governance)**, a decentralized organization of **Spacerock token-holders** who participate in governance via on-chain voting.
-Initially, the governance is shared between core developers and seven elected council members, who in turn vote openly on pending proposals submitted by the community.
+[^1]: Several Layer 2 scaling solutions are being considered at the time of writing of this document, including a separate "side-chain" or a custom Layer 2 solution.
 
-The proposition behind Hyperblade DAO is to give the community a platform to participate in the development on an equal basis with the core team, which is done by by creating incentives and a collaboration framework lacking formal roles or hierarchy.
-The end-goal is to empower the most talented and highly driven community members, enabling Hyperblade to grow beyond a gaming platform.
+Hyperblade is developed by **[Hyperblade DAO](Governance)**, a decentralized organization of **Spacerock token-holders** who govern using an egalitarian token-based voting system.
+During the early stages of development where core infrastructure and base game is being built, the governance will be shared between core developers (**Drop Games Inc.**) and seven elected council members, who in turn vote openly on pending proposals submitted by the community. Striving for long-term sustainability and prioritizing interests of the community, the DAO will gradually adopt deceentralized governance, potentially even moving away from token balance-based voting.
 
-<!-- With the accessibility and the best gaming experience in mind, _Hyperblade has to be a fundamentally egalitarian platform_. Free-to-Play distribution, decentralized governance/ownership and unrestricted blockchain interactivity are the key for equity of all of the participants. -->
+The proposition behind Hyperblade DAO is to give the community a platform to participate in world-building, development and revenue redistribution.
+Furthermore, the possiblity to earn for contributing via grants, completing dev bounties or by generally having a positive impact on the ecosystem allows Hyperblade to be built from within, creating a positive feedback loop and fairly rewarding the actors both financially and in terms of influence over the platform.
+By giving incentives and building collaboration framework without formal roles or hierarchy the DAO can empower the most talented and highly driven community members, ensuring that Hyperblade and it's ecosystem will evolve in the best possible way.
 
-**[Spacerock ($SPR)](Blockchain)** serves as the primary monetary and governance token of Hyperblade, is the basis for DAO revenue redistribution, and has a fixed supply of **10,000,000 $SPR** released in a transparent and controlled manner.
-The revenue is coming from sales on **Hyperblade Marketplace** (NFT & DLC), fees from peer-to-peer commerce, and other DAO initiatives.
-$SPR further allows for advanced DeFi integration, including DAO arranged **Staking** and **Liquidity Providing** that allows $SPR holders to earn passive income in form of additional $SPR and NFT rewards.
+**[Spacerock ($SPR)](Blockchain)** serves as the primary monetary and governance token of Hyperblade, and has a fixed supply of **10,000,000 $SPR**, released in a transparent and controlled manner.
+Spacerock serves as the basis for revenue redistribution, with revenue coming from sales on **Hyperblade Marketplace** (NFT & DLC), fees from peer-to-peer commerce, and other DAO initiatives.
+$SPR further allows for advanced DeFi interactivity, for instance DAO arranged **Staking** and **Liquidity Providing** give $SPR holders an opportunity to earn passive income in form of additional $SPR and NFT rewards.
 
-**[Timeore ($TMO)](Blockchain#timeore)** is a **Duel-to-Earn** reward token received by players for their time and effort contributing to the Hyperblade economy by playing the game and therefore providing online activity and competitiveness. Interactions with the ecosystem are quantified in the form of Timeore reward, and released to the appropriate Web3 account/wallet.
-With rewards being undoubtedly an important component inspiring participation,
-Hyperblade DAO has to take a sustainable approach of fairly and accurately distributing **NFT Loot Crates** and Timerock (in turn used to open the NFT Crates) between an unbounded amount of players. The token issuance is continuous and it's rate is set by the DAO.
+**[Timeore ($TMO)](Blockchain#timeore)** is a **Duel-to-Earn** reward token received by players for their time and effort contributing to the Hyperblade economy by playing the game, and therefore building up online activity and competitiveness. Interactions are quantified in the form of Timeore reward and released to the appropriate Web3 account/wallet.
+The core utility that gives Timeore it's intristic value is the possibility to burn it and perform certain actions not available otherwise. For example, opening **NFT Loot Crates**, upgrading items or entering exclusive tournaments.
+With rewards being undoubtedly an major motivator for many players, Hyperblade DAO has to take a sustainable approach of fairly and accurately distributing Timerock and NFT Loot Crates between an unbounded amount of participants. The token issuance is continuous in accordance with the rate set by the DAO.
 
 ## NFT
 
-**NFTs** allow for the first time for provable unrestricted and uncensorable in-game item ownership, with the uniqueness and scarcity guaranteed by the integrity of the blockchain.
+Together with Spacerock and Timeore, **[NFTs](NFT)** are the essential to decentralized asset ownership in Hyperblade.
+Tied to Web3 accounts/wallets, Hyperblade items are in the full custody of their respective holders, allowing for provably unrestricted and uncensorable interactivity, guaranteed by the integrity of the blockchain.
 
-Together with Spacerock and Timeore, [NFTs](NFT) are the core of the decentralized asset ownership in Hyperblade. Tied to Web3 accounts/wallets, Hyperblade items are in the full custody of their respective owners.
-
-Obtained either by opening [Loot Crates](NFT#loot-crates--item-rarity), on Hyperblade Marketplace, or through air drops, [NFTs are utilized](NFT#nft-types) directly in-game in form of weapons, and armor and minor cosmetics.
-Items come in 7 rarity tiers with an increasing level of uniqueness and in-game features, implying higher valuations of higher tiered items compared to the common ones.
-Furthermore, the exhaustive customization/personalization, which is seen both by the owner and the rest of the players, serves the purpose of making each play session an one-of experience.
-The key distinction between digital items of already established gaming franchises and Hyperblade items, is the blockchain integration of Hyperblade items/NFTs, giving them utility even _outside_ of the game.
+Obtained either by opening [Loot Crates](NFT#loot-crates--item-rarity), on Hyperblade Marketplace, or through air drops, [NFTs are utilized](NFT#nft-types) directly in-game in form of weapons, armor, and cosmetics.
+Items come in 7 rarity tiers with an increasing level of uniqueness and in-game features implying higher valuations of the rarest items.
+Furthermore, the exhaustive customization/personalization, seen both by the owner and the rest of the players, serves the purpose of making each play session an one-of experience.
+The key distinction between digital items of already established gaming franchises and Hyperblade items is the native blockchain integration of Hyperblade items/NFTs, giving them utility even _outside_ of the game.
 Other than being available in the **[Hyperblade NFT Viewer App](NFT#hyperblade-nft-viewer-app)**, on-chain activities like _lending, fractionalizing, wagering etc._ are not only possible, but rather encouraged, as those essentially increase the intrinsic value of the items.
-With the metadata being openly accessible on-chain, HB NFTs can be the basis for other projects and collections, including those not created by the HB DAO itself. Therefore, Hyperblade NFTs are essentially positioned to be fully **Metaverse** integrated.
+The cross-application interoperability, including open on-chain metadata access, enables HB NFTs to be the basis for third-party projects and collections as well. Hyperblade NFTs are therefore positioned to be fully **Metaverse** integrated.
 
-The underlying artistic side of the NFTs allow them to be the grounds for creative expression of the community. Artists submit their created NFT art, for instance a sword or character skin, to a community vote, and the pieces that passed the vote are then available in-game and Hyperblade Marketplace. Creatives then get a fair share from the profits from the NFTs they created, and Hyperblade gets museum quality pieces directly available in the game.
+The underlying artistic side of the NFTs allow them to be the grounds for creative expression of the community. Artists submit their created NFT art, for instance a sword or a character skin, to a community vote, items that passed the vote are then available in-game and Hyperblade Marketplace. Creatives then get a fair share from the profits from the NFTs they created, and Hyperblade gets museum quality pieces directly available in the game.
 
 ## Open Sourcing
 
@@ -99,7 +106,7 @@ Along with security and reliability, it was the openness and unrestricted innova
 Open sourcing and free flow of ideas allow small teams to build monumental projects that would be impossible to make without the ability to stand on the shoulders of giants.
 
 Hyperblade, as a blockchain native project, is being built with same values.
-The planned functionality requires an extensive amount of engineering, where the technology is being developed using the available open source code and through the collaboration with other teams, e.g. using open sourced _Uniswap V2_ to build a decentralized Hyperblade exchange. Hyperblade DAO acknowledges that it in the common interest to share the acquired knowledge, and therefore all of the source code will be made available in the open, combining GPL licensing for common components such as Marketplace, DEX or governance modules, and delayed open-sourcing via BSL for Hyperblade's artistic part with 3 year closed-source period.
+The planned functionality requires an extensive amount of engineering, where the technology is being developed using the available open-source code and through the collaboration with other teams, e.g. using open-source _Uniswap V2 Interface_ to build decentralized Hyperblade exchange. Hyperblade DAO acknowledges that it in the common interest to share the acquired knowledge, and therefore all of the source code will be made available in the open, combining GPLv3 licensing for common components such as Marketplace, DEX or governance modules, and delayed open-sourcing via BSL for Hyperblade's artistic part with 3 year closed-source period.
 
 ## Disclaimer
 

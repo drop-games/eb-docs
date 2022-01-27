@@ -5,6 +5,9 @@
  */
 
 /* You can override the default Infima variables here. */
+
+@import url("https://fonts.googleapis.com/css2?family=Manrope:wght@200;300;400;500;600;700;800&display=swap");
+
 :root {
   --ifm-color-primary: #c02339;
   --ifm-color-primary-dark: #ac2024;
@@ -16,20 +19,22 @@
   --ifm-code-font-size: 95%;
 
   --ifm-footer-background-color-alt: #0e0e0f;
+
+  font-family: Manrope, sans-serif;
 }
 
 html[data-theme="dark"] {
-  --ifm-code-background-first: #0c0c14;
-  --ifm-code-background-second: rgba(4, 4, 7, 1);
-  --ifm-code-background-third: rgb(11, 11, 17);
-  --ifm-navbar-background-color: #0c0c11;
+  --ifm-code-background-first: #000000;
+  --ifm-code-background-second: rgb(10, 10, 10);
+  --ifm-code-background-third: rgb(20, 20, 20);
+  --ifm-navbar-background-color: #000000;
   --ifm-table-head-background-color: rgba(4, 4, 7, 0.45);
   --ifm-table-body-background-color: rgba(4, 4, 7, 0.3);
 }
 
 html[data-theme="light"] {
-  --ifm-code-background-first: #fafaf8;
-  --ifm-code-background-second: rgb(221, 221, 221);
+  --ifm-code-background-first: #ffffff;
+  --ifm-code-background-second: rgb(230, 230, 230);
   --ifm-code-background-third: rgb(212, 212, 212);
   --ifm-navbar-background-color: #f7f7f7;
   --ifm-table-head-background-color: rgba(236, 236, 236, 0.45);

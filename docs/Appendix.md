@@ -11,7 +11,7 @@ import TextStyled from "../src/components/CustomReactComponents";
 Entertainment as we know it today would not be the same without _video games_.
 Starting as a niche past-time associated with children and enthusiasts, video gaming turned into a cultural phenomenon appreciated by billions of people and rivaling such entertainment behemoths like movie or music industries[^1][^2].
 What makes video gaming this kind of a dominant force is it's unique position where it encompasses entertainment, creativity and innovation.
-In 50 years we went simplistic games like _Pong_, which featured two paddles bouncing a ball and a scoreboard, to pieces that are redefining the meaning of _simulation_ with graphics and gameplay rivaling those of real life.
+In 50 years we went from simplistic games like _Pong_, which featured two paddles bouncing a ball and a scoreboard, to masterpieces redefining the meaning of _simulation_ with graphics and gameplay rivaling those of real life.
 
 ### The Role of Innovation
 
