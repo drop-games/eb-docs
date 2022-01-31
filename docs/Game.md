@@ -148,8 +148,10 @@ Players are able to **Lock** on an enemy, as the result their character will con
 <TextStyled fontSize="1.3rem" fontWeight="bold" >Ranged Combat and Abilities</TextStyled>
 <br/>
 
-Every character has a special ability that is unique to them, expanding the variance of gameplay by going beyond melee combat. Abilities are based on characters' background or school of martial arts they represent and can either be offensive or defensive. Example abilities are: smoke bomb, berzerk mode, secondary weapon, damage absorbing energy field, etc.
+Every character has a special ability that is unique to them, expanding the variance of gameplay by going beyond melee combat. Abilities are based on characters' background or school of martial arts they represent and can either be offensive or defensive. Example abilities: smoke bomb, berzerk mode, secondary weapon, damage absorbing energy field, etc.
 To further enhance the gameplay and intensity of the match-ups, Hyperblade features limited **ranged combat**. This is done to prevent ultra passive combat where one player simply avoids the fight. Character are able to launch a projectile, e.g.: a ninja star, a throwing knife, or even a self-guiding mini drone or lightning strike.
+
+During the fight, players are able to throw their primary weapon as well. After the throw, players will have to pick up their weapon again in order to get back in the fight. Primary weapon throw is especially effective for spears.
 
 Ranged combat and abilities are not meant to be the dominant combat mechanic and should be only used sporadically. Both have a cool-down period after being used, and ranged attacks have limited range and decreasing effectiveness over distance.
 
@@ -185,22 +187,6 @@ Competitive ranks are separate from the player level, and are reset each each **
 
 Esports is the logical evolution of ranked gameplay. The balance, fast pace and rich visuals are making both esports and streaming viable, giving the viewers feeling like they are the ones playing. We also plan on hosting several annual tournaments with prize pools. Those will be funded from the DAO treasury, sponsors and NFT ticket sales. Later on, tools for hosting custom tournaments will be released publicly.
 
-## Visuals & Setting
-
-Being a free-to-play, cross-platform fighting game, Hyperblade is a game built with mass appeal in mind. The goal is to create a brand new universe that captivates a wide array of audiences while retaining a lot of depth, and that's why a several key decisions about the Hyperblade design were made.
-
-Hyperblade utilizes a stylized artstyle, which makes it very visually appealing and readable, with later being especially important for competitive gameplay. Another advantage of the stylized approach is that it allows for a streamlined art pipeline, where the new assets are created effectively without losing any of the aesthetic value. The stylized graphics look arguably great even on lower end platforms or mobile, which makes again game truly accessible for all. Finally, Hyperblade is meant to be played without any visual discomfort even years after the initial release, so having the graphics that will stand the test of time is essential. _Team Fortress 2_ is the benchmark in regards to longevity, and the stylized artstyle, switch to Free-to-Play and built in-trading platform are perhaps the reasons why this 14 year old game is just as popular as ever[^2].
-
-[^2]: https://steamcharts.com/app/440
-
-The setting is in an alternate-reality world, meaning that Hyperblade uses real world as the basis and adds a multitude of sci-fi and fantasy elements, bringing a brand new story-driven universe to life (just like _Overwatch_, _Fallout_, or _Soul Calibur_ do). This gives the game a solid framework to work with, not limited by the setting of any existing franchise, and a way to tie real-world cultural references to the story and universe. Being a fighting game revolving around melee combat, Hyperblade can embrace real-life martials like kendo or fencing, which now could be used for character lore as well as in the actual gameplay.
-
-<img src={'../img/game/inspirationboard.png'} alt='Hyperblade Artboard'/>
-
-## Story
-
-<TextStyled fontSize="1.3rem" fontWeight="bold">TBD</TextStyled>
-
 ## Other Gamemodes
 
 High replayability and player retention are central Hyperblade, the game has to be fundamentally _fun_ to play with enough options how to get entertained.
@@ -224,11 +210,11 @@ Additional functionality will be continuously introduced to the Lounge, both add
 NFT customization is enabled by default and players can demonstrate their in-game achievements (or _wealth_) by having their favorite swords and armor equipped. Furthermore, the possiblity to **wager NFTs in pre-arranged duels**, including betting on the outcome of other people's duels, serves as a proof-of-concept in-game NFT utility (and therefore raises their intristic value).
 The blockchain interactiveness (i.e NFT wagering) is initially restricted to official servers.
 
-<TextStyled fontSize="1.3rem" fontWeight="bold" >Hyperblade MOBA</TextStyled>
+<TextStyled fontSize="1.3rem" fontWeight="bold" >The Tower</TextStyled>
 <br/>
 
-The next possible candiditate for a competitive ranked gameplay and tokenized rewards distribution is 3v3 or 5v5 MOBA style game mode.
-Players would be match with appropriatelly skilled teammates and opponents, where teams would fight head-to-head with an objective of destroying the enemy's base structure.
+The next possible candiditate for a competitive ranked gameplay and tokenized rewards distribution is 3v3 (or 5v5) MOBA style game mode **The Tower**.
+The mode follows canonic MOBA principles, the two teams go head-to-head with an objective to destroy their opponents' base structure located on the other corner of the map and defended by AI minions/defensive structures. During rhe match, players accumulate points for killing enemies that can be redeemed for upgrades such as weapon augmentations or abilties (intra-match). The Tower utilizes the same fighting mechanics as the base game, and therefore the skills developed in Duels are applicable to this mode as well.
 Expanding competitive Hyperblade beyond 1v1 gameplay allows for professional teams to emerge, solidifying Hyperblade as a complete esports title.
 
 <br/>
@@ -237,3 +223,19 @@ Expanding competitive Hyperblade beyond 1v1 gameplay allows for professional tea
 _Focusing on community development and entertainment value, Hyperblade can leverage the openness of the platform to give the builders the means to expand the game, growing it in a decentralized way.
 With cutting-edge technology stack, including Unreal Engine 5 as the game engine and DAO collaboration framework, the community can effectivelly shape the game to it's own liking.
 _
+
+## Visuals & Setting
+
+Being a free-to-play, cross-platform fighting game, Hyperblade is a game built with mass appeal in mind. The goal is to create a brand new universe that captivates a wide array of audiences while retaining a lot of depth, and that's why a several key decisions about the Hyperblade design were made.
+
+Hyperblade utilizes a stylized artstyle, which makes it very visually appealing and readable, with later being especially important for competitive gameplay. Another advantage of the stylized approach is that it allows for a streamlined art pipeline, where the new assets are created effectively without losing any of the aesthetic value. The stylized graphics look arguably great even on lower end platforms or mobile, which makes again game truly accessible for all. Finally, Hyperblade is meant to be played without any visual discomfort even years after the initial release, so having the graphics that will stand the test of time is essential. _Team Fortress 2_ is the benchmark in regards to longevity, and the stylized artstyle, switch to Free-to-Play and built in-trading platform are perhaps the reasons why this 14 year old game is just as popular as ever[^2].
+
+[^2]: https://steamcharts.com/app/440
+
+The setting is in an alternate-reality world, meaning that Hyperblade uses real world as the basis and adds a multitude of sci-fi and fantasy elements, bringing a brand new story-driven universe to life (just like _Overwatch_, _Fallout_, or _Soul Calibur_ do). This gives the game a solid framework to work with, not limited by the setting of any existing franchise, and a way to tie real-world cultural references to the story and universe. Being a fighting game revolving around melee combat, Hyperblade can embrace real-life martials like kendo or fencing, which now could be used for character lore as well as in the actual gameplay.
+
+<img src={'../img/game/inspirationboard.png'} alt='Hyperblade Artboard'/>
+
+## Story
+
+<TextStyled fontSize="1.3rem" fontWeight="bold">TBD</TextStyled>
