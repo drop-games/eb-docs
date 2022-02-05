@@ -8,16 +8,16 @@ _Our goal is to make Hyperblade DAO self-sufficient and managed by people who lo
 
 ## Hyperblade DAO
 
-Hyperblade DAO is the organization of **Spacerock** tokenholders as well as other people interested in the success of the project, including Hyperblade players.
+Hyperblade DAO is the organization of **Spacerock** token holders as well as other people interested in the success of the project, including Hyperblade players.
 The cornerstone of Hyperblade DAO is a series of smart contracts deployed on Ethereum network that allow DAO members to oversee Spacerock & Timeore tokenomics, development of Hyperblade game, key infrastructure (e.g. HB Marketplace), as well as the governance system itself.
-By giving every participant a voice and ability to influece the direction the project is going, the DAO is empowering the community and allowing it to be a self-managed and self-sustaing movement that is closer to a nation state than a corporation, prioritizing satisfaction of it's participants to over-monetization and pure for-profit attitude.
+By giving every participant a voice and ability to influence the direction the project is going, the DAO is empowering the community and allowing it to be a self-managed and self-sustaining movement that is closer to a nation state than a corporation, prioritizing satisfaction of its participants to over-monetization and pure for-profit attitude.
 
 ## Core Team & Initial Governance
 
-During the period of governance decentralization, the decision making and day-to-day operations are carried out by **Drop Games Inc.**, _the core team_, tasked with development Hyperblade game and the necessary infrastructure. Secondly, core team is responsible for the customer service and in-game moderation, essential for great user experience and player retention.
-The core team will be superseded as the main governing body by **the Council**, a board of 7 elected representatives of $SPR tokenholders.
+During the period of governance decentralization, the decision-making and day-to-day operations are carried out by **Drop Games Inc.**, _the core team_, tasked with development Hyperblade game and the necessary infrastructure. Secondly, core team is responsible for the customer service and in-game moderation, essential for great user experience and player retention.
+The core team will be superseded as the main governing body by **the Council**, a board of 7 elected representatives of $SPR token holders.
 
-For the purpose of incentivization, there is a pre-allocated $SPR budget for team members and contributing council members. $SPR received by the team will have a year lock-up period, and the largest receivers will also be subjects to a vesting schedule. Futher down the timeline, the core team will be absorbed by the DAO itself, and the **Dev Council** will be established to supervise talent acquisition and appropriate compensation for each collaborator.
+For the purpose of incentivization, there is a pre-allocated $SPR budget for team members and contributing council members. $SPR received by the team will have a year lock-up period, and the largest receivers will also be subjects to a vesting schedule. Further down the timeline, the core team will be absorbed by the DAO itself, and the **Dev Council** will be established to supervise talent acquisition and appropriate compensation for each collaborator.
 
 ## Distributed Organizational Structure
 
@@ -28,7 +28,7 @@ The crucial distinction between Hyperblade and similar but centralized projects 
 ## \$SPR Voting
 
 The first iteration of the DAO features trustless quadratic voting via _Snapshot_, where one's voting power is equal to the square root of their $SPR balance (both locked and unlocked) and voting power that was delegated to them by other $SPR holders.
-Quadratic voting is introduced to thwart oligarchy (i.e. major $SPR holders colliding to control the decision-making), active participation in DAO voting is rewarded with additional **NFT Loot Crates**, and \$SPR has to be in the wallet for 1 month until it will be eligible for voting. Futhermore, the unused $SPR held in the DAO treasury does not have voting power until it's distributed. The aforementioned mechanics are implemented to support the broad distribution of political power and to mitigate any possible hostile actions, whether by third-parties or bad actors in the DAO itself.
+Quadratic voting is introduced to thwart oligarchy (i.e. major $SPR holders colliding to control the decision-making), active participation in DAO voting is rewarded with additional **NFT Loot Crates**, and \$SPR has to be in the wallet for 1 month until it will be eligible for voting. Furthermore, the unused $SPR held in the DAO treasury does not have voting power until it's distributed. The aforementioned mechanics are implemented to support the broad distribution of political power and to mitigate any possible hostile actions, whether by third-parties or bad actors in the DAO itself.
 
 In the future, DAO has to consider shifting away from $SPR token voting to more advanced methods of governance as they become available in order to maintain long-term sustainability and community-first approach.
 
@@ -37,15 +37,15 @@ In the future, DAO has to consider shifting away from $SPR token voting to more 
 Inspired by the system used by [The Graph](https://thegraph.com/blog/introducing-the-graph-council), $SPR tokenholders elect **the council of 7**, who are deemed the most suitable candidates to make high-level decisions regarding the project and DAO governance, ultimately representing the interests of all $SPR tokenholders. The legitimacy, executive power, and individual compensation are guaranteed by **smart contracts**. The election process and possible term limits are also established by smart contracts, yet due to the risks of power corruption the authority over those contracts is reserved for $SPR holders who have to approve any changes to those contracts via voting.
 Candidates for the council can be nominated at any time prior to the vote, the election itself takes 3 days after which the 7 leading candidates are automatically appointed to the council and commence their duties.
 The subsequent elections are then held every 4 months, and if any council seat becomes vacant, a snap election for this position then takes place.
-Council members will be compensated for their efforts with pre-approved $SPR and/or ETH/stable-coins coming out DAO treasury, Spacerock earned this way will locked for 6 months in a yield generating contract.
+Council members will be compensated for their efforts with pre-approved $SPR and/or ETH/stable-coins coming out DAO treasury, Spacerock earned this way will stay locked for 6 months in a yield generating contract.
 
 ## Hyperblade Improvement Proposals
 
 **Hyperblade Improvement Proposal**, or **HIP**, is essentially a motion to change the Hyperblade platform.
-DAO members submit their proposals on HIP GitHub repository where discussion takes place and HIP is being collaborativelly drafted, the original author then finalizes the HIP.
+DAO members submit their proposals on HIP GitHub repository where discussion takes place and HIP is being collaboratively drafted, the original author then finalizes the HIP.
 Depending on the urgency, HIPs are either batched together for an ordinary voting session or voted-on in an emergency session.
 
-HIPs in the current DAO iteration are then subject to an open vote by **the Council** where the outcome is decided by a _simple majority_, i.e. 4 out of 7 (or 3 out of 5) votes are needed for the HIP to be adopted. A successful HIP is then implemented by the team in accordance with it's conditions.
+HIPs in the current DAO iteration are then subject to an open vote by **the Council** where the outcome is decided by a _simple majority_, i.e. 4 out of 7 (or 3 out of 5) votes are needed for the HIP to be adopted. A successful HIP is then implemented by the team in accordance with its conditions.
 
 <TextStyled fontSize="1.3rem" fontWeight="bold">Example propositions:</TextStyled>
 
@@ -65,13 +65,13 @@ HIPs in the current DAO iteration are then subject to an open vote by **the Coun
 	<li>Licensing proposals</li>
 </ul>
 
-All of the HIPs will be visible on _Snapshot_, where the vote will be held by the council. The whole voting process is transparent to prevent collusion and to promote healthy project development.
+HIPs will be visible on _Snapshot_, where the vote will be held by the council. The whole voting process is transparent to prevent collusion and to promote healthy project development.
 
 ## NFT Voting
 
 Spacerock tokenholders are able to directly vote for NFTs. The incentive for the voters to choose the best art pieces is a **higher drop rate** in loot crates and/or **portion of fees** from the sales of this NFT.
 
-Functioning essentially as a _prediction market_, player vote with their token for the NFTs from a pool of community created NFTs they like (possibly even wagering their $SPR). If the NFT gets sufficient amount of votes to pass the threshold, it will be approved for Hyperblade and assigned common values like rarity or collection, after that it will be available on par with other NFTs in the game and HB Marketplace. The creator of this NFT then gets a fair share of the profits yielded, and players who voted for this NFT are rewarded with price discounts or higher drop rate for this item. This way players are motivated to vote for the best items, and Hyperblade gets the top quality art pieces created by it's own community.
+Functioning essentially as a _prediction market_, player vote with their token for the NFTs from a pool of community created NFTs they like (possibly even wagering their $SPR). If the NFT gets sufficient amount of votes to pass the threshold, it will be approved for Hyperblade and assigned common values like rarity or collection, after that it will be available on par with other NFTs in the game and HB Marketplace. The creator of this NFT then gets a fair share of the profits yielded, and players who voted for this NFT are rewarded with price discounts or higher drop rate for this item. This way players are motivated to vote for the best items, and Hyperblade gets the top quality art pieces created by its own community.
 
 ## The Future of DAO
 

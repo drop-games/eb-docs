@@ -52,7 +52,7 @@ _Apr 2022 - Sept 2022_
 - Web3 promo campaign
 - HB Beta ('pay-to-play')
 - HB Marketplace
-- HB NFT in-game customimzation
+- HB NFT in-game customization
 - HB "The Lounge" game-mode with up to 32 players
 - Basic tooling for third-party development
 - Smart contracts v2 & audit
@@ -71,7 +71,7 @@ _Oct 2022 - 2023_
 - HB Loot Crates
 - User-created NFT publishing system
 - Community NFT voting
-- Advanced NFT functionality, incl. smithing & customization
+- Advanced NFT functionality, incl. smiting & customization
 - Additional game-modes (3v3)
 - Custom server support
 - Player-to-Player wagering (betting)

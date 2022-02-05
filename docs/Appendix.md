@@ -10,41 +10,41 @@ import TextStyled from "../src/components/CustomReactComponents";
 
 Entertainment as we know it today would not be the same without _video games_.
 Starting as a niche past-time associated with children and enthusiasts, video gaming turned into a cultural phenomenon appreciated by billions of people and rivaling such entertainment behemoths like movie or music industries[^1][^2].
-What makes video gaming this kind of a dominant force is it's unique position where it encompasses entertainment, creativity and innovation.
+What makes video gaming this kind of dominant force is its unique position where it encompasses entertainment, creativity and innovation.
 In 50 years we went from simplistic games like _Pong_, which featured two paddles bouncing a ball and a scoreboard, to masterpieces redefining the meaning of _simulation_ with graphics and gameplay rivaling those of real life.
 
 ### The Role of Innovation
 
-One of the primary reasons video game industry had such an skyrocketing growth, is it's inherent reliance on innovation up to the point where digital games are often regarded as an industry where technological advancements first get concretized[^7].
+One of the primary reasons video game industry had such a skyrocketing growth, is its inherent reliance on innovation up to the point where digital games are often regarded as an industry where technological advancements first get concretized[^7].
 By virtue of connecting users directly with the latest technologies, game development in is position to be the vanguard of tech innovation. Notably, the practical usage of AI in the games and interactive 3D environments, essentially allows creation of brand new, live, virtual worlds and universes.
 
-With development tools like game engines (Unity and Unreal Engine) and distribution systems (AppStore/Google Play/Steam/etc.) being in high maturity, games can be now developed relatively efficiently in a streamlined manner. This combined with all time high accessibility and technology penetration of gaming, allow both AAA and indie gaming to strive side-by-side, challenging each other in a fight for player's hearts and wallets. The significance of innovation in this race is evident by the way separate technologies change the reality of the gaming market.
+With development tools like game engines (Unity and Unreal Engine) and distribution systems (App Store/Google Play/Steam/etc.) being in high maturity, games can be now developed relatively efficiently in a streamlined manner. This combined with all-time high accessibility and technology penetration of gaming, allow both AAA and indie gaming to strive side-by-side, challenging each other in a fight for player's hearts and wallets. The significance of innovation in this race is evident by the way separate technologies change the reality of the gaming market.
 
-The two key, rather convenience, innovations that have shaped (and dominated) the market in the past decade were _mobile_ and _free-to-play_ gaming, often combined. More than half of the players and revenues come from mobile devices, where the accessibility and portability allow one to play irregardless of where they are.
+The two key, rather convenience, innovations that have shaped (and dominated) the market in the past decade were _mobile_ and _free-to-play_ gaming, often combined. More than half of the players and revenues come from mobile devices, where the accessibility and portability allow one to play regardless of where they are.
 The possibility to play the game for free and only pay when one wants to, thus adding to the overall convenience, was another factor changing the face of the industry with F2P now bringing 78% of the gaming digital revenues[^2].
 
-The consumer's ability to adapt and strive in a rapidly changing technological environment should allow developers to experiment with the core values of the products they make, yet developers still tend to be conservative and disregard the possible "first mover" advantages of the emerging technologies[^3]. The omnipresent centralization and nontransparency often stifles creativity and innovation, and furthermore, the top-down hierarchical structures, coupled with pure for-profit intentions lead to market inefficiencies and players often disappointed with the games they are offered. There is a need for change in the core values of game dev, coming back to the basics of what games are: the art and the technology.
+The consumer's ability to adapt and strive in a rapidly changing technological environment should allow developers to experiment with the core values of the products they make, yet developers still tend to be conservative and disregard the possible "first mover" advantages of the emerging technologies[^3]. The omnipresent centralization and opaqueness often stifles creativity and innovation, and furthermore, the top-down hierarchical structures, coupled with pure for-profit intentions lead to market inefficiencies and players often disappointed with the games they are offered. There is a need for change in the core values of game dev, coming back to the basics of what games are: the art and the technology.
 
 **What is next for gaming?** <br/>
-The current perception of what will shape the gaming industry in the near future are _Augmented Reality (AR) & Virtual Reality (VR)_, _Cloud Gaming_, _AI Generated Content_ and _Virtualized Geometry_[^17][^18]. All of those technologies are already being implemented in some form or another, but the casual majority is not yet fully exposed to them, and it might be _cross-play_ and _blockchain_ that will come to prominence sooner. Both of those innovations were identified by us to be critical for the industry in 2020's and on-wards.
+The current perception of what will shape the gaming industry in the near future are _Augmented Reality (AR) & Virtual Reality (VR)_, _Cloud Gaming_, _AI Generated Content_ and _Virtualized Geometry_[^17][^18]. All of those technologies are already being implemented in some form or another, but the casual majority is not yet fully exposed to them, and it might be _cross-play_ and _blockchain_ that will come to prominence sooner. Both of those innovations were identified by us to be critical for the industry in the 2020s and on-wards.
 
 ### Cross-play
 
 **Cross-play**, or cross-platform play, is the players' ability to play against others who are using different platform to theirs.
-Following the notion of _cross-platform development_, cross-play is now achievable and can be implemented by using industry standard tooling like **Unreal Engine 4** or **Unity**. However, due to it not available "out-of-the-box"[^5], cross-play implies a certain degree of engineering complexity, especially in terms of inter-platform compatibility.
+Following the notion of _cross-platform development_, cross-play is now achievable and can be implemented by using industry standard tooling like **Unreal Engine 4** or **Unity**. However, due to it not being available "out-of-the-box"[^5], cross-play implies a certain degree of engineering complexity, especially in terms of inter-platform compatibility.
 Despite the fact that this is a feature that players hold in a high regard, the correct implementation cannot give one group of players the upper hand over another.
 First-person shooter (FPS) is the prime example of a genre where cross-play adds up balancing challenges, a computer mouse allows for way more precise aiming mechanics compared to a console controller, and developers often have to use workarounds like auto-aim.
-However, games with simplistic controls schemes or casual (non-competitive) titles might not be affected by this issue whatsoever, providing players with the same level of experience irregardless of the platform they are on.
+However, games with simplistic controls schemes or casual (non-competitive) titles might not be affected by this issue whatsoever, providing players with the same level of experience regardless of the platform they are on.
 
 ### Blockchain Gaming
 
-In 2000's it became evident that gaming is more than just an alternative to watching a movie or reading a book.
-First, whole communities we're created around games that allowed for modifications, and games we're changed to the liking of their players, starting with very basic customization and coming to that point where brand new games we're built by enthusiasts on top of original titles.
+In the 2000s it became evident that gaming is more than just an alternative to watching a movie or reading a book.
+First, whole communities we're created around games that allowed for modifications, and games we're changed to the liking of their players, starting with very basic customization and coming to that point where brand-new games we're built by enthusiasts on top of original titles.
 And this was followed by the possibility to trade in-game assets for a multiplayer game with other players, even for fiat currency took gaming beyond just a form of entertainment, it became a market of markets.
-The reality where communities are able to shape the end-product is inherent to gaming, starting with decentralized MMO guilds and modding communities, and now blockchain is the next logical step in that direction through redefining the concepts of ownership and stakeholding.
+The reality where communities are able to shape the end-product is inherent to gaming, starting with decentralized MMO guilds and modding communities, and now blockchain is the next logical step in that direction through redefining the concepts of ownership and stake holding.
 
 _**Blockchain**_ has become an omnipresent term that encompasses a social promise and a new technology, defining the whole sector of cryptocurrency and decentralized applications (dApps).
-And due to it's expansive growth and unbounded disruptive potential, blockchain is often getting compared to the internet of the early 1990s[^11][^12].
+And due to its expansive growth and unbounded disruptive potential, blockchain is often getting compared to the internet of the early 1990s[^11][^12].
 The first implementation of blockchain came along with _Bitcoin_, the first real cryptocurrency.
 Bitcoin's original developer, Satoshi Nakamoto, aimed to create an electronic payment system based on verifiable cryptographic proof instead of trust, allowing any two willing parties to transact directly with each other without the need for a trusted third party[^9]. Satoshi described “blocks” and “chains” as a way of organizing and securing records, such that once entries had been made into a shared ledger, they become irreversible and mathematically provable[^10].
 
@@ -74,9 +74,9 @@ The substantial flexibility of smart contracts lead to creation of several new c
 	</div>
 </div>
 
-Since it's inception, blockchain was associated primarily with financial and infrastructural applications, but in 2021, **blockchain** (or **crypto**) **gaming** and **NFT trade** have emerged as the new faces of the industry, where due to their intrinsic gamification their user base and subsequent user activity have had an enormous growth, quicky surpasing any other blockchain sub-sector[^23].
+Since it's inception, blockchain was associated primarily with financial and infrastructural applications, but in 2021, **blockchain** (or **crypto**) **gaming** and **NFT trade** have emerged as the new faces of the industry, where due to their intrinsic gamification their user base and subsequent user activity have had an enormous growth, quickly surpassing any other blockchain sub-sector[^23].
 
-For reference, _Axie Infinity_, the most popular blockchain game at this moment, has made an immense leap from a niche game to a global phenomenon coming from 1,800 active players in August of 2020 to 1,500,000 daily active users in August of 2021, topping Bitcoin’s all-time high of 1.36M daily active wallets[^14].
+For reference, _Axie Infinity_, the most popular blockchain game at this moment, has made an immense leap from a niche game to a global phenomenon coming from 1,800 active players in August 2020 to 1,500,000 daily active users in August 2021, topping Bitcoin’s all-time high of 1.36M daily active wallets[^14].
 
 The impact on Ethereum ecosystem, de facto the "to-go" blockchain for everything NFT and gaming related[^24], can be gauged by revenues the top projects bring, as well as the total amount of _gas_ (cost to execute a transaction on Ethereum) they use. In August 2021, the largest NFT marketplace _OpenSea_ and Axie Infinity added up to 87% of Ethereum revenues and topped the list of Ethereum's gas burning projects, significantly rising the cost of using the blockchain itself[^31].
 
@@ -85,7 +85,7 @@ The verifiable scarcity, uniqueness and artistic merit of NFTs, make them along 
 
 #### Evolution of Blockchain Gaming
 
-Soon after Bitcoin's initial release first games utilizting the technology started to appear, the varying level of implementation of the underlying innovations warrants categorizing them into generations (often running in parallel).
+Soon after Bitcoin's initial release first games utilizing the technology started to appear, the varying level of implementation of the underlying innovations warrants categorizing them into generations (often running in parallel).
 
 <div className="pseudo-table">
 	<div className="pseudo-table-row" style={{minWidth: '4rem'}}>
@@ -143,13 +143,12 @@ Soon after Bitcoin's initial release first games utilizting the technology start
 #### Blockchain Gaming Value Proposition
 
 _Blockchain-based game design_ touches the value construction principles and organizational structures of game development as we know it.
-Traditional studios are hesitant to adapt decentralized in-game asset ownership and trustless access, evident by a lack of mainstream games built with blockchain and alternate organization structures (e.g. flat/distributed organization structure), ignoring the possible advantages blockchain gaming might bring both for the developers and the end-users.
-, both industry specific, and as the consequence of being in the larger blockchain-cryptocurrency space:
+Traditional studios are hesitant to adapt decentralized in-game asset ownership and trustless access, evident by a lack of mainstream games built with blockchain and alternate organization structures (e.g. flat/distributed organization structure), ignoring the possible advantages that blockchain gaming might bring both for developers and end-users.
 
 <br/>
 
 <TextStyled fontWeight="bold" fontSize="1.1rem" textDecoration="underline">
-Implied Advantages
+Advantages
 </TextStyled>
 
 <br/>
@@ -166,7 +165,7 @@ Tokens (cryptocurrencies and NFTs) have provable legitimate ownership and limite
 
 **Access to Entire Blockchain Ecosystem** <br/>
 The inherent openness of blockchain accommodates for free flow of capital and ideas.
-And on-chain projects are exposed to such enabling concepts like _Liquidity Providing & Staking_, _Retroactive Funding_, or _On-Chain Lending_, inaccessible for traditional entitites.
+And on-chain projects are exposed to such enabling concepts like _Liquidity Providing & Staking_, _Retroactive Funding_, or _On-Chain Lending_, inaccessible for traditional entities.
 The arrival of decentralized computing and storage will further
 
 **On-chain Transactions** <br/>
@@ -180,7 +179,7 @@ The opportunity to earn real life income by playing a game fundamentally changes
 On-chain governance (including voting) and openness of blockchain allow for non-linear and distributed organizational structures (as well as ownership), democratizing the process of creation and leading to open and unrestrained innovation and collaboration
 
 **Collaboration with Other Projects** <br/>
-Interoperability between protocols elevates collaboration. Assets being in the custody of their true owners empowers third-party developers to build on top of existing asset bases. One item can be part of multiple different games, with the permission of it's owner. Tokenized economy with DeFi elements enables free flow of capital and further collaboration between projects, stimulating
+Interoperability between protocols elevates collaboration. Assets being in the custody of their true owners empowers third-party developers to build on top of existing asset bases. One item can be part of multiple different games, with the permission of its owner. Tokenized economy with DeFi elements enables free flow of capital and further collaboration between projects, stimulating
 
 <br/>
 
@@ -192,31 +191,34 @@ Common Critiques
 <br/>
 
 **Blockchain Scalability Issues** <br/>
-Increasing adoption of blockchain puts the scalability in question.
-Blockchains often are trading of trustlessness and decentralization for an adequate transaction throughput. Centralized blockchains are susceptible to outages or hacks.
-The leading decentralized platform _Ethereum_ is struggling with high transaction costs on the mainnet, resulting in fragmentation of Layer 2 scalability solutions.
+Increasing adoption of blockchain technology puts the scalability in question.
+Blockchains are often compromising trustlessness and decentralization for a higher transaction throughput. Centralized blockchains are susceptible to outages or hacks.
+The leading decentralized platform _Ethereum_ is struggling with high transaction costs on the main-net, resulting in fragmentation of Layer 2 scalability solutions.
 
 **Wallet Accessibility and End-User Security Concerns** <br/>
 The principle of anonymity and delegation of trust to algorithms including asset ownership via on-chain wallets entails weak or non-existent customer support service and possible security risks due to the novelty and complexity of the systems.
 
 **Economy-Specific Wealth Inequality** <br/>
-High base level transaction cost hinders less players less eager to pay from participating in the economy, as well as gives a first mover advantage to risk tolerant actors.
+High base level transaction cost leads to wealth inequality. Fees are often not proportionate to the value transferred as they are tied to the code of the transaction rather than the volume being sent, and therefore wealthy participants are getting an intrinsic advantage over smaller players. High costs lead to entry barriers for the majority of the users, as well as give a first mover advantage to risk tolerant actors.
 
 **The _Perceived_ Materiality of Non-Fungible Tokens** <br/>
 With tokens not being secured my any material assets, their intrinsic value is entirely dictated by the market. Legal protection of token ownership, including NFTs, is questionable. With the absence of cross-chain bridges, tokens are constrained to the current blockchain they are on.
 
-**Abundance of tokens resolving in their valuelessness** <br/>
-Token emission that is not guaranteed by smart contracts' integrity, including NFT release, can lead to their abundance and uncontrolled inflation[^7].
+**Opaque token emission and loss of value** <br/>
+Token emission that is not guaranteed by smart contracts' integrity, including Non-fungible Tokens (NFT), can lead to their abundance and uncontrolled inflation[^7]. Token holders are often unable to influence the tokenomics controlled by the smart-contract developer/owner.
+
+**Smart-contract risk and hacks** <br/>
+Novelty of the tokenized economy based on code brings substantial risks where the accumulated value of a project can be gone over-night due to smart contract vulnerabilities and errors. Smart contracts are susceptible to hacks, including attacks from the inside by the original developers.
 
 **Environmental impact of blockchain economies** <br/>
 Proof-of-Work blockchains, including the current _Ethereum_ iteration, are critiqued for their enormous energy consumption relative to their transaction throughput, therefore the projects operating on those blockchains are deemed responsible as well[^8].
 
 ### Conclusions
 
-In the video game industry, implementation of _digital open innovation_ , a distributed innovation process enabled and facilitated by digital technology and digitization, together with leveraging user communities as information and innovation sources, leads to superior outcomes in long-term performance at the product level[^4].
+In the video game industry, implementation of _digital open innovation_, a distributed innovation process enabled and facilitated by digital technology and digitization, together with leveraging user communities as information and innovation sources, leads to superior outcomes in long-term performance at the product level[^4].
 And due to the nature of this industry, significant innovations rarely go unnoticed. Developers of various sizes evaluate the successes of their peers and adjust accordingly.
 
-We are ought to see the impact of cross-play and blockchain, both being highly promising. But with blockchain being on the verge of it's Cambrian explosion, there is an extraordinary opportunity for any developer to adapt and be amongst the first pioneers in perhaps the most revolutionary technology since the Internet.
+We have yet to see the impact of cross-play and blockchain on gaming industry. And with blockchain being on the verge of its Cambrian explosion, there is an extraordinary opportunity for any developer to adapt and be amongst the first pioneers in perhaps the most revolutionary technology since the Internet.
 
 [^1]: https://www.digitalmusicnews.com/wp-content/uploads/2021/01/SuperData2020YearinReview.pdf
 [^2]: https://resources.newzoo.com/hubfs/Reports/2021_Free_Global_Games_Market_Report.pdf
