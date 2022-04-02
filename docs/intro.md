@@ -24,33 +24,25 @@ import TextStyled from "../src/components/CustomReactComponents";
 ## Abstract
 
 <p className="abstract">
-<b>Hyperblade</b> is an economic experiment in the value redistribution of creative labor. 
-It's value proposition is the fusion of a lore rich entertainment universe built around a highly accessible yet competitive fighting game, with an exploration of novel economic paradigms enabled by "Web3" technologies, ethically and equitably redistributing the unique quantized value contributed by each individual.
-Combining the lessons learned from both gaming and blockchain industries, Hyperblade augments the now common concept of Free-to-Play with tokenized Play-to-Earn rewards in a fair distribution system dubbed "Duel-to-Earn", promoting competitiveness and active participation essential for multiplayer to be vibrant and engaging.
-The community is able to earn, govern and build through "Hyperblade DAO", a decentralized blockchain-native organization, supported by governance/monetary token "Spacerock". The fundamental shift from opaque, centralized decision-making to distributed, community-first governance unlocks an entirely new plane of creativity and innovation, empowering the most talented and engaged individuals to contribute in an unrestricted, peer-supported manner.
-By adopting permissionless and uncensorable asset ownership through tokenization, including utilizing Non-Fungible Tokens ("NFT") as the main form of artistic value distribution, and open-source mentality, infrastructure and artistic advancements are not restricted to one particular platform.
-New projects can build using Hyperblade assets and infrastructure, allowing for a positive reinforcement loop for innovation, and enhanced utility for the original assets, increasing their intristic value. As the end result, Hyperblade is a self-directed project that gives back to the participants and benefits the blockchain ecosystem as a whole.
-Our goal is to shift the paradigms of the value creation, proving that community-driven approach is a sustainable way of developing highly artistic and innovative projects.
-
+<b>Hyperblade</b> is a vast, lore-rich, entertainment universe built around a highly accessible yet competitive multiplayer online fighting game, combined with an exploration of novel decentralized economic paradigms. Our goal is to create a community-driven development cycle where all revenue proceeds are redistributed equitably amongst both community members that participate in active development of the project and the players that provide real-world value to the project by consuming the resulting product.
+Combining the lessons learned from both gaming and blockchain industries, Hyperblade augments the now common concept of Play-to-Earn in a fair redistribution system dubbed **["Duel-To-Earn"](Blockchain#Duel-to-Earn)**, promoting competitiveness and active participation essential for a multiplayer game to be vibrant and engaging. The community is able to earn, govern, and build the game through "Hyperblade DAO", a decentralized blockchain-native organization, supported by a governance/monetary token "Spacerock". The fundamental shift from opaque, centralized decision-making to distributed, community-first governance unlocks an entirely new plane of creativity and innovation, empowering the most talented and engaged individuals to contribute in an unrestricted manner without a managerial structure that often restricts artistic expression in favor of monetary gain.
+By adopting permissionless and uncensorable asset ownership through tokenization, and a open-source mentality with public infrastructure, artistic and technical advancements are not restricted to one particular platform or group of developers, including the original core developers.
+New projects can be build using Hyperblade assets and infrastructure, allowing for a positive reinforcement loops of innovation, and enhanced utility for the original assets, increasing their intristic value and rewarding the original creators of the assets. The end result: Hyperblade is a self-directed project that gives back to the community by directly rewarding 
+Our goal is to shift the paradigms of the artistic value creation, proving that a community-driven development approach is a sustainable way of developing highly artistic and innovative projects.
 </p>
 
-## Creative Labor
+## Creative Labor and How to sell thin air
+The advent of internet and mobile technologies revolutionized the way we work, communicate and enjoy entertainment. However societal anti-patterns transcend technological innovation, as witnessed by the abuse of web3 technologies and the extensive scams in the NFT space. 
 
-The Digital Age, the epoch of computers, internet and mobile technologies revolutionized the way we work, communicate and enjoy entertainment. And the fundamental driving force behind those paradigms is _Innovation_.
+We believe that at the heart of blockchain lies the answer to many real-world infrastructure problems, and so our goal with this project is to explore the potential ways generative people can come together to collaborate on complex interdisciplinary projects 
 
-**Blockchain** with it's radical value proposition is shaping up to be the breakthrough that changes the way we live yet again.
-The permissionless and openness of the blockchain is, along with decentralized ownership and governance, guaranteed by the integrity smart contracts and blockchain itself, resulting in fair and equal treatment of all, thus setting the stage for a new wave of innovation starting now.
-
-And the **2021 NFT & blockchain gaming boom** is a prime example of how community can empower the creatives.
-Despite the current simplicity of blockchain games, play-to-earn and NFTs are attracting millions of players, making an enormous impact on the whole market and signifying the potential of blockchain integrated gaming. Gaming world is ready for blockchain and the unrestricted innovation and uncensorable ownership that it comes with, connecting entertainment with the latest technology once again.
-
+<!-- In theory, the goal of hyperblade should be to become -->
 _
 [Appendix](Appendix) section features an elaborate analysis of blockchain gaming and it's history, as well as the role of innovation in the video gaming industry.
 _
-
 ## The Game
 
-**Hyperblade** is an online third-person fighter focusing on player-vs-player melee combat, powered by _Unreal Engine 5_, and designed for PC, consoles and mobile platforms. The game is distributed for free online, where accounts are tied to Web3 wallet ownership.
+**Hyperblade** is an online third-person fighter focusing on player-vs-player melee combat, designed for PC, consoles and mobile platforms. The game is distributed for free online, where accounts are tied to Web3 wallet ownership.
 The premise of the game is competitive nature of the fighter genre,
 where the dynamics can be compared to the likes of _Tekken_, _Mortal Kombat_ or _Super Smash Bros_,
 and the community-first approach, building the value in and out of the game.
@@ -101,15 +93,14 @@ The cross-application interoperability, including open on-chain metadata access,
 The underlying artistic side of the NFTs allow them to be the grounds for creative expression of the community. Artists submit their created NFT art, for instance a sword or a character skin, to a community vote, items that passed the vote are then available in-game and Hyperblade Marketplace. Creatives then get a fair share from the profits from the NFTs they created, and Hyperblade gets museum quality pieces directly available in the game.
 
 ## Open Sourcing
-
 Along with security and reliability, it was the openness and unrestricted innovation that made Web3/crypto space what it is now.
 Open sourcing and free flow of ideas allow small teams to build monumental projects that would be impossible to make without the ability to stand on the shoulders of giants.
 
-Hyperblade, as a blockchain native project, is being built with same values.
+Hyperblade, as a blockchain native project, is being built with similar values.
 The planned functionality requires an extensive amount of engineering, where the technology is being developed using the available open-source code and through the collaboration with other teams, e.g. using open-source _Uniswap V2 Interface_ to build decentralized Hyperblade exchange. Hyperblade DAO acknowledges that it in the common interest to share the acquired knowledge, and therefore all of the source code will be made available in the open, combining GPLv3 licensing for common components such as Marketplace, DEX or governance modules, and delayed open-sourcing via BSL for Hyperblade's artistic part with 3 year closed-source period.
 
 ## Disclaimer
 
-This white paper serves the purpose of introducing reader to the core concepts of _Hyperblade_ and _Hyperblade DAO_. The project is in active development and the content of this document is subject to change without prior notice.
+This white paper serves the purpose of introducing reader to the core concepts of _Hyperblade_ and _Hyperblade DAO_. This project is in active development and the content of this document are subject to change without prior notice.
 
 <br/>
