@@ -19,7 +19,7 @@ Grey - Other
 
 ### Phase 0 - <Colored color="var(--ifm-color-primary)">Finished</Colored>
 
-_2019 - Dec 2021_
+_2019 - Mar 2022_
 
 - Hyperblade prototype - 'Project Blade'
 - HB vertical slice
@@ -27,7 +27,7 @@ _2019 - Dec 2021_
 
 ### Phase 1
 
-_Jan 2022 - Mar 2022_
+_Apr 2022 - Sept 2022_
 
 - Hyperblade NFT viewer app - Mobile & Web
 - Core team expansion
@@ -47,7 +47,7 @@ _Jan 2022 - Mar 2022_
 
 ### Phase 2
 
-_Apr 2022 - Sept 2022_
+_Oct 2022 - Mar 2023_
 
 - Web3 promo campaign
 - HB Beta ('pay-to-play')
@@ -61,7 +61,7 @@ _Apr 2022 - Sept 2022_
 
 ### Phase 3
 
-_Oct 2022 - 2023_
+_Apr 2023 - Oct 2023_
 
 - Fiat on-ramp/off-ramp
 - Mainstream marketing
