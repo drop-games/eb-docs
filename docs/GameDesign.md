@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# The Game
+# Game Design
 
 import ThemedImage from '@theme/ThemedImage';
 import useBaseUrl from '@docusaurus/useBaseUrl';

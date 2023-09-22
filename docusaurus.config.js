@@ -7,15 +7,15 @@ const katex = require("rehype-katex");
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 (
   module.exports = {
-    title: "Hyperblade Whitepaper",
-    tagline: "Duel to Earn",
+    title: "Hyperblade Docs",
+    tagline: "hyperblade paper",
     url: "https://docs.playhyperblade.com",
     baseUrl: "/",
     trailingSlash: false,
     onBrokenLinks: "throw",
     onBrokenMarkdownLinks: "warn",
     favicon: "img/logo.ico",
-    organizationName: "dropdao", // Usually your GitHub org/user name.
+    organizationName: "drop games", // Usually your GitHub org/user name.
     projectName: "hb-docs", // Usually your repo name.
 
     presets: [
@@ -29,7 +29,7 @@ const katex = require("rehype-katex");
             rehypePlugins: [katex],
             routeBasePath: "/",
             // Please change this to your repo.
-            editUrl: "https://github.com/dropdao/hb-docs",
+            editUrl: "https://github.com/drop-games/hb-docs",
           },
           theme: {
             customCss: require.resolve("./src/css/custom.css"),
@@ -49,7 +49,7 @@ const katex = require("rehype-katex");
       /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
       ({
         navbar: {
-          title: "Hyperblade Whitepaper",
+          title: "Hyperblade Docs",
           logo: {
             alt: "Hyperblade Logo",
             src: "img/logosimpleb.png",
@@ -76,7 +76,7 @@ const katex = require("rehype-katex");
               ],
             },
             {
-              title: "DAO links",
+              title: "links",
               items: [
                 {
                   label: "Discord",
@@ -118,7 +118,7 @@ const katex = require("rehype-katex");
               ],
             },
           ],
-          copyright: `Copyright © ${new Date().getFullYear()} Hyperblade DAO`,
+          copyright: `Copyright © ${new Date().getFullYear()} Drop Games Inc.`,
         },
         prism: {
           theme: lightCodeTheme,
