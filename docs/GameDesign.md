@@ -12,20 +12,26 @@ This section focuses on the Hyperblade as a game, explaining core mechanics, sto
 
 :::note
 **Hyperblade** game is under active development, this document might not reflect the latest state of the game and serves only educational and informational purposes.
+
 :::
 
 ## Core Gameplay
 
-Hyperblade is a third-person fighter game revolving around melee combat. The core of the game is 1v1 ranked mode that is the basis for **[Duel-to-Earn](Blockchain#timeore)**, a Play-to-Earn system rewarding players for in-game accomplishments (i.e. winning over higher ranked players).
-Hyperblade is powered by **Unreal Engine 5** and designed with all major gaming platforms in mind, which includes native cross-play support.
+Hyperblade is a third-person melee fighting game, focused on sword combat. The gameplay is inspired by titles such as _Blade-Symphony_[^1], _For Honor_[^2], _Sekiro_[^3], _JKA_[^4] The game is powered by **Unreal Engine 5** and designed with all major gaming platforms in mind, which includes native cross-play support.
 
 _Duel your opponents in a classic rounds system, you have 90 seconds in each round to defeat your opponent three times. Try other game modes such as the Lounge where you just hang out with your friends in the dojo. Play even offline battling AI or dive deep into the lore with singleplayer chapters._
+
+
+[^1]: https://store.steampowered.com/app/225600/Blade_Symphony/
+[^2]: https://store.steampowered.com/app/304390/FOR_HONOR/
+[^3]: https://store.steampowered.com/app/814380/Sekiro_Shadows_Die_Twice__GOTY_Edition/
+[^4]: https://store.steampowered.com/app/6020/STAR_WARS_Jedi_Knight__Jedi_Academy/
 
 ## Characters & Weapons
 
 Hyperblade puts a heavy emphasis on letting players find their own individualistic fighting style through "pre-match" customization and complex combat mechanics.
-Before each match, player pick the **character** they want to fight as and **primary melee weapon**.
-Every character/weapon combination plays differently than any other. Players have to figure out which combinations suit their playstyle, as well as consider the fact that every individual opponent will do the same.
+Before each match, player pick the **character** they want to fight as and a **primary melee weapon**.
+Every character/weapon combination plays differently from every other. Players have to figure out which combinations suit their playstyle, as well as consider the fact that every individual opponent will do the same.
 
 Players will be able to select any of the weapons or characters as they become available in the game for free.
 Characters and weapons accessibility is _not_ tied to player's level nor Loot Crate drops due to nature of tokenized rewards, which requires fair and balanced gameplay.
@@ -62,17 +68,11 @@ The purpose behind grouping weapons together is to increase accessibility of the
 In order to stay competitive, players now have to learn nuances of overarching weapon types instead of individual weapons (which could get overwhelming with new ones being constantly added).
 
 ## Customization
-
-Customization does not stop at the gameplay level, as Hyperblade includes rich **visual customization** available for both characters and swords, but not limited to it.
-The way we implement core customization is by going with on-chain NFTs. The NFTs can be obtained during the playthrough or on the Hyperblade Marketplace. The specifics of customization are described in [NFT](NFT) section.
-On release, visual customization will be unlocked across the game, thus giving players an opportunity to demonstrate in-game achievements or affiliation with a specific community.
-
 There are many visual attributes on each character that can be changed to players liking, including elements such as: armor pieces, clothes, auras, victory animation and emotes, etc. Yet the primary way of personalization is intended to be **weapon customization**.
 Other than being a part of a certain type, weapons can have a drastically different look to their comparable alternatives.
-Players start with a basic _Bokken_ sword[^1] and as they progress the weapons get more rare, advanced and exquisite.
+Players start with a basic sword of each type and as they progress the weapons get more rare, advanced and exquisite.
 Weapons can then be augmented with minor modifications such as an alternate sword hilt or blade material, which have a minor impact on how the weapon handles. The systems powering Hyperblade and its universe provide a way for players to both progress in the game and enjoy the items earned even outside the game in the larger blockchain **Metaverse**.
 
-[^1]: https://en.wikipedia.org/wiki/Bokken
 
 ## Key Mechanics
 
@@ -177,11 +177,7 @@ Duels feature traditional "best-of-5" rounds system, where one player has to ove
 Players enter the fight with the customized (via NFTs) character/weapon loadout of their preference, which, combined with complex combat mechanics, results in every duel being one-of-a-kind and to never be repeated again.
 
 ## Ranked
-
-The basis for the competitive gameplay in Hyperblade is **Ranked Mode**. Players will prove themselves versus equally skilled opponents picked by the built-in matchmaking system and progress through ranks as they improve their skill and invest more time into the game.
-Ranked mode serves as the mean of distribution for **[Duel-to-Earn](Blockchain#Duel-to-Earn)** tokenized rewards: **Timeore** ERC-20 token and **NFT Loot Crates**. The chance that one gets a better reward is linearly increasing as their rank increases. The top performing players can expect to get valuable NFTs that are impossible to get otherwise.
-
-To get into the Ranked, players must play 10 placement matches where they will be pitted with other fighters of varying skill levels. After that, players get their first rank assigned based on their performance. From there on, Ranked mode will be unlocked and each match there will change player's rating and therefore the kind of opponents they will face. There are 16 ranks planned, with each being progressively harder to obtain. The final rank allows players to join Hyperblade DAO hosted tournaments with prize pools.
+To get into the Ranked, players must play 10 placement matches where they will be pitted with other fighters of varying skill levels. After that, players get their first rank assigned based on their performance. From there on, Ranked mode will be unlocked and each match there will change player's rating and therefore the kind of opponents they will face. There are 16 ranks planned, with each being progressively harder to obtain.
 
 Competitive ranks are separate from the player level, and are reset every **Season**. Seasons is how the online mode is kept fresh and relevant, each brings new content and changes to gameplay, including revisions of Ranked mode. The duration of season varies on the stage of development of Hyperblade, shorter seasons (i.e. 2 months) can be expected in the beginning, the later seasons should not last longer than a year.
 
@@ -206,9 +202,6 @@ Additional functionality will be continuously introduced to the Lounge, both add
 - Team based deathmatch
 - Hero-vs-all
 - Players-vs-bots
-
-NFT customization is enabled by default and players can demonstrate their in-game achievements (or _wealth_) by having their favorite swords and armor equipped. Furthermore, the possibility to **wager NFTs in pre-arranged duels**, including betting on the outcome of other people's duels, serves as a proof-of-concept in-game NFT utility (and therefore raises their intrinsic value).
-The blockchain interactiveness (i.e. NFT wagering) is initially restricted to official servers.
 
 <TextStyled fontSize="1.3rem" fontWeight="bold" >The Tower</TextStyled>
 <br/>
